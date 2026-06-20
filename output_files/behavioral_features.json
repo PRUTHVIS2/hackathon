@@ -1,0 +1,2502 @@
+{
+  "EMP0001": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0002": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0003": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 15,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0004": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0005": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0006": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0007": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0008": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0009": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0010": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0011": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0012": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0013": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0014": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0015": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0016": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0017": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0018": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 17,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0019": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0020": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0021": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0022": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0023": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 15,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0024": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0025": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0026": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0027": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0028": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0029": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0030": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0031": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0032": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0033": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0034": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0035": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0036": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0037": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 21,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0038": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0039": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 17,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0040": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0041": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 19,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0042": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 15,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0043": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0044": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0045": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0046": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0047": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0048": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0049": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0050": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0051": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0052": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0053": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0054": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0055": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0056": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0057": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0058": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0059": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0060": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0061": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0062": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0063": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0064": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0065": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0066": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0067": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0068": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0069": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0070": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0071": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0072": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0073": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0074": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0075": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0076": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0077": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0078": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0079": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0080": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0081": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0082": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0083": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0084": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0085": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0086": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0087": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0088": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0089": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0090": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0091": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0092": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0093": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0094": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0095": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0096": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0097": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0098": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0099": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0100": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0101": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0102": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0103": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0104": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 21,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0105": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0106": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0107": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0108": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0109": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0110": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0111": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0112": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0113": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0114": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0115": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0116": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 19,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0117": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0118": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0119": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0120": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0121": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 21,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0122": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0123": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0124": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0125": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0126": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0127": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0128": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0129": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0130": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0131": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0132": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 26,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0133": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0134": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0135": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0136": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0137": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0138": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0139": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0140": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0141": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0142": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 17,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0143": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0144": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0145": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0146": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0147": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0148": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0149": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0150": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0151": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0152": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0153": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0154": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0155": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0156": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0157": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0158": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0159": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0160": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0161": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0162": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0163": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0164": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0165": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0166": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0167": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0168": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0169": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0170": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0171": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0172": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0173": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0174": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0175": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0176": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0177": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0178": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0179": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0180": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0181": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0182": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0183": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0184": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0185": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0186": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0187": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0188": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0189": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0190": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0191": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0192": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0193": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0194": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0195": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0196": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0197": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0198": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0199": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0200": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0201": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0202": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0203": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0204": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 24,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0205": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0206": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0207": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0208": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0209": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0210": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0211": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0212": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0213": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0214": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0215": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0216": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0217": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0218": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0219": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0220": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0221": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0222": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0223": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0224": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0225": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0226": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0227": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0228": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0229": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0230": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0231": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0232": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 15,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0233": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0234": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0235": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0236": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0237": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0238": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0239": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 25,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0240": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0241": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0242": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0243": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0244": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0245": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0246": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0247": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0248": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0249": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0250": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0251": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0252": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0253": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0254": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0255": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0256": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0257": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0258": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0259": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0260": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0261": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0262": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0263": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0264": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0265": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0266": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0267": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0268": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0269": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0270": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0271": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0272": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0273": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0274": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0275": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0276": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0277": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0278": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0279": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0280": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0281": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0282": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0283": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0284": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0285": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0286": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0287": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0288": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0289": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0290": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0291": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0292": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0293": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0294": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0295": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0296": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0297": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0298": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0299": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0300": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0301": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0302": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0303": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0304": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0305": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0306": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0307": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0308": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0309": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0310": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0311": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0312": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0313": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0314": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0315": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0316": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0317": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0318": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0319": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0320": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0321": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0322": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0323": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0324": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0325": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0326": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0327": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0328": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0329": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0330": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0331": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0332": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0333": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0334": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0335": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0336": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0337": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0338": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0339": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0340": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0341": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0342": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0343": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0344": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0345": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0346": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0347": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 23,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0348": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0349": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0350": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0351": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0352": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0353": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0354": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0355": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0356": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0357": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 11,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0358": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0359": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0360": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0361": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0362": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0363": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0364": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0365": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0366": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0367": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0368": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0369": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0370": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0371": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0372": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0373": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0374": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0375": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0376": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0377": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0378": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0379": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0380": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0381": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0382": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0383": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 17,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0384": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0385": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0386": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0387": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0388": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0389": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 16,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0390": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0391": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0392": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 14,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0393": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0394": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0395": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0396": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0397": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0398": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 22,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0399": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0400": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0401": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0402": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0403": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0404": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0405": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0406": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0407": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0408": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0409": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0410": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0411": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0412": {
+    "platforms_active_30d": 1,
+    "days_since_any_login": 25,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0413": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0414": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0415": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0416": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0417": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0418": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0419": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0420": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0421": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0422": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0423": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0424": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0425": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0426": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0427": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0428": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0429": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0430": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0431": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 20,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0432": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0433": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0434": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0435": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0436": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 17,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0437": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0438": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0439": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0440": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0441": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0442": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0443": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0444": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0445": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 9,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0446": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0447": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0448": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0449": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0450": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0451": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 12,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0452": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 13,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0453": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0454": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0455": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0456": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0457": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0458": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0459": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0460": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0461": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0462": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0463": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0464": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 1,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0465": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 18,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0466": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0467": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0468": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0469": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 2,
+    "anomalous_ip_flags": 1
+  },
+  "EMP0470": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0471": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0472": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0473": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0474": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0475": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0476": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0477": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 10,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0478": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0479": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 22,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0480": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0481": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 3,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0482": {
+    "platforms_active_30d": 2,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0483": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 8,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0484": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0485": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 5,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0486": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0487": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0488": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 23,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0489": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 19,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0490": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0491": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0492": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0493": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 6,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0494": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0495": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0496": {
+    "platforms_active_30d": 4,
+    "days_since_any_login": 7,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0497": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0498": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 15,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0499": {
+    "platforms_active_30d": 0,
+    "days_since_any_login": 999,
+    "anomalous_ip_flags": 0
+  },
+  "EMP0500": {
+    "platforms_active_30d": 3,
+    "days_since_any_login": 4,
+    "anomalous_ip_flags": 0
+  }
+}

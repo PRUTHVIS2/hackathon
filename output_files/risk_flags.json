@@ -1,0 +1,1759 @@
+{
+  "EMP0001": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-10, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-10, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-10, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0002": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-05-01, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-05-01, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-05-01, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0003": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-04-28, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-04-28, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-04-28, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0004": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable ad account immediately - terminated 2026-06-09, still Active",
+      "platform": "ad"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-09, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-09, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-09, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0005": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable ad account immediately - terminated 2026-06-10, still Active",
+      "platform": "ad"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-10, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-10, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-10, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0006": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-04-27, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-04-27, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-04-27, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0007": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-05, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-05, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-05, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0008": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-05, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-05, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-05, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0009": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-04-25, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-04-25, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-04-25, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0010": [],
+  "EMP0011": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-05-19, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-05-19, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-05-19, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0012": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-06-06, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-06, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-06, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0013": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable ad account immediately - terminated 2026-05-30, still Active",
+      "platform": "ad"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-05-30, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-05-30, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-05-30, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0014": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-06-05, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-06-05, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0015": [
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable aws account immediately - terminated 2026-05-27, still Active",
+      "platform": "aws"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable okta account immediately - terminated 2026-05-27, still Active",
+      "platform": "okta"
+    },
+    {
+      "rule": "Offboarding Gap",
+      "severity": "High",
+      "evidence": "Disable salesforce account immediately - terminated 2026-05-27, still Active",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0016": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0017": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0018": [],
+  "EMP0019": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0020": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0021": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0022": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0023": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0024": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0025": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0026": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 186 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0027": [],
+  "EMP0028": [],
+  "EMP0029": [],
+  "EMP0030": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 138 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0031": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 153 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0032": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 191 days",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0033": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 493 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 440 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0034": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 200 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0035": [],
+  "EMP0036": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 150 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0037": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 124 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0038": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 170 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0039": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 129 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0040": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 439 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 158 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0041": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 159 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0042": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 157 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0043": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 199 days",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0044": [],
+  "EMP0045": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 177 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0046": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0047": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0048": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0049": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0050": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0051": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0052": [
+    {
+      "rule": "Service Account Abuse",
+      "severity": "Critical",
+      "evidence": "Audit owner/justification for service account admin grant on ad; possible interactive abuse",
+      "platform": "ad"
+    },
+    {
+      "rule": "Service Account Abuse",
+      "severity": "Critical",
+      "evidence": "Audit owner/justification for service account admin grant on aws; possible interactive abuse",
+      "platform": "aws"
+    },
+    {
+      "rule": "Service Account Abuse",
+      "severity": "Critical",
+      "evidence": "Audit owner/justification for service account admin grant on salesforce; possible interactive abuse",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0053": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0054": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0055": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0056": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0057": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0058": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0059": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0060": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0061": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0062": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0063": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0064": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0065": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0066": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0067": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0068": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0069": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0070": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on aws",
+      "platform": "aws"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on okta",
+      "platform": "okta"
+    },
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 5 admin on salesforce",
+      "platform": "salesforce"
+    },
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0071": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 427 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 410 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0072": [],
+  "EMP0073": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 474 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0074": [],
+  "EMP0075": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 376 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 476 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0076": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 376 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 410 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0077": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 389 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 486 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0078": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 468 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0079": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 497 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 366 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0080": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0081": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 427 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 406 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0082": [],
+  "EMP0083": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 414 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 496 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0084": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 366 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0085": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 462 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 482 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0086": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 464 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0087": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 478 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 391 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0088": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 452 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 467 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0089": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 426 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0090": [],
+  "EMP0091": [],
+  "EMP0092": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 493 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0093": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 439 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 406 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0094": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 464 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0095": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 467 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 436 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0096": [],
+  "EMP0097": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate Access Key on aws - 478 days old",
+      "platform": "aws"
+    },
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 374 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0098": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 399 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0099": [
+    {
+      "rule": "Old Credentials",
+      "severity": "Medium",
+      "evidence": "Rotate API token on salesforce - 485 days old",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0100": [],
+  "EMP0101": [],
+  "EMP0102": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0103": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0104": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0105": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0106": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0107": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0108": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0109": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0110": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0111": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, okta; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0112": [],
+  "EMP0113": [],
+  "EMP0114": [],
+  "EMP0115": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on aws, okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0116": [],
+  "EMP0117": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, aws, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0118": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on okta, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0119": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, okta; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0120": [
+    {
+      "rule": "Cross-Platform Admin",
+      "severity": "Critical",
+      "evidence": "Review necessity of admin access on ad, salesforce; consider reducing to least-privilege",
+      "platform": "multiple"
+    }
+  ],
+  "EMP0121": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 291 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0122": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 245 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0123": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 255 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0124": [],
+  "EMP0125": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 277 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0126": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 252 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0127": [],
+  "EMP0128": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 246 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0129": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify ad admin access - inactive 218 days",
+      "platform": "ad"
+    }
+  ],
+  "EMP0130": [],
+  "EMP0131": [],
+  "EMP0132": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify salesforce admin access - inactive 240 days",
+      "platform": "salesforce"
+    }
+  ],
+  "EMP0133": [
+    {
+      "rule": "Dormant Admin",
+      "severity": "High",
+      "evidence": "Disable or re-certify okta admin access - inactive 187 days",
+      "platform": "okta"
+    }
+  ],
+  "EMP0134": [],
+  "EMP0135": [],
+  "EMP0136": [],
+  "EMP0137": [],
+  "EMP0138": [],
+  "EMP0139": [],
+  "EMP0140": [],
+  "EMP0141": [],
+  "EMP0142": [],
+  "EMP0143": [],
+  "EMP0144": [],
+  "EMP0145": [],
+  "EMP0146": [],
+  "EMP0147": [],
+  "EMP0148": [],
+  "EMP0149": [],
+  "EMP0150": [],
+  "EMP0151": [],
+  "EMP0152": [],
+  "EMP0153": [],
+  "EMP0154": [],
+  "EMP0155": [],
+  "EMP0156": [],
+  "EMP0157": [],
+  "EMP0158": [],
+  "EMP0159": [],
+  "EMP0160": [],
+  "EMP0161": [],
+  "EMP0162": [],
+  "EMP0163": [],
+  "EMP0164": [],
+  "EMP0165": [],
+  "EMP0166": [],
+  "EMP0167": [],
+  "EMP0168": [],
+  "EMP0169": [],
+  "EMP0170": [],
+  "EMP0171": [],
+  "EMP0172": [],
+  "EMP0173": [],
+  "EMP0174": [],
+  "EMP0175": [],
+  "EMP0176": [],
+  "EMP0177": [],
+  "EMP0178": [],
+  "EMP0179": [],
+  "EMP0180": [],
+  "EMP0181": [],
+  "EMP0182": [],
+  "EMP0183": [],
+  "EMP0184": [],
+  "EMP0185": [],
+  "EMP0186": [],
+  "EMP0187": [],
+  "EMP0188": [],
+  "EMP0189": [],
+  "EMP0190": [],
+  "EMP0191": [],
+  "EMP0192": [],
+  "EMP0193": [],
+  "EMP0194": [],
+  "EMP0195": [],
+  "EMP0196": [],
+  "EMP0197": [],
+  "EMP0198": [],
+  "EMP0199": [],
+  "EMP0200": [],
+  "EMP0201": [],
+  "EMP0202": [],
+  "EMP0203": [],
+  "EMP0204": [],
+  "EMP0205": [],
+  "EMP0206": [],
+  "EMP0207": [],
+  "EMP0208": [],
+  "EMP0209": [],
+  "EMP0210": [],
+  "EMP0211": [],
+  "EMP0212": [],
+  "EMP0213": [],
+  "EMP0214": [],
+  "EMP0215": [],
+  "EMP0216": [],
+  "EMP0217": [],
+  "EMP0218": [],
+  "EMP0219": [
+    {
+      "rule": "Contractor Admin",
+      "severity": "Medium",
+      "evidence": "Escalate for manager review: contractor holds level 4 admin on ad",
+      "platform": "ad"
+    }
+  ],
+  "EMP0220": [],
+  "EMP0221": [],
+  "EMP0222": [],
+  "EMP0223": [],
+  "EMP0224": [],
+  "EMP0225": [],
+  "EMP0226": [],
+  "EMP0227": [],
+  "EMP0228": [],
+  "EMP0229": [],
+  "EMP0230": [],
+  "EMP0231": [],
+  "EMP0232": [],
+  "EMP0233": [],
+  "EMP0234": [],
+  "EMP0235": [],
+  "EMP0236": [],
+  "EMP0237": [],
+  "EMP0238": [],
+  "EMP0239": [],
+  "EMP0240": [],
+  "EMP0241": [],
+  "EMP0242": [],
+  "EMP0243": [],
+  "EMP0244": [],
+  "EMP0245": [],
+  "EMP0246": [],
+  "EMP0247": [],
+  "EMP0248": [],
+  "EMP0249": [],
+  "EMP0250": [],
+  "EMP0251": [],
+  "EMP0252": [],
+  "EMP0253": [],
+  "EMP0254": [],
+  "EMP0255": [],
+  "EMP0256": [],
+  "EMP0257": [],
+  "EMP0258": [],
+  "EMP0259": [],
+  "EMP0260": [],
+  "EMP0261": [],
+  "EMP0262": [],
+  "EMP0263": [],
+  "EMP0264": [],
+  "EMP0265": [],
+  "EMP0266": [],
+  "EMP0267": [],
+  "EMP0268": [],
+  "EMP0269": [],
+  "EMP0270": [],
+  "EMP0271": [],
+  "EMP0272": [],
+  "EMP0273": [],
+  "EMP0274": [],
+  "EMP0275": [],
+  "EMP0276": [],
+  "EMP0277": [],
+  "EMP0278": [],
+  "EMP0279": [],
+  "EMP0280": [],
+  "EMP0281": [],
+  "EMP0282": [],
+  "EMP0283": [],
+  "EMP0284": [],
+  "EMP0285": [],
+  "EMP0286": [],
+  "EMP0287": [],
+  "EMP0288": [],
+  "EMP0289": [],
+  "EMP0290": [],
+  "EMP0291": [],
+  "EMP0292": [],
+  "EMP0293": [],
+  "EMP0294": [],
+  "EMP0295": [],
+  "EMP0296": [],
+  "EMP0297": [],
+  "EMP0298": [],
+  "EMP0299": [],
+  "EMP0300": [],
+  "EMP0301": [],
+  "EMP0302": [],
+  "EMP0303": [],
+  "EMP0304": [],
+  "EMP0305": [],
+  "EMP0306": [],
+  "EMP0307": [],
+  "EMP0308": [],
+  "EMP0309": [],
+  "EMP0310": [],
+  "EMP0311": [],
+  "EMP0312": [],
+  "EMP0313": [],
+  "EMP0314": [],
+  "EMP0315": [],
+  "EMP0316": [],
+  "EMP0317": [],
+  "EMP0318": [],
+  "EMP0319": [],
+  "EMP0320": [],
+  "EMP0321": [],
+  "EMP0322": [],
+  "EMP0323": [],
+  "EMP0324": [],
+  "EMP0325": [],
+  "EMP0326": [],
+  "EMP0327": [],
+  "EMP0328": [],
+  "EMP0329": [],
+  "EMP0330": [],
+  "EMP0331": [],
+  "EMP0332": [],
+  "EMP0333": [],
+  "EMP0334": [],
+  "EMP0335": [],
+  "EMP0336": [],
+  "EMP0337": [],
+  "EMP0338": [],
+  "EMP0339": [],
+  "EMP0340": [],
+  "EMP0341": [],
+  "EMP0342": [],
+  "EMP0343": [],
+  "EMP0344": [],
+  "EMP0345": [],
+  "EMP0346": [],
+  "EMP0347": [],
+  "EMP0348": [],
+  "EMP0349": [],
+  "EMP0350": [],
+  "EMP0351": [],
+  "EMP0352": [],
+  "EMP0353": [],
+  "EMP0354": [],
+  "EMP0355": [],
+  "EMP0356": [],
+  "EMP0357": [],
+  "EMP0358": [],
+  "EMP0359": [],
+  "EMP0360": [],
+  "EMP0361": [],
+  "EMP0362": [],
+  "EMP0363": [],
+  "EMP0364": [],
+  "EMP0365": [],
+  "EMP0366": [],
+  "EMP0367": [],
+  "EMP0368": [],
+  "EMP0369": [],
+  "EMP0370": [],
+  "EMP0371": [],
+  "EMP0372": [],
+  "EMP0373": [],
+  "EMP0374": [],
+  "EMP0375": [],
+  "EMP0376": [],
+  "EMP0377": [],
+  "EMP0378": [],
+  "EMP0379": [],
+  "EMP0380": [],
+  "EMP0381": [],
+  "EMP0382": [],
+  "EMP0383": [],
+  "EMP0384": [],
+  "EMP0385": [],
+  "EMP0386": [],
+  "EMP0387": [],
+  "EMP0388": [],
+  "EMP0389": [],
+  "EMP0390": [],
+  "EMP0391": [],
+  "EMP0392": [],
+  "EMP0393": [],
+  "EMP0394": [],
+  "EMP0395": [],
+  "EMP0396": [],
+  "EMP0397": [],
+  "EMP0398": [],
+  "EMP0399": [],
+  "EMP0400": [],
+  "EMP0401": [],
+  "EMP0402": [],
+  "EMP0403": [],
+  "EMP0404": [],
+  "EMP0405": [],
+  "EMP0406": [],
+  "EMP0407": [],
+  "EMP0408": [],
+  "EMP0409": [],
+  "EMP0410": [],
+  "EMP0411": [],
+  "EMP0412": [],
+  "EMP0413": [],
+  "EMP0414": [],
+  "EMP0415": [],
+  "EMP0416": [],
+  "EMP0417": [],
+  "EMP0418": [],
+  "EMP0419": [],
+  "EMP0420": [],
+  "EMP0421": [],
+  "EMP0422": [],
+  "EMP0423": [],
+  "EMP0424": [],
+  "EMP0425": [],
+  "EMP0426": [],
+  "EMP0427": [],
+  "EMP0428": [],
+  "EMP0429": [],
+  "EMP0430": [],
+  "EMP0431": [],
+  "EMP0432": [],
+  "EMP0433": [],
+  "EMP0434": [],
+  "EMP0435": [],
+  "EMP0436": [],
+  "EMP0437": [],
+  "EMP0438": [],
+  "EMP0439": [],
+  "EMP0440": [],
+  "EMP0441": [],
+  "EMP0442": [],
+  "EMP0443": [],
+  "EMP0444": [],
+  "EMP0445": [],
+  "EMP0446": [],
+  "EMP0447": [],
+  "EMP0448": [],
+  "EMP0449": [],
+  "EMP0450": [],
+  "EMP0451": [],
+  "EMP0452": [],
+  "EMP0453": [],
+  "EMP0454": [],
+  "EMP0455": [],
+  "EMP0456": [],
+  "EMP0457": [],
+  "EMP0458": [],
+  "EMP0459": [],
+  "EMP0460": [],
+  "EMP0461": [],
+  "EMP0462": [],
+  "EMP0463": [],
+  "EMP0464": [],
+  "EMP0465": [],
+  "EMP0466": [],
+  "EMP0467": [],
+  "EMP0468": [],
+  "EMP0469": [],
+  "EMP0470": [],
+  "EMP0471": [],
+  "EMP0472": [],
+  "EMP0473": [],
+  "EMP0474": [],
+  "EMP0475": [],
+  "EMP0476": [],
+  "EMP0477": [],
+  "EMP0478": [],
+  "EMP0479": [],
+  "EMP0480": [],
+  "EMP0481": [],
+  "EMP0482": [],
+  "EMP0483": [],
+  "EMP0484": [],
+  "EMP0485": [],
+  "EMP0486": [],
+  "EMP0487": [],
+  "EMP0488": [],
+  "EMP0489": [],
+  "EMP0490": [],
+  "EMP0491": [],
+  "EMP0492": [],
+  "EMP0493": [],
+  "EMP0494": [],
+  "EMP0495": [],
+  "EMP0496": [],
+  "EMP0497": [],
+  "EMP0498": [],
+  "EMP0499": [],
+  "EMP0500": []
+}
