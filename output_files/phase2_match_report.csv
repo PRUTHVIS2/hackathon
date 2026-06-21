@@ -181,7 +181,7 @@ ad,frank.carter,EMP0099,EMP0099,1.05,Correct
 ad,evelyn.ruiz,EMP0100,EMP0100,1.05,Correct
 ad,aaron.hill,EMP0101,EMP0101,1.05,Correct
 ad,linda.hall,EMP0102,EMP0102,1.05,Correct
-ad,jonathan.chavez,EMP0103,EMP0103,1.05 (Collision),Correct
+ad,jonathan.chavez,EMP0103,EMP0103,1.05,Correct
 ad,lucy.morales,EMP0104,EMP0104,1.05,Correct
 ad,scarlett.coleman,EMP0105,EMP0105,1.05,Correct
 ad,anthony.sanders,EMP0106,EMP0106,1.05,Correct
@@ -497,7 +497,7 @@ ad,maria.henderson,EMP0415,EMP0415,1.05,Correct
 ad,peter.king,EMP0046,EMP0416,1.05 (Collision),Incorrect
 ad,linda.phillips,EMP0417,EMP0417,1.05,Correct
 ad,mark.campbell,EMP0418,EMP0418,1.05,Correct
-ad,jonathan.edwards,EMP0329,EMP0419,1.05 (Collision),Incorrect
+ad,jonathan.edwards,EMP0419,EMP0419,1.05,Correct
 ad,joseph.gomez,EMP0420,EMP0420,1.05,Correct
 aws,svc-001,SVC001,SVC001,1.0,Correct
 aws,svc-002,SVC002,SVC002,1.0,Correct
@@ -527,14 +527,14 @@ aws,svc-028,SVC028,SVC028,1.0,Correct
 aws,svc-029,SVC029,SVC029,1.0,Correct
 aws,c_sanderson,CON001,CON001,0.9500000000000001,Correct
 aws,c_kpatel,CON002,CON002,0.9500000000000001,Correct
-aws,c_rjones,CON003,CON003,0.9500000000000001 (Collision),Correct
+aws,c_rjones,CON003,CON003,0.9500000000000001,Correct
 aws,c_jcox,CON004,CON004,0.9500000000000001,Correct
 aws,c_srussell,CON006,CON006,0.9500000000000001,Correct
-aws,c_kscott,CON007,CON007,0.9500000000000001 (Collision),Correct
+aws,c_kscott,CON007,CON007,0.9500000000000001,Correct
 aws,c_aking,CON009,CON009,0.9500000000000001,Correct
 aws,c_jrodriguez,CON012,CON012,0.9500000000000001,Correct
 aws,c_anguyen,CON013,CON013,0.9500000000000001,Correct
-aws,c_jhughes,CON005,CON016,0.9500000000000001 (Collision),Incorrect
+aws,c_jhughes,CON016,CON016,0.9500000000000001,Correct
 aws,c_nfoster,CON019,CON019,0.9500000000000001,Correct
 aws,c_wgonzales,CON026,CON026,0.9500000000000001,Correct
 aws,c_jgonzales,CON029,CON029,0.9500000000000001,Correct
@@ -546,159 +546,159 @@ aws,c_lfoster,CON039,CON039,0.9500000000000001,Correct
 aws,c_npeterson,CON040,CON040,0.9500000000000001,Correct
 aws,c_jmartinez,CON046,CON046,0.9500000000000001,Correct
 aws,jreyes,EMP0002,EMP0002,0.9500000000000001,Correct
-aws,lbaker,EMP0003,EMP0003,0.9500000000000001 (Collision),Correct
-aws,ledwards,EMP0004,EMP0004,0.9500000000000001 (Collision),Correct
-aws,oyoung,EMP0005,EMP0005,0.9500000000000001 (Collision),Correct
+aws,lbaker,EMP0003,EMP0003,0.9500000000000001,Correct
+aws,ledwards,EMP0004,EMP0004,0.9500000000000001,Correct
+aws,oyoung,EMP0005,EMP0005,0.9500000000000001,Correct
 aws,wwood,EMP0006,EMP0006,0.9500000000000001,Correct
-aws,lcarter,EMP0008,EMP0008,0.9500000000000001 (Collision),Correct
+aws,lcarter,EMP0008,EMP0008,0.9500000000000001,Correct
 aws,amorales,EMP0010,EMP0010,0.9500000000000001 (Collision),Correct
 aws,phoward,EMP0011,EMP0011,0.9500000000000001 (Collision),Correct
 aws,bmorris,EMP0012,EMP0012,0.9500000000000001,Correct
-aws,dwhite,EMP0013,EMP0013,0.9500000000000001 (Collision),Correct
+aws,dwhite,EMP0013,EMP0013,0.9500000000000001,Correct
 aws,wlong,EMP0018,EMP0018,0.9500000000000001,Correct
 aws,ereed,EMP0019,EMP0019,0.9500000000000001,Correct
-aws,randerson,EMP0024,EMP0024,0.9500000000000001 (Collision),Correct
+aws,randerson,EMP0024,EMP0024,0.9500000000000001,Correct
 aws,ahenderson,EMP0027,EMP0027,0.9500000000000001,Correct
-aws,gfoster,EMP0029,EMP0029,0.9500000000000001 (Collision),Correct
-aws,tmartinez,EMP0031,EMP0031,0.9500000000000001 (Collision),Correct
+aws,gfoster,EMP0029,EMP0029,0.9500000000000001,Correct
+aws,tmartinez,EMP0031,EMP0031,0.9500000000000001,Correct
 aws,hmitchell,EMP0032,EMP0032,0.9500000000000001 (Collision),Correct
 aws,zlee,EMP0036,EMP0036,0.9500000000000001 (Collision),Correct
-aws,jhughes,EMP0039,EMP0039,0.9500000000000001 (Collision),Correct
+aws,jhughes,EMP0039,EMP0039,0.9500000000000001,Correct
 aws,pking,EMP0046,EMP0046,0.9500000000000001 (Collision),Correct
 aws,jparker,EMP0050,EMP0050,0.9500000000000001 (Collision),Correct
 aws,mpeterson,EMP0055,EMP0055,0.9500000000000001,Correct
 aws,ccarter,EMP0056,EMP0056,0.9500000000000001 (Collision),Correct
 aws,apeterson,EMP0057,EMP0057,0.9500000000000001 (Collision),Correct
-aws,ljenkins,EMP0060,EMP0060,0.9500000000000001 (Collision),Correct
-aws,hjackson,EMP0063,EMP0063,0.9500000000000001 (Collision),Correct
-aws,nward,EMP0064,EMP0064,0.9500000000000001 (Collision),Correct
-aws,ayoung,EMP0005,EMP0066,0.9500000000000001 (Collision),Incorrect
-aws,zfoster,EMP0067,EMP0067,0.9500000000000001 (Collision),Correct
+aws,ljenkins,EMP0060,EMP0060,0.9500000000000001,Correct
+aws,hjackson,EMP0063,EMP0063,0.9500000000000001,Correct
+aws,nward,EMP0064,EMP0064,0.9500000000000001,Correct
+aws,ayoung,EMP0066,EMP0066,0.9500000000000001,Correct
+aws,zfoster,EMP0067,EMP0067,0.9500000000000001,Correct
 aws,chenderson,EMP0069,EMP0069,0.9500000000000001,Correct
-aws,bcooper,EMP0076,EMP0076,0.9500000000000001 (Collision),Correct
+aws,bcooper,EMP0076,EMP0076,0.9500000000000001,Correct
 aws,droberts,EMP0077,EMP0077,0.9500000000000001,Correct
 aws,sfoster,EMP0080,EMP0080,0.9500000000000001,Correct
-aws,ataylor,EMP0086,EMP0086,0.9500000000000001 (Collision),Correct
-aws,sjames,EMP0001,EMP0087,0.9500000000000001 (Collision),Incorrect
-aws,rmyers,EMP0092,EMP0092,0.9500000000000001 (Collision),Correct
-aws,grodriguez,EMP0093,EMP0093,0.9500000000000001 (Collision),Correct
+aws,ataylor,EMP0086,EMP0086,0.9500000000000001,Correct
+aws,sjames,EMP0087,EMP0087,0.9500000000000001,Correct
+aws,rmyers,EMP0092,EMP0092,0.9500000000000001,Correct
+aws,grodriguez,EMP0093,EMP0093,0.9500000000000001,Correct
 aws,hbutler,EMP0094,EMP0094,0.9500000000000001,Correct
-aws,cstewart,EMP0095,EMP0095,0.9500000000000001 (Collision),Correct
+aws,cstewart,EMP0095,EMP0095,0.9500000000000001,Correct
 aws,acox,EMP0097,EMP0097,0.9500000000000001,Correct
-aws,jhoward,EMP0098,EMP0098,0.9500000000000001 (Collision),Correct
+aws,jhoward,EMP0098,EMP0098,0.9500000000000001,Correct
 aws,ahill,EMP0101,EMP0101,0.9500000000000001,Correct
-aws,lmorales,EMP0010,EMP0104,0.9500000000000001 (Collision),Incorrect
-aws,hyoung,EMP0005,EMP0108,0.9500000000000001 (Collision),Incorrect
+aws,lmorales,EMP0104,EMP0104,0.9500000000000001,Correct
+aws,hyoung,EMP0108,EMP0108,0.9500000000000001,Correct
 aws,dadams,EMP0111,EMP0111,0.9500000000000001 (Collision),Correct
 aws,sharris,EMP0114,EMP0114,0.9500000000000001 (Collision),Correct
-aws,arobinson,EMP0121,EMP0121,0.9500000000000001 (Collision),Correct
-aws,smyers,EMP0092,EMP0122,0.9500000000000001 (Collision),Incorrect
-aws,jnguyen,EMP0127,EMP0127,0.9500000000000001 (Collision),Correct
-aws,jbaker,EMP0090,EMP0129,0.9500000000000001 (Collision),Incorrect
+aws,arobinson,EMP0121,EMP0121,0.9500000000000001,Correct
+aws,smyers,EMP0122,EMP0122,0.9500000000000001,Correct
+aws,jnguyen,EMP0127,EMP0127,0.9500000000000001,Correct
+aws,jbaker,EMP0129,EMP0129,0.9500000000000001 (Collision),Correct
 aws,zmorris,EMP0130,EMP0130,0.9500000000000001,Correct
-aws,emartinez,EMP0031,EMP0131,0.9500000000000001 (Collision),Incorrect
-aws,edavis,EMP0079,EMP0136,0.9500000000000001 (Collision),Incorrect
+aws,emartinez,EMP0131,EMP0131,0.9500000000000001,Correct
+aws,edavis,EMP0136,EMP0136,0.9500000000000001 (Collision),Correct
 aws,sking,EMP0137,EMP0137,0.9500000000000001,Correct
 aws,apeterson,EMP0057,EMP0138,0.9500000000000001 (Collision),Incorrect
-aws,ljackson,EMP0143,EMP0143,0.9500000000000001 (Collision),Correct
+aws,ljackson,EMP0143,EMP0143,0.9500000000000001,Correct
 aws,abrown,EMP0148,EMP0148,0.9500000000000001,Correct
-aws,ngonzales,EMP0149,EMP0149,0.9500000000000001 (Collision),Correct
+aws,ngonzales,EMP0149,EMP0149,0.9500000000000001,Correct
 aws,lross,EMP0150,EMP0150,0.9500000000000001,Correct
-aws,jbarnes,EMP0082,EMP0154,0.9500000000000001 (Collision),Incorrect
+aws,jbarnes,EMP0154,EMP0154,0.9500000000000001,Correct
 aws,zpeterson,EMP0156,EMP0156,0.9500000000000001,Correct
-aws,agonzales,EMP0149,EMP0158,0.9500000000000001 (Collision),Incorrect
+aws,agonzales,EMP0158,EMP0158,0.9500000000000001 (Collision),Correct
 aws,ccollins,EMP0168,EMP0168,0.9500000000000001,Correct
 aws,akim,EMP0169,EMP0169,0.9500000000000001,Correct
 aws,jwright,EMP0167,EMP0171,0.9500000000000001 (Collision),Incorrect
 aws,lbell,EMP0178,EMP0178,0.9500000000000001,Correct
-aws,devans,EMP0078,EMP0181,0.9500000000000001 (Collision),Incorrect
+aws,devans,EMP0181,EMP0181,0.9500000000000001,Correct
 aws,sprice,EMP0187,EMP0187,0.9500000000000001,Correct
 aws,rhill,EMP0188,EMP0188,0.9500000000000001,Correct
-aws,smendoza,EMP0034,EMP0191,0.9500000000000001 (Collision),Incorrect
-aws,ehoward,EMP0192,EMP0193,0.9500000000000001 (Collision),Incorrect
+aws,smendoza,EMP0191,EMP0191,0.9500000000000001,Correct
+aws,ehoward,EMP0193,EMP0193,0.9500000000000001,Correct
 aws,clee,EMP0196,EMP0196,0.9500000000000001,Correct
-aws,jscott,EMP0201,EMP0201,0.9500000000000001 (Collision),Correct
-aws,pmyers,EMP0092,EMP0202,0.9500000000000001 (Collision),Incorrect
-aws,jwatson,EMP0065,EMP0205,0.9500000000000001 (Collision),Incorrect
+aws,jscott,EMP0201,EMP0201,0.9500000000000001,Correct
+aws,pmyers,EMP0202,EMP0202,0.9500000000000001,Correct
+aws,jwatson,EMP0163,EMP0205,0.9500000000000001 (Collision),Incorrect
 aws,ewright,EMP0209,EMP0209,0.9500000000000001,Correct
-aws,acampbell,EMP0178,EMP0212,0.9500000000000001 (Collision),Incorrect
+aws,acampbell,EMP0212,EMP0212,0.9500000000000001,Correct
 aws,rmorgan,EMP0213,EMP0213,0.9500000000000001,Correct
-aws,dstewart,EMP0177,EMP0216,0.9500000000000001 (Collision),Incorrect
+aws,dstewart,EMP0216,EMP0216,0.9500000000000001,Correct
 aws,kgarcia,EMP0219,EMP0219,0.9500000000000001,Correct
-aws,emyers,EMP0092,EMP0222,0.9500000000000001 (Collision),Incorrect
+aws,emyers,EMP0222,EMP0222,0.9500000000000001,Correct
 aws,sharris,EMP0114,EMP0227,0.9500000000000001 (Collision),Incorrect
-aws,pramirez,EMP0228,EMP0228,0.9500000000000001 (Collision),Correct
-aws,gyoung,EMP0005,EMP0229,0.9500000000000001 (Collision),Incorrect
+aws,pramirez,EMP0228,EMP0228,0.9500000000000001,Correct
+aws,gyoung,EMP0229,EMP0229,0.9500000000000001,Correct
 aws,skim,EMP0232,EMP0232,0.9500000000000001,Correct
-aws,pgonzales,EMP0149,EMP0234,0.9500000000000001 (Collision),Incorrect
+aws,pgonzales,EMP0234,EMP0234,0.9500000000000001,Correct
 aws,aking,EMP0236,EMP0236,0.9500000000000001,Correct
 aws,aortiz,EMP0237,EMP0237,0.9500000000000001 (Collision),Correct
-aws,bgonzalez,EMP0246,EMP0246,0.9500000000000001 (Collision),Correct
-aws,wstewart,EMP0177,EMP0251,0.9500000000000001 (Collision),Incorrect
+aws,bgonzalez,EMP0246,EMP0246,0.9500000000000001,Correct
+aws,wstewart,EMP0251,EMP0251,0.9500000000000001,Correct
 aws,sparker,EMP0252,EMP0252,0.9500000000000001,Correct
 aws,cbailey,EMP0253,EMP0253,0.9500000000000001,Correct
 aws,gbennett,EMP0254,EMP0254,0.9500000000000001,Correct
-aws,jramirez,EMP0247,EMP0257,0.9500000000000001 (Collision),Incorrect
+aws,jramirez,EMP0257,EMP0257,0.9500000000000001,Correct
 aws,adiaz,EMP0260,EMP0260,0.9500000000000001,Correct
-aws,jwhite,EMP0262,EMP0262,0.9500000000000001 (Collision),Correct
-aws,arodriguez,EMP0093,EMP0263,0.9500000000000001 (Collision),Incorrect
-aws,gbaker,EMP0090,EMP0265,0.9500000000000001 (Collision),Incorrect
+aws,jwhite,EMP0262,EMP0262,0.9500000000000001,Correct
+aws,arodriguez,EMP0263,EMP0263,0.9500000000000001,Correct
+aws,gbaker,EMP0265,EMP0265,0.9500000000000001,Correct
 aws,dadams,EMP0111,EMP0266,0.9500000000000001 (Collision),Incorrect
 aws,mlong,EMP0267,EMP0267,0.9500000000000001,Correct
-aws,zpatel,EMP0037,EMP0278,0.9500000000000001 (Collision),Incorrect
+aws,zpatel,EMP0278,EMP0278,0.9500000000000001,Correct
 aws,aortiz,EMP0237,EMP0284,0.9500000000000001 (Collision),Incorrect
-aws,lmartinez,EMP0031,EMP0286,0.9500000000000001 (Collision),Incorrect
+aws,lmartinez,EMP0286,EMP0286,0.9500000000000001,Correct
 aws,nchavez,EMP0288,EMP0288,0.9500000000000001,Correct
 aws,nross,EMP0290,EMP0290,0.9500000000000001,Correct
-aws,agonzales,EMP0149,EMP0297,0.9500000000000001 (Collision),Incorrect
-aws,ohoward,EMP0192,EMP0298,0.9500000000000001 (Collision),Incorrect
-aws,ncook,EMP0179,EMP0300,0.9500000000000001 (Collision),Incorrect
+aws,agonzales,EMP0158,EMP0297,0.9500000000000001 (Collision),Incorrect
+aws,ohoward,EMP0298,EMP0298,0.9500000000000001,Correct
+aws,ncook,EMP0300,EMP0300,0.9500000000000001,Correct
 aws,athompson,EMP0302,EMP0302,0.9500000000000001,Correct
 aws,jcruz,EMP0030,EMP0303,0.9500000000000001 (Collision),Incorrect
 aws,kgray,EMP0271,EMP0305,0.9500000000000001 (Collision),Incorrect
-aws,dbarnes,EMP0082,EMP0307,0.9500000000000001 (Collision),Incorrect
-aws,bjames,EMP0001,EMP0308,0.9500000000000001 (Collision),Incorrect
+aws,dbarnes,EMP0176,EMP0307,0.9500000000000001 (Collision),Incorrect
+aws,bjames,EMP0308,EMP0308,0.9500000000000001,Correct
 aws,rcoleman,EMP0028,EMP0312,0.9500000000000001 (Collision),Incorrect
 aws,kmartin,EMP0315,EMP0315,0.9500000000000001,Correct
-aws,jcook,EMP0179,EMP0316,0.9500000000000001 (Collision),Incorrect
+aws,jcook,EMP0316,EMP0316,0.9500000000000001,Correct
 aws,bcoleman,EMP0318,EMP0318,0.9500000000000001,Correct
 aws,swilson,EMP0326,EMP0326,0.9500000000000001,Correct
-aws,nmurphy,EMP0155,EMP0339,0.9500000000000001 (Collision),Incorrect
+aws,nmurphy,EMP0339,EMP0339,0.9500000000000001,Correct
 aws,palvarez,EMP0340,EMP0340,0.9500000000000001,Correct
-aws,awhite,EMP0342,EMP0342,0.9500000000000001 (Collision),Correct
+aws,awhite,EMP0342,EMP0342,0.9500000000000001,Correct
 aws,dortiz,EMP0343,EMP0343,0.9500000000000001,Correct
-aws,psanders,EMP0106,EMP0346,0.9500000000000001 (Collision),Incorrect
+aws,psanders,EMP0346,EMP0346,0.9500000000000001,Correct
 aws,tnelson,EMP0347,EMP0347,0.9500000000000001,Correct
-aws,cbaker,EMP0090,EMP0348,0.9500000000000001 (Collision),Incorrect
+aws,cbaker,EMP0348,EMP0348,0.9500000000000001,Correct
 aws,awatson,EMP0065,EMP0349,0.9500000000000001 (Collision),Incorrect
-aws,zjimenez,EMP0238,EMP0354,0.9500000000000001 (Collision),Incorrect
+aws,zjimenez,EMP0354,EMP0354,0.9500000000000001,Correct
 aws,swright,EMP0358,EMP0358,0.9500000000000001,Correct
 aws,bcox,EMP0359,EMP0359,0.9500000000000001,Correct
-aws,ewilson,EMP0326,EMP0360,0.9500000000000001 (Collision),Incorrect
-aws,ldavis,EMP0079,EMP0364,0.9500000000000001 (Collision),Incorrect
-aws,iperry,EMP0203,EMP0365,0.9500000000000001 (Collision),Incorrect
-aws,sjones,EMP0206,EMP0368,0.9500000000000001 (Collision),Incorrect
-aws,dcruz,EMP0362,EMP0369,0.9500000000000001 (Collision),Incorrect
-aws,syoung,EMP0005,EMP0371,0.9500000000000001 (Collision),Incorrect
-aws,kbarnes,EMP0082,EMP0375,0.9500000000000001 (Collision),Incorrect
+aws,ewilson,EMP0360,EMP0360,0.9500000000000001,Correct
+aws,ldavis,EMP0189,EMP0364,0.9500000000000001 (Collision),Incorrect
+aws,iperry,EMP0365,EMP0365,0.9500000000000001,Correct
+aws,sjones,EMP0368,EMP0368,0.9500000000000001,Correct
+aws,dcruz,EMP0369,EMP0369,0.9500000000000001,Correct
+aws,syoung,EMP0371,EMP0371,0.9500000000000001,Correct
+aws,kbarnes,EMP0375,EMP0375,0.9500000000000001,Correct
 aws,aprice,EMP0379,EMP0379,0.9500000000000001,Correct
-aws,lmurphy,EMP0155,EMP0381,0.9500000000000001 (Collision),Incorrect
+aws,lmurphy,EMP0381,EMP0381,0.9500000000000001,Correct
 aws,slopez,EMP0383,EMP0383,0.9500000000000001,Correct
 aws,aevans,EMP0078,EMP0385,0.9500000000000001 (Collision),Incorrect
-aws,shall,EMP0102,EMP0387,0.9500000000000001 (Collision),Incorrect
+aws,shall,EMP0387,EMP0387,0.9500000000000001 (Collision),Correct
 aws,ewhite,EMP0388,EMP0388,0.9500000000000001,Correct
-aws,edavis,EMP0079,EMP0389,0.9500000000000001 (Collision),Incorrect
+aws,edavis,EMP0136,EMP0389,0.9500000000000001 (Collision),Incorrect
 aws,kperez,EMP0390,EMP0390,0.9500000000000001,Correct
-aws,kward,EMP0192,EMP0393,0.9500000000000001 (Collision),Incorrect
+aws,kward,EMP0393,EMP0393,0.9500000000000001,Correct
 aws,lramos,EMP0394,EMP0394,0.9500000000000001,Correct
-aws,lgonzales,EMP0149,EMP0396,0.9500000000000001 (Collision),Incorrect
-aws,hturner,EMP0015,EMP0398,0.9500000000000001 (Collision),Incorrect
+aws,lgonzales,EMP0396,EMP0396,0.9500000000000001,Correct
+aws,hturner,EMP0091,EMP0398,0.9500000000000001 (Collision),Incorrect
 aws,eruiz,EMP0100,EMP0401,0.9500000000000001 (Collision),Incorrect
 aws,drogers,EMP0405,EMP0405,0.9500000000000001,Correct
-aws,dgonzalez,EMP0249,EMP0407,0.9500000000000001 (Collision),Incorrect
-aws,swilliams,EMP0281,EMP0411,0.9500000000000001 (Collision),Incorrect
+aws,dgonzalez,EMP0407,EMP0407,0.9500000000000001,Correct
+aws,swilliams,EMP0411,EMP0411,0.9500000000000001,Correct
 aws,mhenderson,EMP0415,EMP0415,0.9500000000000001,Correct
-aws,lphillips,EMP0280,EMP0417,0.9500000000000001 (Collision),Incorrect
+aws,lphillips,EMP0417,EMP0417,0.9500000000000001,Correct
 okta,svc_001@company.com,SVC001,SVC001,1.0,Correct
 okta,svc_002@company.com,SVC002,SVC002,1.0,Correct
 okta,svc_003@company.com,SVC003,SVC003,1.0,Correct
@@ -862,7 +862,7 @@ okta,abigail.cox@company.com,EMP0097,EMP0097,1.05,Correct
 okta,jessica.howard@company.com,EMP0098,EMP0098,1.05,Correct
 okta,evelyn.ruiz@company.com,EMP0100,EMP0100,1.05,Correct
 okta,aaron.hill@company.com,EMP0101,EMP0101,1.05,Correct
-okta,jonathan.chavez@company.com,EMP0103,EMP0103,1.05 (Collision),Correct
+okta,jonathan.chavez@company.com,EMP0103,EMP0103,1.05,Correct
 okta,lucy.morales@company.com,EMP0104,EMP0104,1.05,Correct
 okta,scarlett.coleman@company.com,EMP0105,EMP0105,1.05,Correct
 okta,anthony.sanders@company.com,EMP0106,EMP0106,1.05,Correct
@@ -1142,7 +1142,7 @@ okta,maria.henderson@company.com,EMP0415,EMP0415,1.05,Correct
 okta,peter.king@company.com,EMP0046,EMP0416,1.05 (Collision),Incorrect
 okta,linda.phillips@company.com,EMP0417,EMP0417,1.05,Correct
 okta,mark.campbell@company.com,EMP0418,EMP0418,1.05,Correct
-okta,jonathan.edwards@company.com,EMP0329,EMP0419,1.05 (Collision),Incorrect
+okta,jonathan.edwards@company.com,EMP0419,EMP0419,1.05,Correct
 okta,joseph.gomez@company.com,EMP0420,EMP0420,1.05,Correct
 salesforce,svc_001_sf,SVC001,SVC001,1.0,Correct
 salesforce,svc_002_sf,SVC002,SVC002,1.0,Correct
@@ -1304,7 +1304,7 @@ salesforce,jessica_howard_sf,EMP0098,EMP0098,1.05,Correct
 salesforce,frank_carter_sf,EMP0099,EMP0099,1.05,Correct
 salesforce,aaron_hill_sf,EMP0101,EMP0101,1.05,Correct
 salesforce,linda_hall_sf,EMP0102,EMP0102,1.05,Correct
-salesforce,jonathan_chavez_sf,EMP0103,EMP0103,1.05 (Collision),Correct
+salesforce,jonathan_chavez_sf,EMP0103,EMP0103,1.05,Correct
 salesforce,lucy_morales_sf,EMP0104,EMP0104,1.05,Correct
 salesforce,scarlett_coleman_sf,EMP0105,EMP0105,1.05,Correct
 salesforce,anthony_sanders_sf,EMP0106,EMP0106,1.05,Correct
@@ -1588,5 +1588,5 @@ salesforce,maria_henderson_sf,EMP0415,EMP0415,1.05,Correct
 salesforce,peter_king_sf,EMP0046,EMP0416,1.05 (Collision),Incorrect
 salesforce,linda_phillips_sf,EMP0417,EMP0417,1.05,Correct
 salesforce,mark_campbell_sf,EMP0418,EMP0418,1.05,Correct
-salesforce,jonathan_edwards_sf,EMP0329,EMP0419,1.05 (Collision),Incorrect
+salesforce,jonathan_edwards_sf,EMP0419,EMP0419,1.05,Correct
 salesforce,joseph_gomez_sf,EMP0420,EMP0420,1.05,Correct
