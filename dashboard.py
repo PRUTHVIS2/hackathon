@@ -46,10 +46,7 @@ html, body, [class*="css"] {
     font-family: 'Inter', sans-serif;
 }
 
-#MainMenu {visibility: hidden;}
 
-[data-testid="stToolbar"] {visibility: hidden;}
-footer {visibility: hidden;}
 
 h1 {
     font-weight: 800 !important;
@@ -229,11 +226,12 @@ selected_dept = st.sidebar.multiselect(
     options=sorted(df['Department'].unique()),
     default=[]
 )
-selected_level = st.sidebar.multiselect(
-    "Risk Level",
-    options=['Critical', 'High', 'Medium', 'Low'],
-    default=[]
-)
+st.sidebar.markdown("#### Risk Level")
+selected_level = []
+if st.sidebar.checkbox("Critical", value=False): selected_level.append("Critical")
+if st.sidebar.checkbox("High", value=False): selected_level.append("High")
+if st.sidebar.checkbox("Medium", value=False): selected_level.append("Medium")
+if st.sidebar.checkbox("Low", value=False): selected_level.append("Low")
 selected_type = st.sidebar.multiselect(
     "Employment Type",
     options=sorted(df['Employment Type'].unique()),
