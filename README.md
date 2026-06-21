@@ -17,10 +17,10 @@
 # 1. Generate simulated data (already done)
 # See csv_files/ for 500 identities across 4 platforms
 
-# 2. Run Phase 2: Identity Correlation
+# 2. Run Phase 2: Identity Correlation (Must be run BEFORE pipeline.py)
 python phase2_identity_correlation.py
 
-# 3. Run Phases 3-9: Full Pipeline
+# 3. Run Phases 3-9: Full Pipeline (Generates the enriched data the dashboard needs)
 python pipeline.py
 
 # 4. Launch Dashboard
@@ -29,7 +29,8 @@ streamlit run dashboard.py
 
 ### Pipeline Outputs
 All outputs are written to `output_files/`:
-- `identity_360.json` — Unified identity view with risk scores, explanations, remediations
+- `identity_360_base.json` — Base identity correlation from Phase 2
+- `identity_360_enriched.json` — Unified identity view with risk scores, explanations, remediations (Consumed by Dashboard)
 - `risk_flags.json` — Per-identity rule triggers
 - `risk_scores.json` — Final risk scores and component breakdown
 - `behavioral_features.json` — Per-identity behavioral profiles

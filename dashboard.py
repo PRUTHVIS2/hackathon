@@ -116,7 +116,7 @@ div[data-testid="stMetricValue"] {
 @st.cache_data
 def load_data():
     try:
-        with open('output_files/identity_360.json', 'r') as f:
+        with open('output_files/identity_360_enriched.json', 'r') as f:
             data = json.load(f)
         return data
     except Exception as e:
@@ -125,6 +125,13 @@ def load_data():
 
 data = load_data()
 if not data:
+    st.error("Enriched data not found. Run phase2_identity_correlation.py, then pipeline.py, in that order, before launching the dashboard.")
+    st.stop()
+
+# Validation check for enriched data
+has_risk = any('risk' in info for info in data.values())
+if not has_risk:
+    st.error("Enriched data not found. Run phase2_identity_correlation.py, then pipeline.py, in that order, before launching the dashboard.")
     st.stop()
 
 # Build main DataFrame
@@ -144,7 +151,7 @@ for uid, info in data.items():
         'Level': risk.get('level', 'Low'),
         'Flags': risk.get('flags_count', 0),
         'Platform Count': len(info.get('accounts', {})),
-        'Last Login Days': behavioral.get('days_since_any_login', 999),
+        'Last Login Days': behavioral.get('last_login_days', 999),
         'explanations': info.get('explainability', []),
         'remediations': info.get('remediations', []),
         'accounts': info.get('accounts', {})
@@ -484,7 +491,7 @@ elif page == "Identity Investigation":
                 st.markdown("#### Behavioral Profile")
                 beh = p_data.get('behavioral', {})
                 beh_df = pd.DataFrame([
-                    ['Days Since Login', beh.get('days_since_any_login', 'N/A')],
+                    ['Days Since Login', beh.get('last_login_days', 'N/A')],
                     ['Platforms Active (30d)', beh.get('platforms_active_30d', 'N/A')],
                     ['Admin Actions (30d)', beh.get('admin_actions_30d', 'N/A')],
                     ['Admin Actions (Total)', beh.get('admin_actions_total', 'N/A')],

@@ -598,9 +598,9 @@ def run_pipeline():
     
     # --- Load base data ---
     print("\n[1/7] Loading base identity data...")
-    with open(os.path.join(OUTPUT_DIR, 'identity_360.json'), 'r') as f:
+    with open(os.path.join(OUTPUT_DIR, 'identity_360_base.json'), 'r') as f:
         id_360 = json.load(f)
-    print(f"      Loaded {len(id_360)} identities from identity_360.json")
+    print(f"      Loaded {len(id_360)} identities from identity_360_base.json")
     
     # Load group hierarchy
     groups = load_group_hierarchy()
@@ -777,7 +777,7 @@ def run_pipeline():
         data['behavioral'] = behavioral
     
     # Save final enriched identity_360
-    with open(os.path.join(OUTPUT_DIR, 'identity_360.json'), 'w') as f:
+    with open(os.path.join(OUTPUT_DIR, 'identity_360_enriched.json'), 'w') as f:
         json.dump(id_360, f, indent=2)
     
     print(f"      Explanations and remediations generated")

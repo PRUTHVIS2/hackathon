@@ -2,7 +2,7 @@
 """
 Phase 2: Identity Correlation Engine
 Maps platform accounts (AD, AWS, Okta, Salesforce) to unified identities.
-Produces identity_360.json — the foundation for all downstream analysis.
+Produces identity_360_base.json — the foundation for all downstream analysis.
 """
 
 import csv
@@ -169,9 +169,15 @@ def correlate():
     process_file('okta', 'okta_accounts.csv', 'okta_login')
     process_file('salesforce', 'salesforce_accounts.csv', 'sf_username')
     
-    # Save identity_360.json
-    with open(os.path.join(OUTPUT_DIR, 'identity_360.json'), 'w') as f:
+    # Save identity_360_base.json
+    base_file = os.path.join(OUTPUT_DIR, 'identity_360_base.json')
+    with open(base_file, 'w') as f:
         json.dump(id_360, f, indent=2)
+        
+    # Delete enriched file if it exists to prevent stale data
+    enriched_file = os.path.join(OUTPUT_DIR, 'identity_360_enriched.json')
+    if os.path.exists(enriched_file):
+        os.remove(enriched_file)
     
     # Save match report
     with open(os.path.join(OUTPUT_DIR, 'phase2_match_report.csv'), 'w', newline='') as f:
@@ -203,7 +209,7 @@ def correlate():
             if actual and pred and actual['full_name'] != pred['full_name']:
                 print(f"  Mismatch: {m['account_username']} -> Predicted: {pred['full_name']} ({pred['identity_id']}), Actual: {actual['full_name']} ({actual['identity_id']})")
                 
-    print(f"\nSaved: identity_360.json, phase2_match_report.csv")
+    print(f"\nSaved: identity_360_base.json, phase2_match_report.csv")
 
 if __name__ == '__main__':
     correlate()
