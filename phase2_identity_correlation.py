@@ -53,14 +53,41 @@ def match_username_to_identity(username, platform, identities):
                 if id_svc_match and id_svc_match.group(1) == svc_match.group(1):
                     score = 1.0
         else:
-            # Human matching
-            if fname in username_lower and lname in username_lower:
-                score = 1.0
-            elif lname in username_lower and fname[0] in username_lower:
-                score = 0.9
-            elif lname in username_lower:
-                score = 0.6
-            elif fname in username_lower:
+            # Preprocess username for human matching
+            u = username_lower.split('@')[0]
+            if u.startswith('c-') or u.startswith('c_'):
+                u = u[2:]
+                
+            tokens = [t for t in re.split(r'[^a-z]', u) if t]
+            alpha_only = re.sub(r'[^a-z]', '', u)
+            
+            # 1. Token match
+            if lname in tokens:
+                if fname in tokens:
+                    score = 1.0
+                elif fname[0] in tokens:
+                    score = 0.9
+                else:
+                    score = 0.6
+            # 2. Boundary match
+            elif alpha_only.endswith(lname):
+                prefix = alpha_only[:-len(lname)]
+                if prefix == fname:
+                    score = 1.0
+                elif prefix == fname[0]:
+                    score = 0.9
+                elif prefix == '':
+                    score = 0.6
+            elif alpha_only.startswith(lname):
+                suffix = alpha_only[len(lname):]
+                if suffix == fname:
+                    score = 1.0
+                elif suffix == fname[0]:
+                    score = 0.9
+                elif suffix == '':
+                    score = 0.6
+            # 3. First name only
+            elif fname in tokens or alpha_only == fname:
                 score = 0.3
                 
             # Disambiguate with contractor flag
