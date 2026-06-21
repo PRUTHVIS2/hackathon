@@ -1,501 +1,501 @@
-identity_id,full_name,department,employment_type,employment_status,manager_id,hire_date,termination_date,risk_baseline
-EMP0001,Christopher Brown,IT,Employee,Terminated,EMP0055,2022-07-25,2026-06-10,Low
-EMP0002,Mary Smith,Security,Employee,Terminated,EMP0084,2023-03-13,2026-05-01,Low
-EMP0003,Daniel Moore,Marketing,Employee,Terminated,EMP0021,2023-03-06,2026-04-28,Low
-EMP0004,Daniel Wilson,Sales,Employee,Terminated,EMP0046,2022-07-13,2026-06-09,Low
-EMP0005,Margaret Lopez,Engineering,Employee,Terminated,EMP0071,2025-02-28,2026-06-10,Low
-EMP0006,Elizabeth Clark,Sales,Employee,Terminated,EMP0038,2019-03-05,2026-04-27,Low
-EMP0007,John Ramirez,HR,Employee,Terminated,EMP0048,2024-07-07,2026-06-05,Low
-EMP0008,Barbara Miller,Engineering,Employee,Terminated,EMP0060,2018-05-19,2026-06-05,Low
-EMP0009,Richard Rodriguez,HR,Employee,Terminated,EMP0041,2022-01-04,2026-04-25,Low
-EMP0010,Richard Rodriguez,Security,Employee,Terminated,EMP0083,2023-04-13,2026-05-21,Low
-EMP0011,Joseph Jones,Engineering,Employee,Terminated,EMP0075,2024-01-31,2026-05-19,Low
-EMP0012,Richard Lopez,HR,Employee,Terminated,EMP0081,2024-02-05,2026-06-06,Low
-EMP0013,Jennifer Sanchez,Marketing,Employee,Terminated,EMP0071,2018-12-17,2026-05-30,Low
-EMP0014,Margaret Smith,Security,Employee,Terminated,EMP0059,2019-08-17,2026-06-05,Low
-EMP0015,James White,Engineering,Employee,Terminated,EMP0082,2020-01-13,2026-05-27,Low
-EMP0016,Thomas Martin,IT,Employee,Active,EMP0015,2023-12-07,,Medium
-EMP0017,Mark Clark,IT,Employee,Active,EMP0017,2022-12-18,,Low
-EMP0018,Nancy Thomas,IT,Employee,Active,EMP0086,2022-09-04,,High
-EMP0019,Barbara Anderson,IT,Employee,Active,EMP0091,2024-04-16,,High
-EMP0020,Mary Davis,Security,Employee,Active,EMP0074,2025-04-18,,High
-EMP0021,Jessica Davis,Security,Employee,Active,EMP0007,2021-01-30,,High
-EMP0022,Christopher Lee,IT,Employee,Active,EMP0018,2024-12-19,,Medium
-EMP0023,Jennifer Rodriguez,IT,Employee,Active,EMP0002,2022-11-05,,Low
-EMP0024,Sandra Harris,IT,Employee,Active,EMP0050,2023-10-13,,Medium
-EMP0025,Sandra Sanchez,IT,Employee,Active,EMP0008,2022-06-13,,High
-EMP0026,Lisa Moore,IT,Employee,Active,EMP0024,2022-02-17,,Low
-EMP0027,Karen Williams,IT,Employee,Active,EMP0073,2021-02-13,,High
-EMP0028,David Robinson,IT,Employee,Active,EMP0010,2023-05-11,,Low
-EMP0029,James Anderson,IT,Employee,Active,EMP0021,2024-10-28,,Medium
-EMP0030,Anthony Moore,Security,Employee,Active,EMP0014,2018-10-15,,High
-EMP0031,Sarah Jones,Engineering,Employee,Active,EMP0007,2022-06-27,,Low
-EMP0032,John Lee,IT,Employee,Active,EMP0055,2022-07-18,,Low
-EMP0033,Sarah Smith,Engineering,Employee,Active,EMP0017,2024-10-20,,Low
-EMP0034,Elizabeth Lopez,Engineering,Employee,Active,EMP0096,2021-08-20,,Low
-EMP0035,Robert Robinson,IT,Employee,Active,EMP0032,2023-10-29,,Low
-EMP0036,William Garcia,Security,Employee,Active,EMP0085,2021-05-11,,Low
-EMP0037,Michael Gonzalez,Security,Employee,Active,EMP0034,2022-07-10,,Low
-EMP0038,Jennifer Jackson,Security,Employee,Active,EMP0025,2025-03-21,,Medium
-EMP0039,Mary Thompson,Security,Employee,Active,EMP0086,2025-08-18,,Low
-EMP0040,Sandra Hernandez,Security,Employee,Active,EMP0071,2024-04-01,,Low
-EMP0041,Robert Miller,Security,Employee,Active,EMP0056,2021-05-25,,High
-EMP0042,Karen Lee,Engineering,Employee,Active,EMP0082,2020-06-07,,High
-EMP0043,David Williams,IT,Employee,Active,EMP0059,2022-03-02,,Low
-EMP0044,Susan Lewis,IT,Employee,Active,EMP0090,2021-05-05,,Low
-EMP0045,Thomas Anderson,Engineering,Employee,Active,EMP0093,2019-05-25,,Low
-EMP0046,svc_sync_45,IT,ServiceAccount,Active,,2019-07-03,,High
-EMP0047,svc_deploy_46,IT,ServiceAccount,Active,,2018-08-14,,High
-EMP0048,svc_sync_47,IT,ServiceAccount,Active,,2023-01-20,,Medium
-EMP0049,svc_sync_48,IT,ServiceAccount,Active,,2020-12-08,,Medium
-EMP0050,svc_sync_49,IT,ServiceAccount,Active,,2020-12-12,,Medium
-EMP0051,svc_monitor_50,IT,ServiceAccount,Active,,2021-02-10,,High
-EMP0052,svc_backup_51,IT,ServiceAccount,Active,,2024-09-15,,Low
-EMP0053,svc_sync_52,IT,ServiceAccount,Active,,2021-05-25,,Low
-EMP0054,svc_monitor_53,IT,ServiceAccount,Active,,2018-05-04,,Medium
-EMP0055,svc_backup_54,IT,ServiceAccount,Active,,2020-06-07,,Low
-EMP0056,svc_backup_55,IT,ServiceAccount,Active,,2019-03-11,,High
-EMP0057,svc_monitor_56,IT,ServiceAccount,Active,,2018-11-30,,Low
-EMP0058,svc_sync_57,IT,ServiceAccount,Active,,2025-07-04,,High
-EMP0059,svc_sync_58,IT,ServiceAccount,Active,,2018-09-28,,Low
-EMP0060,svc_monitor_59,IT,ServiceAccount,Active,,2022-07-09,,Medium
-EMP0061,Margaret Hernandez,Engineering,Contractor,Active,EMP0036,2020-03-06,,High
-EMP0062,James Taylor,Engineering,Contractor,Active,EMP0083,2024-09-08,,High
-EMP0063,Jessica Anderson,Engineering,Contractor,Active,EMP0048,2024-08-08,,Medium
-EMP0064,Sarah Taylor,Engineering,Contractor,Active,EMP0033,2020-11-16,,Low
-EMP0065,Patricia White,Engineering,Contractor,Active,EMP0095,2022-02-09,,Medium
-EMP0066,William White,Engineering,Contractor,Active,EMP0091,2024-07-09,,High
-EMP0067,Robert Rodriguez,Engineering,Contractor,Active,EMP0002,2025-01-13,,High
-EMP0068,Elizabeth Thomas,Engineering,Contractor,Active,EMP0009,2020-09-15,,Medium
-EMP0069,Jessica Williams,Engineering,Contractor,Active,EMP0098,2023-12-12,,Medium
-EMP0070,Karen Martin,Engineering,Contractor,Active,EMP0040,2019-10-15,,High
-EMP0071,Karen Johnson,Security,Employee,Active,EMP0071,2023-04-26,,Low
-EMP0072,John Garcia,IT,Employee,Active,EMP0037,2021-01-24,,Low
-EMP0073,Daniel Ramirez,Operations,Employee,Active,EMP0015,2024-11-06,,Low
-EMP0074,Sarah Davis,Finance,Employee,Active,EMP0016,2022-09-01,,Low
-EMP0075,Joseph Thompson,Engineering,Employee,Active,EMP0095,2021-02-18,,Low
-EMP0076,David Martin,Engineering,Employee,Active,EMP0061,2025-05-11,,Low
-EMP0077,Thomas Lee,Operations,Employee,Active,EMP0045,2022-07-12,,Low
-EMP0078,Susan Hernandez,Sales,Employee,Active,EMP0098,2024-06-22,,Low
-EMP0079,Sarah Johnson,Operations,Employee,Active,EMP0085,2024-08-29,,Low
-EMP0080,Margaret Moore,Operations,Employee,Active,EMP0027,2021-01-05,,Low
-EMP0081,William Moore,Finance,Employee,Active,EMP0040,2022-06-02,,Low
-EMP0082,Sarah Smith,Marketing,Employee,Active,EMP0066,2024-08-08,,Low
-EMP0083,Daniel Rodriguez,Marketing,Employee,Active,EMP0096,2020-03-27,,Low
-EMP0084,Mark Jones,Security,Employee,Active,EMP0037,2022-07-20,,Low
-EMP0085,Lisa Martinez,Operations,Employee,Active,EMP0042,2023-12-25,,Low
-EMP0086,Margaret Miller,HR,Employee,Active,EMP0085,2019-03-27,,Low
-EMP0087,Betty Clark,Finance,Employee,Active,EMP0068,2020-02-04,,Low
-EMP0088,Sandra Anderson,IT,Employee,Active,EMP0011,2024-01-12,,Low
-EMP0089,Margaret Hernandez,Marketing,Employee,Active,EMP0081,2022-02-04,,Low
-EMP0090,Nancy Robinson,Engineering,Employee,Active,EMP0089,2023-02-05,,Low
-EMP0091,Elizabeth Lewis,IT,Employee,Active,EMP0068,2025-02-17,,Low
-EMP0092,Susan Jackson,Finance,Employee,Active,EMP0075,2023-09-28,,Low
-EMP0093,Robert Davis,Operations,Employee,Active,EMP0010,2018-06-30,,Low
-EMP0094,Joseph Lopez,Engineering,Employee,Active,EMP0062,2018-06-25,,Low
-EMP0095,Patricia Davis,Marketing,Employee,Active,EMP0002,2019-03-27,,Low
-EMP0096,Charles Ramirez,IT,Employee,Active,EMP0025,2018-11-06,,Low
-EMP0097,Karen Rodriguez,Finance,Employee,Active,EMP0075,2018-08-08,,Low
-EMP0098,Barbara White,Finance,Employee,Active,EMP0070,2024-08-20,,Low
-EMP0099,Mark Lopez,Engineering,Employee,Active,EMP0010,2023-10-21,,Low
-EMP0100,Robert Harris,HR,Employee,Active,EMP0069,2021-03-11,,Low
-EMP0101,Patricia Anderson,Engineering,Employee,Active,EMP0009,2022-09-16,,High
-EMP0102,Anthony Anderson,Engineering,Employee,Active,EMP0059,2018-05-14,,Medium
-EMP0103,Nancy White,Engineering,Employee,Active,EMP0028,2019-01-23,,Medium
-EMP0104,Joseph Davis,IT,Employee,Active,EMP0059,2024-07-14,,Low
-EMP0105,Nancy Miller,IT,Employee,Active,EMP0030,2025-01-29,,Medium
-EMP0106,Matthew Jones,IT,Employee,Active,EMP0076,2022-07-16,,Medium
-EMP0107,James Garcia,Engineering,Employee,Active,EMP0029,2025-01-22,,High
-EMP0108,Mary White,Engineering,Employee,Active,EMP0078,2020-07-05,,Low
-EMP0109,John Jones,Engineering,Employee,Active,EMP0090,2018-08-24,,Low
-EMP0110,Margaret Lee,Engineering,Employee,Active,EMP0033,2020-10-28,,Medium
-EMP0111,Robert Perez,Engineering,Employee,Active,EMP0043,2024-11-23,,High
-EMP0112,Patricia Wilson,Engineering,Employee,Active,EMP0014,2020-11-26,,Medium
-EMP0113,Margaret Moore,IT,Employee,Active,EMP0044,2024-05-11,,Medium
-EMP0114,James Garcia,IT,Employee,Active,EMP0048,2019-04-19,,Medium
-EMP0115,Lisa Hernandez,Engineering,Employee,Active,EMP0057,2025-01-21,,Medium
-EMP0116,William Miller,Engineering,Employee,Active,EMP0001,2021-10-11,,Low
-EMP0117,Elizabeth Miller,IT,Employee,Active,EMP0086,2022-10-13,,Medium
-EMP0118,John Gonzalez,Engineering,Employee,Active,EMP0052,2020-10-03,,Low
-EMP0119,David Garcia,Engineering,Employee,Active,EMP0100,2021-08-03,,Low
-EMP0120,John Taylor,IT,Employee,Active,EMP0078,2019-09-12,,Low
-EMP0121,Matthew Harris,Marketing,Employee,Active,EMP0041,2023-08-30,,Low
-EMP0122,Robert Anderson,Finance,Employee,Active,EMP0060,2020-05-22,,Low
-EMP0123,Joseph Johnson,Marketing,Employee,Active,EMP0071,2021-07-06,,Low
-EMP0124,Betty White,Marketing,Employee,Active,EMP0058,2020-08-08,,Low
-EMP0125,Betty Lewis,Marketing,Employee,Active,EMP0048,2024-09-13,,Medium
-EMP0126,Richard Wilson,Marketing,Employee,Active,EMP0037,2018-12-11,,Medium
-EMP0127,Lisa Ramirez,Marketing,Employee,Active,EMP0091,2021-11-28,,Low
-EMP0128,Elizabeth Moore,Finance,Employee,Active,EMP0047,2018-06-07,,Low
-EMP0129,James Lopez,Finance,Employee,Active,EMP0013,2023-08-17,,High
-EMP0130,Matthew Moore,Finance,Employee,Active,EMP0089,2021-11-14,,High
-EMP0131,Betty Lewis,Marketing,Employee,Active,EMP0058,2020-09-27,,Low
-EMP0132,Linda Moore,Marketing,Employee,Active,EMP0099,2022-03-06,,Low
-EMP0133,Elizabeth Harris,Finance,Employee,Active,EMP0048,2020-01-04,,Low
-EMP0134,Sarah Robinson,Marketing,Employee,Active,EMP0066,2019-11-11,,Low
-EMP0135,Robert Clark,Marketing,Employee,Active,EMP0031,2024-08-14,,Medium
-EMP0136,John Lopez,HR,Employee,Suspended,EMP0019,2025-05-01,,Low
-EMP0137,Robert Johnson,Engineering,Employee,Suspended,EMP0058,2020-05-07,,Low
-EMP0138,Karen Smith,Security,Employee,Suspended,EMP0068,2025-06-08,,Low
-EMP0139,Susan Brown,Engineering,Employee,Suspended,EMP0059,2022-12-25,,Low
-EMP0140,John Brown,Operations,Employee,Suspended,EMP0092,2018-12-15,,Low
-EMP0141,Robert Martinez,Marketing,Employee,Suspended,EMP0086,2025-08-18,,Low
-EMP0142,Nancy Williams,Sales,Employee,Suspended,EMP0003,2024-11-20,,Low
-EMP0143,Richard Ramirez,Operations,Employee,Suspended,EMP0046,2025-02-27,,Low
-EMP0144,Betty Williams,Sales,Employee,Suspended,EMP0095,2022-12-11,,Low
-EMP0145,Matthew Hernandez,Finance,Employee,Suspended,EMP0100,2025-02-24,,Low
-EMP0146,svc_app_145,Operations,ServiceAccount,Active,,2018-07-25,,Low
-EMP0147,svc_app_146,Operations,ServiceAccount,Active,,2025-02-26,,Low
-EMP0148,svc_app_147,Operations,ServiceAccount,Active,,2022-10-22,,Low
-EMP0149,svc_app_148,Operations,ServiceAccount,Active,,2022-08-01,,Low
-EMP0150,svc_app_149,Operations,ServiceAccount,Active,,2021-11-05,,Low
-EMP0151,svc_app_150,Operations,ServiceAccount,Active,,2020-11-20,,Low
-EMP0152,svc_app_151,Operations,ServiceAccount,Active,,2024-10-01,,Low
-EMP0153,svc_app_152,Operations,ServiceAccount,Active,,2020-09-01,,Low
-EMP0154,svc_app_153,Operations,ServiceAccount,Active,,2018-06-23,,Low
-EMP0155,svc_app_154,Operations,ServiceAccount,Active,,2025-04-19,,Low
-EMP0156,svc_app_155,Operations,ServiceAccount,Active,,2023-01-01,,Low
-EMP0157,svc_app_156,Operations,ServiceAccount,Active,,2020-08-08,,Low
-EMP0158,svc_app_157,Operations,ServiceAccount,Active,,2021-03-08,,Low
-EMP0159,svc_app_158,Operations,ServiceAccount,Active,,2019-11-04,,Low
-EMP0160,svc_app_159,Operations,ServiceAccount,Active,,2018-10-14,,Low
-EMP0161,svc_app_160,Operations,ServiceAccount,Active,,2023-09-17,,Low
-EMP0162,svc_app_161,Operations,ServiceAccount,Active,,2019-06-25,,Low
-EMP0163,svc_app_162,Operations,ServiceAccount,Active,,2024-04-14,,Low
-EMP0164,svc_app_163,Operations,ServiceAccount,Active,,2020-05-28,,Low
-EMP0165,svc_app_164,Operations,ServiceAccount,Active,,2020-04-12,,Low
-EMP0166,svc_app_165,Operations,ServiceAccount,Active,,2020-08-07,,Low
-EMP0167,svc_app_166,Operations,ServiceAccount,Active,,2024-03-14,,Low
-EMP0168,svc_app_167,Operations,ServiceAccount,Active,,2023-10-31,,Low
-EMP0169,svc_app_168,Operations,ServiceAccount,Active,,2023-06-12,,Low
-EMP0170,svc_app_169,Operations,ServiceAccount,Active,,2020-01-05,,Low
-EMP0171,svc_app_170,Operations,ServiceAccount,Active,,2019-04-30,,Low
-EMP0172,svc_app_171,Operations,ServiceAccount,Active,,2019-03-26,,Low
-EMP0173,svc_app_172,Operations,ServiceAccount,Active,,2020-03-25,,Low
-EMP0174,svc_app_173,Operations,ServiceAccount,Active,,2020-09-19,,Low
-EMP0175,svc_app_174,Operations,ServiceAccount,Active,,2021-10-10,,Low
-EMP0176,svc_app_175,Operations,ServiceAccount,Active,,2024-04-10,,Low
-EMP0177,svc_app_176,Operations,ServiceAccount,Active,,2022-11-12,,Low
-EMP0178,svc_app_177,Operations,ServiceAccount,Active,,2023-11-11,,Low
-EMP0179,svc_app_178,Operations,ServiceAccount,Active,,2021-03-28,,Low
-EMP0180,svc_app_179,Operations,ServiceAccount,Active,,2020-02-05,,Low
-EMP0181,svc_app_180,Operations,ServiceAccount,Active,,2024-02-23,,Low
-EMP0182,svc_app_181,Operations,ServiceAccount,Active,,2019-04-03,,Low
-EMP0183,svc_app_182,Operations,ServiceAccount,Active,,2019-06-25,,Low
-EMP0184,svc_app_183,Operations,ServiceAccount,Active,,2021-06-18,,Low
-EMP0185,svc_app_184,Operations,ServiceAccount,Active,,2020-01-15,,Low
-EMP0186,svc_app_185,Operations,ServiceAccount,Active,,2023-12-23,,Low
-EMP0187,svc_app_186,Operations,ServiceAccount,Active,,2018-09-25,,Low
-EMP0188,svc_app_187,Operations,ServiceAccount,Active,,2019-05-03,,Low
-EMP0189,svc_app_188,Operations,ServiceAccount,Active,,2018-08-04,,Low
-EMP0190,svc_app_189,Operations,ServiceAccount,Active,,2019-02-07,,Low
-EMP0191,svc_app_190,Operations,ServiceAccount,Active,,2023-12-28,,Low
-EMP0192,svc_app_191,Operations,ServiceAccount,Active,,2022-02-17,,Low
-EMP0193,svc_app_192,Operations,ServiceAccount,Active,,2024-12-12,,Low
-EMP0194,svc_app_193,Operations,ServiceAccount,Active,,2022-02-16,,Low
-EMP0195,svc_app_194,Operations,ServiceAccount,Active,,2018-10-22,,Low
-EMP0196,svc_app_195,Operations,ServiceAccount,Active,,2023-04-28,,Low
-EMP0197,svc_app_196,Operations,ServiceAccount,Active,,2022-06-03,,Low
-EMP0198,svc_app_197,Operations,ServiceAccount,Active,,2022-05-23,,Low
-EMP0199,svc_app_198,Operations,ServiceAccount,Active,,2023-04-01,,Low
-EMP0200,svc_app_199,Operations,ServiceAccount,Active,,2024-06-03,,Low
-EMP0201,svc_app_200,Operations,ServiceAccount,Active,,2018-06-29,,Low
-EMP0202,svc_app_201,Operations,ServiceAccount,Active,,2025-08-03,,Low
-EMP0203,svc_app_202,Operations,ServiceAccount,Active,,2022-06-05,,Low
-EMP0204,svc_app_203,Operations,ServiceAccount,Active,,2019-08-25,,Low
-EMP0205,svc_app_204,Operations,ServiceAccount,Active,,2025-03-29,,Low
-EMP0206,svc_app_205,Operations,ServiceAccount,Active,,2022-04-20,,Low
-EMP0207,svc_app_206,Operations,ServiceAccount,Active,,2024-02-22,,Low
-EMP0208,svc_app_207,Operations,ServiceAccount,Active,,2018-05-18,,Low
-EMP0209,svc_app_208,Operations,ServiceAccount,Active,,2023-09-06,,Low
-EMP0210,svc_app_209,Operations,ServiceAccount,Active,,2024-07-30,,Low
-EMP0211,James Rodriguez,Marketing,Contractor,Active,EMP0093,2023-01-03,,Low
-EMP0212,Charles Smith,Engineering,Contractor,Active,EMP0060,2018-04-26,,Low
-EMP0213,Elizabeth Garcia,Marketing,Contractor,Active,EMP0048,2020-01-05,,Low
-EMP0214,Karen Davis,HR,Contractor,Active,EMP0054,2024-02-24,,Low
-EMP0215,Daniel Moore,Operations,Contractor,Active,EMP0011,2019-08-15,,Low
-EMP0216,Thomas Anderson,Sales,Contractor,Active,EMP0065,2024-10-09,,Low
-EMP0217,Michael Jackson,Finance,Contractor,Active,EMP0092,2023-10-21,,Low
-EMP0218,Charles Thomas,Security,Contractor,Active,EMP0054,2019-12-04,,Low
-EMP0219,Joseph Jackson,IT,Contractor,Active,EMP0001,2019-05-20,,Low
-EMP0220,Lisa Miller,Security,Contractor,Active,EMP0061,2025-02-20,,Low
-EMP0221,Mary Martinez,Marketing,Employee,Active,EMP0058,2023-08-18,,Low
-EMP0222,Margaret Robinson,Marketing,Employee,Active,EMP0016,2021-06-08,,Low
-EMP0223,Jennifer Moore,Marketing,Employee,Active,EMP0039,2019-09-19,,Low
-EMP0224,Joseph Perez,Marketing,Employee,Active,EMP0020,2019-09-07,,Low
-EMP0225,William Miller,Security,Employee,Active,EMP0031,2025-04-15,,Low
-EMP0226,Michael Williams,Security,Employee,Active,EMP0032,2018-12-27,,Low
-EMP0227,Lisa Johnson,Marketing,Employee,Active,EMP0018,2020-09-22,,Low
-EMP0228,Thomas Martinez,HR,Employee,Active,EMP0031,2019-03-10,,Low
-EMP0229,Elizabeth Lewis,Finance,Employee,Active,EMP0076,2019-10-20,,Low
-EMP0230,Mark White,Finance,Employee,Active,EMP0083,2018-08-17,,Low
-EMP0231,Nancy Gonzalez,Sales,Employee,Active,EMP0061,2020-12-23,,Low
-EMP0232,Linda Ramirez,HR,Employee,Active,EMP0072,2022-04-11,,Low
-EMP0233,Susan Wilson,Finance,Employee,Active,EMP0058,2021-04-17,,Low
-EMP0234,Margaret Lopez,Security,Employee,Active,EMP0087,2019-08-23,,Low
-EMP0235,Karen Martin,IT,Employee,Active,EMP0062,2024-10-30,,Low
-EMP0236,Michael Ramirez,Sales,Employee,Active,EMP0096,2022-04-01,,Low
-EMP0237,Matthew Thomas,HR,Employee,Active,EMP0042,2018-11-14,,Low
-EMP0238,Matthew Martinez,Marketing,Employee,Active,EMP0066,2020-06-02,,Low
-EMP0239,Mark Thomas,Operations,Employee,Active,EMP0027,2024-07-17,,Low
-EMP0240,Barbara Hernandez,Marketing,Employee,Active,EMP0034,2025-02-18,,Low
-EMP0241,Sarah Robinson,Marketing,Employee,Active,EMP0032,2022-05-03,,Low
-EMP0242,Jessica Moore,Sales,Employee,Active,EMP0059,2022-10-05,,Low
-EMP0243,Jennifer White,Sales,Employee,Active,EMP0083,2023-10-01,,Low
-EMP0244,Mary Taylor,IT,Employee,Active,EMP0081,2024-10-24,,Low
-EMP0245,Linda Williams,Finance,Employee,Active,EMP0082,2025-07-18,,Low
-EMP0246,Nancy Robinson,Operations,Employee,Active,EMP0002,2018-04-03,,Low
-EMP0247,James Taylor,Engineering,Employee,Active,EMP0023,2019-08-22,,Low
-EMP0248,Patricia Robinson,Security,Employee,Active,EMP0046,2019-10-08,,Low
-EMP0249,William Sanchez,Marketing,Employee,Active,EMP0039,2024-10-05,,Low
-EMP0250,Nancy Clark,Security,Employee,Active,EMP0049,2018-04-26,,Low
-EMP0251,Sarah Thomas,IT,Employee,Active,EMP0043,2018-07-04,,Low
-EMP0252,Charles Ramirez,Security,Employee,Active,EMP0061,2019-09-22,,Low
-EMP0253,William Johnson,Security,Employee,Active,EMP0041,2022-07-03,,Low
-EMP0254,James Miller,Finance,Employee,Active,EMP0073,2021-03-07,,Low
-EMP0255,Anthony Ramirez,Marketing,Employee,Active,EMP0065,2019-08-02,,Low
-EMP0256,Lisa Lopez,IT,Employee,Active,EMP0051,2024-07-20,,Low
-EMP0257,Matthew Hernandez,IT,Employee,Active,EMP0049,2018-07-15,,Low
-EMP0258,Susan Garcia,Marketing,Employee,Active,EMP0011,2024-09-07,,Low
-EMP0259,William Jones,Marketing,Employee,Active,EMP0012,2018-07-16,,Low
-EMP0260,James Martinez,Operations,Employee,Active,EMP0056,2021-08-11,,Low
-EMP0261,Joseph Moore,Marketing,Employee,Active,EMP0077,2024-06-27,,Low
-EMP0262,Betty Hernandez,Marketing,Employee,Active,EMP0032,2025-07-05,,Low
-EMP0263,Charles Taylor,Finance,Employee,Active,EMP0019,2021-05-18,,Low
-EMP0264,John Garcia,Marketing,Employee,Active,EMP0033,2022-07-21,,Low
-EMP0265,Linda White,Operations,Employee,Active,EMP0001,2018-12-27,,Low
-EMP0266,Richard Hernandez,Marketing,Employee,Active,EMP0018,2021-12-14,,Low
-EMP0267,Elizabeth Hernandez,HR,Employee,Active,EMP0074,2020-04-10,,Low
-EMP0268,Betty Davis,Sales,Employee,Active,EMP0026,2021-06-06,,Low
-EMP0269,Charles Moore,Finance,Employee,Active,EMP0038,2019-06-24,,Low
-EMP0270,Anthony Thompson,Security,Employee,Active,EMP0033,2021-01-22,,Low
-EMP0271,Nancy Jones,Marketing,Employee,Active,EMP0069,2021-06-02,,Low
-EMP0272,Thomas Robinson,Marketing,Employee,Active,EMP0077,2019-07-21,,Low
-EMP0273,Christopher Robinson,Security,Employee,Active,EMP0006,2024-06-03,,Low
-EMP0274,Charles Lee,Marketing,Employee,Active,EMP0029,2021-12-05,,Low
-EMP0275,Thomas White,HR,Employee,Active,EMP0089,2020-08-25,,Low
-EMP0276,Thomas Jones,Sales,Employee,Active,EMP0015,2025-05-16,,Low
-EMP0277,Anthony White,Finance,Employee,Active,EMP0062,2021-09-28,,Low
-EMP0278,Barbara Thomas,Security,Employee,Active,EMP0006,2020-09-25,,Low
-EMP0279,Betty Thompson,Security,Employee,Active,EMP0095,2025-05-24,,Low
-EMP0280,Linda Taylor,Finance,Employee,Active,EMP0052,2019-06-17,,Low
-EMP0281,Christopher Garcia,Finance,Employee,Active,EMP0026,2018-06-19,,Low
-EMP0282,Joseph Jackson,Marketing,Employee,Active,EMP0074,2021-04-15,,Low
-EMP0283,Patricia Sanchez,Finance,Employee,Active,EMP0068,2021-07-18,,Low
-EMP0284,Christopher Hernandez,Marketing,Employee,Active,EMP0080,2018-10-17,,Low
-EMP0285,Jennifer Clark,Engineering,Employee,Active,EMP0040,2018-10-04,,Low
-EMP0286,Patricia Garcia,Sales,Employee,Active,EMP0050,2024-01-23,,Low
-EMP0287,Susan Garcia,Operations,Employee,Active,EMP0037,2018-07-09,,Low
-EMP0288,Robert Garcia,Sales,Employee,Active,EMP0025,2020-08-03,,Low
-EMP0289,Anthony Gonzalez,Operations,Employee,Active,EMP0063,2021-01-22,,Low
-EMP0290,Jennifer Williams,IT,Employee,Active,EMP0100,2023-03-05,,Low
-EMP0291,Joseph Jackson,Operations,Employee,Active,EMP0047,2019-06-26,,Low
-EMP0292,Sarah Clark,IT,Employee,Active,EMP0005,2020-09-12,,Low
-EMP0293,Joseph Rodriguez,Sales,Employee,Active,EMP0027,2024-09-02,,Low
-EMP0294,Betty White,Sales,Employee,Active,EMP0027,2018-10-21,,Low
-EMP0295,Betty Johnson,Sales,Employee,Active,EMP0038,2019-09-05,,Low
-EMP0296,Charles Rodriguez,Security,Employee,Active,EMP0084,2024-02-16,,Low
-EMP0297,Robert Thompson,Finance,Employee,Active,EMP0063,2022-11-06,,Low
-EMP0298,Robert Jackson,Engineering,Employee,Active,EMP0052,2018-08-10,,Low
-EMP0299,Thomas White,Engineering,Employee,Active,EMP0094,2021-07-05,,Low
-EMP0300,Joseph Lee,Sales,Employee,Active,EMP0064,2024-12-08,,Low
-EMP0301,William Hernandez,Engineering,Employee,Active,EMP0044,2021-11-10,,Low
-EMP0302,Mark Perez,IT,Employee,Active,EMP0059,2025-02-17,,Low
-EMP0303,James Wilson,HR,Employee,Active,EMP0012,2024-03-02,,Low
-EMP0304,Christopher Lopez,Engineering,Employee,Active,EMP0040,2024-09-21,,Low
-EMP0305,Lisa Thompson,HR,Employee,Active,EMP0010,2020-10-31,,Low
-EMP0306,Robert Jackson,HR,Employee,Active,EMP0016,2019-10-28,,Low
-EMP0307,Margaret Wilson,Finance,Employee,Active,EMP0014,2020-04-16,,Low
-EMP0308,David Lopez,Engineering,Employee,Active,EMP0009,2024-02-10,,Low
-EMP0309,Thomas Jackson,IT,Employee,Active,EMP0096,2018-10-21,,Low
-EMP0310,Robert Robinson,Marketing,Employee,Active,EMP0018,2018-09-27,,Low
-EMP0311,Matthew Brown,Marketing,Employee,Active,EMP0032,2021-09-15,,Low
-EMP0312,Sarah Martin,Engineering,Employee,Active,EMP0066,2025-05-07,,Low
-EMP0313,Michael White,Marketing,Employee,Active,EMP0031,2022-05-02,,Low
-EMP0314,Jessica Lee,Security,Employee,Active,EMP0050,2019-09-22,,Low
-EMP0315,Margaret Clark,Marketing,Employee,Active,EMP0003,2021-07-20,,Low
-EMP0316,Charles Williams,IT,Employee,Active,EMP0081,2022-09-16,,Low
-EMP0317,Daniel Taylor,Marketing,Employee,Active,EMP0079,2020-11-24,,Low
-EMP0318,Robert Rodriguez,Security,Employee,Active,EMP0042,2022-03-04,,Low
-EMP0319,Richard Jackson,Security,Employee,Active,EMP0056,2022-03-03,,Low
-EMP0320,Patricia Anderson,IT,Employee,Active,EMP0002,2022-03-07,,Low
-EMP0321,Jennifer Thomas,Sales,Employee,Active,EMP0096,2019-10-13,,Low
-EMP0322,Matthew Ramirez,Engineering,Employee,Active,EMP0035,2024-04-28,,Low
-EMP0323,Thomas Williams,Engineering,Employee,Active,EMP0008,2019-03-08,,Low
-EMP0324,Jessica Ramirez,Finance,Employee,Active,EMP0030,2021-07-10,,Low
-EMP0325,Lisa Taylor,IT,Employee,Active,EMP0050,2025-02-25,,Low
-EMP0326,Sandra Jones,Finance,Employee,Active,EMP0054,2025-04-02,,Low
-EMP0327,Sandra White,Sales,Employee,Active,EMP0087,2022-08-09,,Low
-EMP0328,Mark Johnson,Finance,Employee,Active,EMP0037,2023-02-22,,Low
-EMP0329,Matthew Ramirez,Engineering,Employee,Active,EMP0038,2021-12-23,,Low
-EMP0330,Charles Sanchez,Engineering,Employee,Active,EMP0094,2018-08-31,,Low
-EMP0331,Mark Moore,HR,Employee,Active,EMP0045,2023-12-17,,Low
-EMP0332,Christopher Clark,IT,Employee,Active,EMP0027,2021-11-21,,Low
-EMP0333,Thomas Davis,Marketing,Employee,Active,EMP0067,2020-02-17,,Low
-EMP0334,Susan Thompson,Sales,Employee,Active,EMP0082,2020-07-04,,Low
-EMP0335,Anthony Gonzalez,Security,Employee,Active,EMP0038,2019-01-04,,Low
-EMP0336,William Ramirez,Sales,Employee,Active,EMP0030,2021-03-29,,Low
-EMP0337,John Miller,Finance,Employee,Active,EMP0041,2019-02-03,,Low
-EMP0338,Susan Brown,Sales,Employee,Active,EMP0012,2023-04-27,,Low
-EMP0339,Jennifer Sanchez,Engineering,Employee,Active,EMP0046,2018-11-18,,Low
-EMP0340,Richard Taylor,IT,Employee,Active,EMP0096,2022-04-18,,Low
-EMP0341,Sarah Davis,Security,Employee,Active,EMP0100,2020-06-19,,Low
-EMP0342,Linda Jones,HR,Employee,Active,EMP0076,2021-02-26,,Low
-EMP0343,William Robinson,Security,Employee,Active,EMP0043,2025-05-27,,Low
-EMP0344,Patricia Johnson,Operations,Employee,Active,EMP0064,2025-01-29,,Low
-EMP0345,James Gonzalez,Marketing,Employee,Active,EMP0020,2023-09-17,,Low
-EMP0346,Mary Martin,HR,Employee,Active,EMP0008,2018-05-22,,Low
-EMP0347,John Rodriguez,Marketing,Employee,Active,EMP0003,2024-02-09,,Low
-EMP0348,Richard Sanchez,Sales,Employee,Active,EMP0065,2020-04-08,,Low
-EMP0349,David Gonzalez,Engineering,Employee,Active,EMP0008,2023-08-19,,Low
-EMP0350,Betty Thomas,Sales,Employee,Active,EMP0035,2019-02-05,,Low
-EMP0351,Sarah Clark,IT,Employee,Active,EMP0031,2023-03-10,,Low
-EMP0352,Charles Hernandez,Sales,Employee,Active,EMP0073,2019-01-05,,Low
-EMP0353,Michael Clark,Operations,Employee,Active,EMP0030,2019-07-27,,Low
-EMP0354,Karen Davis,IT,Employee,Active,EMP0044,2019-09-29,,Low
-EMP0355,Daniel Garcia,Sales,Employee,Active,EMP0100,2024-12-24,,Low
-EMP0356,Patricia Ramirez,Sales,Employee,Active,EMP0039,2024-10-31,,Low
-EMP0357,David Jones,Finance,Employee,Active,EMP0091,2020-09-30,,Low
-EMP0358,Sarah Thompson,Sales,Employee,Active,EMP0017,2023-02-22,,Low
-EMP0359,Jennifer White,IT,Employee,Active,EMP0079,2019-03-23,,Low
-EMP0360,Linda Lee,Security,Employee,Active,EMP0022,2020-01-31,,Low
-EMP0361,Christopher Lewis,Security,Employee,Active,EMP0027,2018-06-25,,Low
-EMP0362,Linda Thompson,Security,Employee,Active,EMP0050,2021-09-19,,Low
-EMP0363,Joseph White,Marketing,Employee,Active,EMP0070,2023-10-13,,Low
-EMP0364,Richard Brown,Operations,Employee,Active,EMP0005,2019-03-02,,Low
-EMP0365,Elizabeth Smith,Sales,Employee,Active,EMP0021,2022-09-20,,Low
-EMP0366,Lisa Williams,Security,Employee,Active,EMP0084,2021-11-09,,Low
-EMP0367,Jennifer Martin,Marketing,Employee,Active,EMP0090,2023-11-20,,Low
-EMP0368,Sarah White,Engineering,Employee,Active,EMP0071,2022-06-28,,Low
-EMP0369,Anthony Thomas,Finance,Employee,Active,EMP0077,2025-01-13,,Low
-EMP0370,Jessica Miller,Security,Employee,Active,EMP0040,2025-05-11,,Low
-EMP0371,Betty Gonzalez,Operations,Employee,Active,EMP0050,2020-02-29,,Low
-EMP0372,Jennifer Lopez,Marketing,Employee,Active,EMP0034,2021-07-03,,Low
-EMP0373,Linda Clark,Engineering,Employee,Active,EMP0070,2019-04-27,,Low
-EMP0374,Susan Harris,HR,Employee,Active,EMP0069,2019-06-10,,Low
-EMP0375,Nancy Ramirez,Operations,Employee,Active,EMP0092,2019-03-24,,Low
-EMP0376,Mary Taylor,Finance,Employee,Active,EMP0017,2024-04-19,,Low
-EMP0377,Mary Wilson,Security,Employee,Active,EMP0034,2020-10-06,,Low
-EMP0378,David Robinson,Security,Employee,Active,EMP0067,2024-09-02,,Low
-EMP0379,Joseph Robinson,IT,Employee,Active,EMP0073,2018-08-29,,Low
-EMP0380,Charles Jackson,Security,Employee,Active,EMP0045,2024-06-18,,Low
-EMP0381,Mark Wilson,Engineering,Employee,Active,EMP0023,2021-05-09,,Low
-EMP0382,William Gonzalez,Finance,Employee,Active,EMP0089,2018-09-18,,Low
-EMP0383,Linda Johnson,Operations,Employee,Active,EMP0040,2022-08-20,,Low
-EMP0384,William Clark,Operations,Employee,Active,EMP0100,2024-07-18,,Low
-EMP0385,Anthony Hernandez,Engineering,Employee,Active,EMP0053,2020-12-21,,Low
-EMP0386,Lisa Thomas,Sales,Employee,Active,EMP0052,2025-01-06,,Low
-EMP0387,Robert Harris,IT,Employee,Active,EMP0059,2023-09-13,,Low
-EMP0388,Mary Robinson,Sales,Employee,Active,EMP0088,2023-06-01,,Low
-EMP0389,James Davis,Sales,Employee,Active,EMP0071,2020-03-01,,Low
-EMP0390,Barbara Lopez,Finance,Employee,Active,EMP0007,2022-09-30,,Low
-EMP0391,Jennifer Ramirez,HR,Employee,Active,EMP0066,2023-03-02,,Low
-EMP0392,James Ramirez,IT,Employee,Active,EMP0033,2020-05-01,,Low
-EMP0393,Karen Sanchez,Engineering,Employee,Active,EMP0033,2018-06-10,,Low
-EMP0394,Michael Anderson,Engineering,Employee,Active,EMP0066,2019-10-23,,Low
-EMP0395,Nancy Clark,Sales,Employee,Active,EMP0062,2019-05-09,,Low
-EMP0396,John Hernandez,Engineering,Employee,Active,EMP0025,2018-06-19,,Low
-EMP0397,Robert Taylor,HR,Employee,Active,EMP0088,2025-01-04,,Low
-EMP0398,Robert White,IT,Employee,Active,EMP0095,2018-04-19,,Low
-EMP0399,Mary Jackson,HR,Employee,Active,EMP0086,2021-10-19,,Low
-EMP0400,Barbara Taylor,Engineering,Employee,Active,EMP0061,2023-09-28,,Low
-EMP0401,Robert White,Engineering,Employee,Active,EMP0084,2019-05-19,,Low
-EMP0402,John Davis,Sales,Employee,Active,EMP0048,2023-02-22,,Low
-EMP0403,William Jackson,Engineering,Employee,Active,EMP0075,2020-06-12,,Low
-EMP0404,Karen Williams,Operations,Employee,Active,EMP0007,2023-06-20,,Low
-EMP0405,Margaret Ramirez,Finance,Employee,Active,EMP0019,2024-02-09,,Low
-EMP0406,David Ramirez,Finance,Employee,Active,EMP0001,2024-09-27,,Low
-EMP0407,Joseph Rodriguez,HR,Employee,Active,EMP0017,2023-10-04,,Low
-EMP0408,Karen Wilson,Marketing,Employee,Active,EMP0026,2021-02-14,,Low
-EMP0409,Lisa Lopez,IT,Employee,Active,EMP0094,2022-01-13,,Low
-EMP0410,Linda Davis,Sales,Employee,Active,EMP0022,2022-02-23,,Low
-EMP0411,John Clark,IT,Employee,Active,EMP0088,2022-04-21,,Low
-EMP0412,Robert Hernandez,Operations,Employee,Active,EMP0003,2021-08-14,,Low
-EMP0413,Linda Davis,Finance,Employee,Active,EMP0047,2023-04-12,,Low
-EMP0414,Daniel Lee,IT,Employee,Active,EMP0077,2021-06-10,,Low
-EMP0415,Mary Perez,Security,Employee,Active,EMP0057,2018-04-26,,Low
-EMP0416,Richard Brown,Engineering,Employee,Active,EMP0002,2020-04-29,,Low
-EMP0417,Elizabeth Wilson,Security,Employee,Active,EMP0014,2019-10-24,,Low
-EMP0418,Thomas White,Security,Employee,Active,EMP0026,2022-06-24,,Low
-EMP0419,Matthew Rodriguez,HR,Employee,Active,EMP0064,2021-08-19,,Low
-EMP0420,Sandra Miller,Operations,Employee,Active,EMP0074,2021-12-09,,Low
-EMP0421,Nancy Thomas,Finance,Employee,Active,EMP0033,2024-08-21,,Low
-EMP0422,Christopher Davis,Operations,Employee,Active,EMP0006,2022-04-30,,Low
-EMP0423,Margaret Martinez,Sales,Employee,Active,EMP0002,2022-02-21,,Low
-EMP0424,Margaret Jones,Finance,Employee,Active,EMP0048,2021-12-17,,Low
-EMP0425,Anthony Hernandez,Finance,Employee,Active,EMP0089,2024-05-15,,Low
-EMP0426,Margaret Thomas,Marketing,Employee,Active,EMP0021,2018-05-16,,Low
-EMP0427,Patricia Wilson,Operations,Employee,Active,EMP0079,2019-04-08,,Low
-EMP0428,James Ramirez,Finance,Employee,Active,EMP0006,2020-03-25,,Low
-EMP0429,John Rodriguez,Sales,Employee,Active,EMP0093,2025-07-05,,Low
-EMP0430,Charles Davis,Sales,Employee,Active,EMP0062,2019-10-29,,Low
-EMP0431,Barbara Perez,Marketing,Employee,Active,EMP0002,2023-12-25,,Low
-EMP0432,Christopher Robinson,Finance,Employee,Active,EMP0097,2019-12-24,,Low
-EMP0433,Jessica Hernandez,HR,Employee,Active,EMP0052,2021-12-08,,Low
-EMP0434,Anthony Davis,Security,Employee,Active,EMP0058,2020-07-01,,Low
-EMP0435,David Brown,Operations,Employee,Active,EMP0071,2018-04-27,,Low
-EMP0436,James Clark,Security,Employee,Active,EMP0027,2018-11-15,,Low
-EMP0437,Christopher Perez,Operations,Employee,Active,EMP0043,2021-10-28,,Low
-EMP0438,Sarah Harris,Operations,Employee,Active,EMP0001,2018-04-12,,Low
-EMP0439,David Lopez,Engineering,Employee,Active,EMP0064,2019-07-04,,Low
-EMP0440,Robert Clark,Marketing,Employee,Active,EMP0028,2024-06-12,,Low
-EMP0441,Joseph Clark,HR,Employee,Active,EMP0016,2021-11-09,,Low
-EMP0442,Matthew Lewis,Operations,Employee,Active,EMP0068,2020-07-08,,Low
-EMP0443,Lisa Johnson,Marketing,Employee,Active,EMP0089,2019-02-01,,Low
-EMP0444,Charles Garcia,Finance,Employee,Active,EMP0065,2024-06-26,,Low
-EMP0445,Mark Gonzalez,Marketing,Employee,Active,EMP0038,2018-10-26,,Low
-EMP0446,Joseph Sanchez,Finance,Employee,Active,EMP0041,2024-02-06,,Low
-EMP0447,Daniel White,HR,Employee,Active,EMP0091,2023-05-25,,Low
-EMP0448,Christopher Garcia,Sales,Employee,Active,EMP0086,2024-05-09,,Low
-EMP0449,Daniel Wilson,Engineering,Employee,Active,EMP0019,2020-11-28,,Low
-EMP0450,Mary Perez,IT,Employee,Active,EMP0008,2023-05-29,,Low
-EMP0451,Daniel Sanchez,Engineering,Employee,Active,EMP0014,2023-05-12,,Low
-EMP0452,Karen Ramirez,HR,Employee,Active,EMP0089,2018-05-23,,Low
-EMP0453,Nancy Johnson,Marketing,Employee,Active,EMP0096,2021-04-20,,Low
-EMP0454,William Miller,Operations,Employee,Active,EMP0095,2023-02-13,,Low
-EMP0455,Karen Miller,HR,Employee,Active,EMP0016,2022-05-08,,Low
-EMP0456,Richard Johnson,Marketing,Employee,Active,EMP0001,2022-07-08,,Low
-EMP0457,David Anderson,Finance,Employee,Active,EMP0079,2025-03-14,,Low
-EMP0458,Anthony Perez,Engineering,Employee,Active,EMP0068,2020-02-23,,Low
-EMP0459,Linda Garcia,Security,Employee,Active,EMP0045,2019-12-25,,Low
-EMP0460,Linda Lewis,HR,Employee,Active,EMP0068,2021-12-04,,Low
-EMP0461,Jessica Moore,IT,Employee,Active,EMP0032,2024-05-12,,Low
-EMP0462,Mary Perez,Sales,Employee,Active,EMP0093,2021-05-15,,Low
-EMP0463,Elizabeth Smith,Sales,Employee,Active,EMP0084,2019-11-18,,Low
-EMP0464,Michael Hernandez,Security,Employee,Active,EMP0009,2024-07-27,,Low
-EMP0465,Michael Perez,HR,Employee,Active,EMP0083,2020-11-21,,Low
-EMP0466,Anthony Williams,Finance,Employee,Active,EMP0007,2025-05-19,,Low
-EMP0467,Jennifer Sanchez,Engineering,Employee,Active,EMP0050,2019-05-23,,Low
-EMP0468,Joseph Lee,Marketing,Employee,Active,EMP0001,2020-10-16,,Low
-EMP0469,Christopher White,Security,Employee,Active,EMP0014,2019-01-30,,Low
-EMP0470,Elizabeth Sanchez,Engineering,Employee,Active,EMP0061,2018-11-05,,Low
-EMP0471,Jennifer Moore,HR,Employee,Active,EMP0039,2024-02-13,,Low
-EMP0472,Nancy Lewis,Sales,Employee,Active,EMP0001,2025-07-10,,Low
-EMP0473,Charles Martin,Marketing,Employee,Active,EMP0028,2019-08-16,,Low
-EMP0474,Susan Lewis,Finance,Employee,Active,EMP0015,2023-11-04,,Low
-EMP0475,Jennifer Perez,IT,Employee,Active,EMP0013,2019-06-29,,Low
-EMP0476,Michael White,Operations,Employee,Active,EMP0009,2021-12-08,,Low
-EMP0477,Mark Miller,Sales,Employee,Active,EMP0020,2020-03-13,,Low
-EMP0478,Charles Jackson,Sales,Employee,Active,EMP0092,2022-02-06,,Low
-EMP0479,Lisa Lee,Marketing,Employee,Active,EMP0062,2022-07-18,,Low
-EMP0480,Joseph Anderson,Sales,Employee,Active,EMP0011,2022-03-22,,Low
-EMP0481,Anthony Rodriguez,Finance,Employee,Active,EMP0003,2019-08-10,,Low
-EMP0482,Margaret Taylor,IT,Employee,Active,EMP0034,2019-02-14,,Low
-EMP0483,Sarah Lewis,Operations,Employee,Active,EMP0094,2018-04-25,,Low
-EMP0484,Margaret Martinez,Finance,Employee,Active,EMP0002,2020-06-08,,Low
-EMP0485,Nancy Davis,Finance,Employee,Active,EMP0085,2019-11-19,,Low
-EMP0486,Margaret Jones,Operations,Employee,Active,EMP0048,2021-08-16,,Low
-EMP0487,Linda Johnson,HR,Employee,Active,EMP0006,2019-11-03,,Low
-EMP0488,Mary Lee,Sales,Employee,Active,EMP0075,2024-06-28,,Low
-EMP0489,Sarah Jackson,Finance,Employee,Active,EMP0067,2021-06-04,,Low
-EMP0490,William Gonzalez,HR,Employee,Active,EMP0078,2019-11-09,,Low
-EMP0491,James Taylor,Finance,Employee,Active,EMP0028,2020-09-18,,Low
-EMP0492,Robert Garcia,Finance,Employee,Active,EMP0043,2021-08-02,,Low
-EMP0493,Lisa Brown,Operations,Employee,Active,EMP0003,2020-04-11,,Low
-EMP0494,Linda Johnson,Finance,Employee,Active,EMP0074,2019-03-20,,Low
-EMP0495,Robert Johnson,Finance,Employee,Active,EMP0082,2022-10-02,,Low
-EMP0496,James Lewis,Engineering,Employee,Active,EMP0022,2024-09-07,,Low
-EMP0497,Linda Clark,Marketing,Employee,Active,EMP0080,2018-11-28,,Low
-EMP0498,Nancy Taylor,Engineering,Employee,Active,EMP0076,2023-10-08,,Low
-EMP0499,John Davis,Marketing,Employee,Active,EMP0088,2021-04-29,,Low
-EMP0500,Susan Clark,Finance,Employee,Active,EMP0005,2018-11-09,,Low
+identity_id,full_name,department,employment_type,employment_status,hire_date,termination_date,manager_id,email
+SVC001,svc_it_001,IT,ServiceAccount,Active,2020-01-01,,,svc_it_001@company.com
+SVC002,svc_engineering_002,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_002@company.com
+SVC003,svc_security_003,Security,ServiceAccount,Active,2020-01-01,,,svc_security_003@company.com
+SVC004,svc_engineering_004,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_004@company.com
+SVC005,svc_it_005,IT,ServiceAccount,Active,2020-01-01,,,svc_it_005@company.com
+SVC006,svc_operations_006,Operations,ServiceAccount,Active,2020-01-01,,,svc_operations_006@company.com
+SVC007,svc_it_007,IT,ServiceAccount,Active,2020-01-01,,,svc_it_007@company.com
+SVC008,svc_engineering_008,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_008@company.com
+SVC009,svc_it_009,IT,ServiceAccount,Active,2020-01-01,,,svc_it_009@company.com
+SVC010,svc_engineering_010,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_010@company.com
+SVC011,svc_security_011,Security,ServiceAccount,Active,2020-01-01,,,svc_security_011@company.com
+SVC012,svc_engineering_012,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_012@company.com
+SVC013,svc_it_013,IT,ServiceAccount,Active,2020-01-01,,,svc_it_013@company.com
+SVC014,svc_operations_014,Operations,ServiceAccount,Active,2020-01-01,,,svc_operations_014@company.com
+SVC015,svc_it_015,IT,ServiceAccount,Active,2020-01-01,,,svc_it_015@company.com
+SVC016,svc_engineering_016,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_016@company.com
+SVC017,svc_it_017,IT,ServiceAccount,Active,2020-01-01,,,svc_it_017@company.com
+SVC018,svc_engineering_018,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_018@company.com
+SVC019,svc_security_019,Security,ServiceAccount,Active,2020-01-01,,,svc_security_019@company.com
+SVC020,svc_engineering_020,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_020@company.com
+SVC021,svc_it_021,IT,ServiceAccount,Active,2020-01-01,,,svc_it_021@company.com
+SVC022,svc_operations_022,Operations,ServiceAccount,Active,2020-01-01,,,svc_operations_022@company.com
+SVC023,svc_it_023,IT,ServiceAccount,Active,2020-01-01,,,svc_it_023@company.com
+SVC024,svc_engineering_024,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_024@company.com
+SVC025,svc_it_025,IT,ServiceAccount,Active,2020-01-01,,,svc_it_025@company.com
+SVC026,svc_engineering_026,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_026@company.com
+SVC027,svc_security_027,Security,ServiceAccount,Active,2020-01-01,,,svc_security_027@company.com
+SVC028,svc_engineering_028,Engineering,ServiceAccount,Active,2020-01-01,,,svc_engineering_028@company.com
+SVC029,svc_it_029,IT,ServiceAccount,Active,2020-01-01,,,svc_it_029@company.com
+SVC030,svc_operations_030,Operations,ServiceAccount,Active,2020-01-01,,,svc_operations_030@company.com
+CON001,Scarlett Anderson,IT,Contractor,Terminated,2023-05-06,2024-05-20,EMP0115,scarlett.anderson@contractor.company.com
+CON002,Karen Patel,Engineering,Contractor,Terminated,2023-02-14,2024-10-06,EMP0303,karen.patel@contractor.company.com
+CON003,Ryan Jones,IT,Contractor,Terminated,2023-04-22,2024-02-17,EMP0120,ryan.jones@contractor.company.com
+CON004,Jonathan Cox,IT,Contractor,Terminated,2023-04-12,2024-10-14,EMP0367,jonathan.cox@contractor.company.com
+CON005,Grace Hughes,Sales,Contractor,Terminated,2023-08-18,2024-04-22,EMP0302,grace.hughes@contractor.company.com
+CON006,Sharon Russell,IT,Contractor,Terminated,2023-12-24,2024-03-22,EMP0217,sharon.russell@contractor.company.com
+CON007,Kimberly Scott,Security,Contractor,Terminated,2024-01-26,2024-04-20,EMP0173,kimberly.scott@contractor.company.com
+CON008,Jessica Lopez,Sales,Contractor,Terminated,2023-07-03,2024-02-19,EMP0177,jessica.lopez@contractor.company.com
+CON009,Abigail King,IT,Contractor,Active,2024-01-09,,EMP0236,abigail.king@contractor.company.com
+CON010,Larry Thomas,Sales,Contractor,Active,2023-02-10,,EMP0283,larry.thomas@contractor.company.com
+CON011,Michelle Coleman,Finance,Contractor,Active,2023-10-23,,EMP0099,michelle.coleman@contractor.company.com
+CON012,Jack Rodriguez,IT,Contractor,Active,2023-12-05,,EMP0117,jack.rodriguez@contractor.company.com
+CON013,Aaron Nguyen,Engineering,Contractor,Active,2023-04-30,,EMP0052,aaron.nguyen@contractor.company.com
+CON014,Timothy Scott,Marketing,Contractor,Active,2023-11-22,,EMP0187,timothy.scott@contractor.company.com
+CON015,Matthew Mitchell,Finance,Contractor,Active,2023-04-18,,EMP0344,matthew.mitchell@contractor.company.com
+CON016,Joshua Hughes,Engineering,Contractor,Active,2023-11-08,,EMP0326,joshua.hughes@contractor.company.com
+CON017,Lisa Morgan,HR,Contractor,Active,2023-03-25,,EMP0237,lisa.morgan@contractor.company.com
+CON018,Timothy Wright,HR,Contractor,Active,2023-12-17,,EMP0167,timothy.wright@contractor.company.com
+CON019,Natalie Foster,IT,Contractor,Active,2023-04-28,,EMP0017,natalie.foster@contractor.company.com
+CON020,Addison Green,Sales,Contractor,Active,2023-05-18,,EMP0034,addison.green@contractor.company.com
+CON021,Sandra Reed,Finance,Contractor,Active,2023-04-19,,EMP0336,sandra.reed@contractor.company.com
+CON022,Sophia Gomez,Marketing,Contractor,Active,2023-03-15,,EMP0136,sophia.gomez@contractor.company.com
+CON023,Karen Young,Operations,Contractor,Active,2024-01-18,,EMP0300,karen.young@contractor.company.com
+CON024,Ryan Howard,Sales,Contractor,Active,2023-07-05,,EMP0113,ryan.howard@contractor.company.com
+CON025,Karen Rogers,Marketing,Contractor,Active,2023-02-16,,EMP0387,karen.rogers@contractor.company.com
+CON026,William Gonzales,Engineering,Contractor,Active,2023-03-20,,EMP0322,william.gonzales@contractor.company.com
+CON027,Matthew Jenkins,Sales,Contractor,Active,2023-11-02,,EMP0033,matthew.jenkins@contractor.company.com
+CON028,Amy Carter,Marketing,Contractor,Active,2023-09-28,,EMP0129,amy.carter@contractor.company.com
+CON029,Justin Gonzales,IT,Contractor,Active,2023-12-15,,EMP0370,justin.gonzales@contractor.company.com
+CON030,Thomas Mendoza,Operations,Contractor,Active,2024-01-29,,EMP0329,thomas.mendoza@contractor.company.com
+CON031,Kimberly Anderson,Operations,Contractor,Active,2023-08-11,,EMP0081,kimberly.anderson@contractor.company.com
+CON032,Gary Smith,Operations,Contractor,Active,2023-09-14,,EMP0391,gary.smith@contractor.company.com
+CON033,Anthony Cook,Engineering,Contractor,Active,2023-11-17,,EMP0153,anthony.cook@contractor.company.com
+CON034,Natalie Brooks,HR,Contractor,Active,2023-03-20,,EMP0192,natalie.brooks@contractor.company.com
+CON035,Zoey Lee,IT,Contractor,Active,2023-11-03,,EMP0166,zoey.lee@contractor.company.com
+CON036,Eric Williams,Engineering,Contractor,Active,2023-07-05,,EMP0414,eric.williams@contractor.company.com
+CON037,Laura Walker,IT,Contractor,Active,2023-05-04,,EMP0291,laura.walker@contractor.company.com
+CON038,Richard Hernandez,Marketing,Contractor,Active,2023-02-05,,EMP0390,richard.hernandez@contractor.company.com
+CON039,Larry Foster,Security,Contractor,Active,2023-03-07,,EMP0338,larry.foster@contractor.company.com
+CON040,Nicholas Peterson,Security,Contractor,Active,2023-05-16,,EMP0271,nicholas.peterson@contractor.company.com
+CON041,Leah Cox,Sales,Contractor,Active,2023-04-19,,EMP0277,leah.cox@contractor.company.com
+CON042,Tyler Sanders,HR,Contractor,Active,2024-01-01,,EMP0160,tyler.sanders@contractor.company.com
+CON043,Angela Bennett,Finance,Contractor,Active,2023-08-13,,EMP0265,angela.bennett@contractor.company.com
+CON044,Emma Thomas,HR,Contractor,Active,2023-04-26,,EMP0033,emma.thomas@contractor.company.com
+CON045,Kimberly Williams,HR,Contractor,Active,2023-10-29,,EMP0113,kimberly.williams@contractor.company.com
+CON046,James Martinez,IT,Contractor,Active,2023-04-28,,EMP0035,james.martinez@contractor.company.com
+CON047,Samantha Jones,Finance,Contractor,Active,2023-02-06,,EMP0264,samantha.jones@contractor.company.com
+CON048,Paul Scott,Marketing,Contractor,Active,2023-04-20,,EMP0277,paul.scott@contractor.company.com
+CON049,Charles Castillo,Marketing,Contractor,Active,2023-05-05,,EMP0402,charles.castillo@contractor.company.com
+CON050,Nicholas Russell,Sales,Contractor,Active,2023-04-08,,EMP0049,nicholas.russell@contractor.company.com
+EMP0001,Joseph James,Sales,Employee,Terminated,2022-05-17,2024-06-30,,joseph.james@company.com
+EMP0002,Jeffrey Reyes,IT,Employee,Terminated,2020-05-04,2024-02-20,EMP0207,jeffrey.reyes@company.com
+EMP0003,Lily Baker,Engineering,Employee,Terminated,2021-01-27,2024-05-07,EMP0098,lily.baker@company.com
+EMP0004,Larry Edwards,Security,Employee,Terminated,2021-01-10,2024-08-04,EMP0143,larry.edwards@company.com
+EMP0005,Olivia Young,Engineering,Employee,Terminated,2023-02-01,2024-08-14,EMP0051,olivia.young@company.com
+EMP0006,William Wood,IT,Employee,Terminated,2021-04-29,2024-02-17,EMP0086,william.wood@company.com
+EMP0007,Jeffrey Morales,Marketing,Employee,Terminated,2022-04-01,2024-04-19,EMP0031,jeffrey.morales@company.com
+EMP0008,Lisa Carter,IT,Employee,Terminated,2021-06-27,2024-07-18,EMP0402,lisa.carter@company.com
+EMP0009,Jose Collins,Operations,Employee,Terminated,2023-02-12,2024-08-04,EMP0339,jose.collins@company.com
+EMP0010,Aria Morales,Security,Employee,Terminated,2021-08-30,2024-04-07,EMP0112,aria.morales@company.com
+EMP0011,Patricia Howard,IT,Employee,Terminated,2020-04-27,2024-06-09,EMP0026,patricia.howard@company.com
+EMP0012,Brandon Morris,Security,Employee,Terminated,2022-11-06,2024-01-30,EMP0042,brandon.morris@company.com
+EMP0013,Douglas White,Engineering,Employee,Terminated,2021-04-26,2024-02-04,EMP0207,douglas.white@company.com
+EMP0014,Sarah Reed,HR,Employee,Terminated,2020-03-22,2024-10-23,EMP0318,sarah.reed@company.com
+EMP0015,Richard Turner,Finance,Employee,Terminated,2021-02-22,2024-05-13,EMP0343,richard.turner@company.com
+EMP0016,Aria Green,HR,Employee,Active,2021-06-27,,EMP0203,aria.green@company.com
+EMP0017,Charles Bennett,Operations,Employee,Active,2022-07-25,,EMP0162,charles.bennett@company.com
+EMP0018,Walter Long,Engineering,Employee,Active,2020-01-20,,EMP0235,walter.long@company.com
+EMP0019,Ella Reed,Engineering,Employee,Active,2020-05-30,,EMP0276,ella.reed@company.com
+EMP0020,Sandra Cook,Operations,Employee,Active,2020-09-28,,EMP0179,sandra.cook@company.com
+EMP0021,Peter Rodriguez,HR,Employee,Active,2022-01-26,,EMP0146,peter.rodriguez@company.com
+EMP0022,Matthew Cruz,Operations,Employee,Active,2022-12-19,,EMP0005,matthew.cruz@company.com
+EMP0023,Chloe Sullivan,Operations,Employee,Active,2020-07-31,,EMP0069,chloe.sullivan@company.com
+EMP0024,Ruth Anderson,Engineering,Employee,Active,2023-02-07,,EMP0080,ruth.anderson@company.com
+EMP0025,Joshua Torres,HR,Employee,Active,2021-12-03,,EMP0105,joshua.torres@company.com
+EMP0026,Victoria Brooks,Operations,Employee,Active,2022-11-01,,EMP0251,victoria.brooks@company.com
+EMP0027,Andrew Henderson,IT,Employee,Active,2020-07-08,,EMP0325,andrew.henderson@company.com
+EMP0028,Ryan Coleman,Operations,Employee,Active,2020-03-31,,EMP0002,ryan.coleman@company.com
+EMP0029,George Foster,Security,Employee,Active,2021-06-20,,EMP0083,george.foster@company.com
+EMP0030,Jerry Cruz,Sales,Employee,Active,2023-02-22,,EMP0005,jerry.cruz@company.com
+EMP0031,Thomas Martinez,Security,Employee,Active,2023-01-22,,EMP0019,thomas.martinez@company.com
+EMP0032,Henry Mitchell,Security,Employee,Active,2022-05-30,,EMP0066,henry.mitchell@company.com
+EMP0033,Linda Flores,Finance,Employee,Active,2020-03-22,,EMP0184,linda.flores@company.com
+EMP0034,Donald Mendoza,HR,Employee,Active,2020-07-29,,EMP0182,donald.mendoza@company.com
+EMP0035,Penelope Bailey,Sales,Employee,Active,2020-11-12,,EMP0122,penelope.bailey@company.com
+EMP0036,Zachary Lee,Security,Employee,Active,2022-04-24,,EMP0013,zachary.lee@company.com
+EMP0037,Anthony Patel,Finance,Employee,Active,2022-04-23,,EMP0411,anthony.patel@company.com
+EMP0038,Chloe Gonzales,HR,Employee,Active,2021-06-30,,EMP0082,chloe.gonzales@company.com
+EMP0039,Jose Hughes,Engineering,Employee,Active,2022-02-22,,EMP0020,jose.hughes@company.com
+EMP0040,Hannah Stewart,HR,Employee,Active,2021-02-12,,EMP0419,hannah.stewart@company.com
+EMP0041,Anna Collins,Finance,Employee,Active,2021-09-17,,EMP0408,anna.collins@company.com
+EMP0042,Leah Robinson,HR,Employee,Active,2020-02-18,,EMP0338,leah.robinson@company.com
+EMP0043,Mark Phillips,Finance,Employee,Active,2021-07-24,,EMP0036,mark.phillips@company.com
+EMP0044,Aaron Scott,Finance,Employee,Active,2022-11-09,,EMP0205,aaron.scott@company.com
+EMP0045,Frank Butler,Finance,Employee,Active,2020-02-26,,EMP0060,frank.butler@company.com
+EMP0046,Peter King,Security,Employee,Active,2023-04-04,,EMP0136,peter.king@company.com
+EMP0047,Michael Wilson,Sales,Employee,Active,2021-12-08,,EMP0374,michael.wilson@company.com
+EMP0048,Jose Green,Sales,Employee,Active,2022-11-13,,EMP0060,jose.green@company.com
+EMP0049,Amy Kelly,HR,Employee,Active,2021-06-05,,EMP0023,amy.kelly@company.com
+EMP0050,Jack Parker,IT,Employee,Active,2022-11-30,,EMP0413,jack.parker@company.com
+EMP0051,Larry Mendoza,HR,Employee,Active,2022-01-15,,EMP0221,larry.mendoza@company.com
+EMP0052,David Bennett,Finance,Employee,Active,2021-10-04,,EMP0340,david.bennett@company.com
+EMP0053,Douglas Thomas,Operations,Employee,Active,2022-11-04,,EMP0159,douglas.thomas@company.com
+EMP0054,Chloe Evans,Finance,Employee,Active,2022-04-04,,EMP0357,chloe.evans@company.com
+EMP0055,Michelle Peterson,Security,Employee,Active,2021-01-27,,EMP0216,michelle.peterson@company.com
+EMP0056,Chloe Carter,Security,Employee,Active,2023-03-11,,EMP0155,chloe.carter@company.com
+EMP0057,Angela Peterson,IT,Employee,Active,2021-09-14,,EMP0147,angela.peterson@company.com
+EMP0058,Donald Parker,Finance,Employee,Active,2022-08-10,,EMP0227,donald.parker@company.com
+EMP0059,Jacob Gray,HR,Employee,Active,2022-11-12,,EMP0243,jacob.gray@company.com
+EMP0060,Lillian Jenkins,Security,Employee,Active,2020-06-22,,EMP0146,lillian.jenkins@company.com
+EMP0061,Isabella James,Finance,Employee,Active,2020-07-10,,EMP0420,isabella.james@company.com
+EMP0062,Tyler Walker,Operations,Employee,Active,2021-04-05,,EMP0413,tyler.walker@company.com
+EMP0063,Helen Jackson,IT,Employee,Active,2020-04-04,,EMP0126,helen.jackson@company.com
+EMP0064,Nicholas Ward,Engineering,Employee,Active,2022-07-21,,EMP0213,nicholas.ward@company.com
+EMP0065,Audrey Watson,HR,Employee,Active,2022-02-25,,EMP0254,audrey.watson@company.com
+EMP0066,Angela Young,Security,Employee,Active,2020-01-12,,EMP0385,angela.young@company.com
+EMP0067,Zachary Foster,Engineering,Employee,Active,2022-05-20,,EMP0113,zachary.foster@company.com
+EMP0068,Anthony Perry,Marketing,Employee,Active,2020-04-12,,EMP0286,anthony.perry@company.com
+EMP0069,Carol Henderson,Engineering,Employee,Active,2022-07-23,,EMP0069,carol.henderson@company.com
+EMP0070,Adam Reyes,Finance,Employee,Active,2022-06-25,,EMP0314,adam.reyes@company.com
+EMP0071,Nathan Castillo,Sales,Employee,Active,2023-01-27,,EMP0229,nathan.castillo@company.com
+EMP0072,Kyle Lee,Marketing,Employee,Active,2022-07-10,,EMP0133,kyle.lee@company.com
+EMP0073,Tyler Young,Operations,Employee,Active,2022-12-03,,EMP0249,tyler.young@company.com
+EMP0074,Gregory Walker,Operations,Employee,Active,2022-06-19,,EMP0040,gregory.walker@company.com
+EMP0075,Aria Torres,HR,Employee,Active,2021-07-10,,EMP0172,aria.torres@company.com
+EMP0076,Brian Cooper,Engineering,Employee,Active,2020-10-10,,EMP0078,brian.cooper@company.com
+EMP0077,Donna Roberts,Security,Employee,Active,2021-03-14,,EMP0033,donna.roberts@company.com
+EMP0078,Ashley Evans,Finance,Employee,Active,2023-01-16,,EMP0239,ashley.evans@company.com
+EMP0079,Ashley Davis,HR,Employee,Active,2022-05-10,,EMP0200,ashley.davis@company.com
+EMP0080,Samantha Foster,IT,Employee,Active,2023-03-25,,EMP0195,samantha.foster@company.com
+EMP0081,Ava Smith,Finance,Employee,Active,2021-09-03,,EMP0386,ava.smith@company.com
+EMP0082,Amy Barnes,Sales,Employee,Active,2023-01-07,,EMP0383,amy.barnes@company.com
+EMP0083,Jerry Cooper,HR,Employee,Active,2022-09-26,,EMP0113,jerry.cooper@company.com
+EMP0084,Joshua Parker,Marketing,Employee,Active,2020-02-29,,EMP0200,joshua.parker@company.com
+EMP0085,Kimberly Bennett,Sales,Employee,Active,2020-12-04,,EMP0240,kimberly.bennett@company.com
+EMP0086,Anna Taylor,IT,Employee,Active,2022-03-17,,EMP0304,anna.taylor@company.com
+EMP0087,Scott James,IT,Employee,Active,2020-06-20,,EMP0330,scott.james@company.com
+EMP0088,Ryan Moore,Marketing,Employee,Active,2021-01-07,,EMP0026,ryan.moore@company.com
+EMP0089,Ruth Carter,Finance,Employee,Active,2021-03-09,,EMP0233,ruth.carter@company.com
+EMP0090,Emily Baker,Sales,Employee,Active,2021-07-23,,EMP0386,emily.baker@company.com
+EMP0091,Henry Turner,Operations,Employee,Active,2020-06-16,,EMP0241,henry.turner@company.com
+EMP0092,Robert Myers,IT,Employee,Active,2021-12-17,,EMP0115,robert.myers@company.com
+EMP0093,Grace Rodriguez,IT,Employee,Active,2020-03-04,,EMP0127,grace.rodriguez@company.com
+EMP0094,Helen Butler,IT,Employee,Active,2020-11-08,,EMP0123,helen.butler@company.com
+EMP0095,Charles Stewart,Engineering,Employee,Active,2023-03-01,,EMP0112,charles.stewart@company.com
+EMP0096,Olivia Hughes,Operations,Employee,Active,2022-01-25,,EMP0086,olivia.hughes@company.com
+EMP0097,Abigail Cox,Engineering,Employee,Active,2020-12-01,,EMP0160,abigail.cox@company.com
+EMP0098,Jessica Howard,IT,Employee,Active,2021-09-30,,EMP0295,jessica.howard@company.com
+EMP0099,Frank Carter,Sales,Employee,Active,2021-02-10,,EMP0039,frank.carter@company.com
+EMP0100,Evelyn Ruiz,HR,Employee,Active,2020-07-27,,EMP0357,evelyn.ruiz@company.com
+EMP0101,Aaron Hill,Engineering,Employee,Active,2023-03-05,,EMP0401,aaron.hill@company.com
+EMP0102,Linda Hall,Sales,Employee,Active,2022-01-28,,EMP0036,linda.hall@company.com
+EMP0103,Jonathan Chavez,Finance,Employee,Active,2020-01-26,,EMP0216,jonathan.chavez@company.com
+EMP0104,Lucy Morales,Engineering,Employee,Active,2022-06-06,,EMP0186,lucy.morales@company.com
+EMP0105,Scarlett Coleman,Marketing,Employee,Active,2020-11-09,,EMP0223,scarlett.coleman@company.com
+EMP0106,Anthony Sanders,Operations,Employee,Active,2023-01-07,,EMP0397,anthony.sanders@company.com
+EMP0107,Ava Reyes,Sales,Employee,Active,2021-07-03,,EMP0166,ava.reyes@company.com
+EMP0108,Hannah Young,Engineering,Employee,Active,2021-07-25,,EMP0231,hannah.young@company.com
+EMP0109,Carol Long,Marketing,Employee,Active,2023-03-13,,EMP0313,carol.long@company.com
+EMP0110,Chloe Carter,Finance,Employee,Active,2020-02-28,,EMP0254,chloe.carter@company.com
+EMP0111,Douglas Adams,Security,Employee,Active,2022-09-25,,EMP0109,douglas.adams@company.com
+EMP0112,Deborah Perry,Operations,Employee,Active,2021-11-28,,EMP0144,deborah.perry@company.com
+EMP0113,Peter Kim,Operations,Employee,Active,2023-02-12,,EMP0006,peter.kim@company.com
+EMP0114,Stephen Harris,Engineering,Employee,Active,2021-05-09,,EMP0369,stephen.harris@company.com
+EMP0115,Jeffrey Morales,HR,Employee,Active,2022-09-02,,EMP0331,jeffrey.morales@company.com
+EMP0116,Aria Morales,Marketing,Employee,Active,2020-02-05,,EMP0048,aria.morales@company.com
+EMP0117,Michelle Lewis,Sales,Employee,Active,2021-05-13,,EMP0157,michelle.lewis@company.com
+EMP0118,Patrick Howard,Finance,Employee,Active,2022-08-27,,EMP0284,patrick.howard@company.com
+EMP0119,Mia Hall,Sales,Employee,Active,2023-02-01,,EMP0170,mia.hall@company.com
+EMP0120,Deborah Hughes,Marketing,Employee,Active,2021-07-08,,EMP0157,deborah.hughes@company.com
+EMP0121,Andrew Robinson,Engineering,Employee,Active,2021-01-29,,EMP0162,andrew.robinson@company.com
+EMP0122,Sarah Myers,Security,Employee,Active,2021-01-27,,EMP0111,sarah.myers@company.com
+EMP0123,Jerry Morris,Operations,Employee,Active,2022-12-10,,EMP0306,jerry.morris@company.com
+EMP0124,Kenneth Gonzalez,HR,Employee,Active,2021-08-29,,EMP0117,kenneth.gonzalez@company.com
+EMP0125,Ronald Thompson,Operations,Employee,Active,2020-01-29,,EMP0363,ronald.thompson@company.com
+EMP0126,Larry Taylor,Operations,Employee,Active,2020-04-03,,EMP0028,larry.taylor@company.com
+EMP0127,Justin Nguyen,Security,Employee,Active,2022-10-02,,EMP0053,justin.nguyen@company.com
+EMP0128,Leah Johnson,Operations,Employee,Active,2022-08-19,,EMP0246,leah.johnson@company.com
+EMP0129,Jacob Baker,Security,Employee,Active,2020-04-15,,EMP0130,jacob.baker@company.com
+EMP0130,Zachary Morris,Engineering,Employee,Active,2020-05-13,,EMP0206,zachary.morris@company.com
+EMP0131,Eric Martinez,IT,Employee,Active,2020-11-06,,EMP0077,eric.martinez@company.com
+EMP0132,Addison Reed,Operations,Employee,Active,2020-06-23,,EMP0128,addison.reed@company.com
+EMP0133,Sarah Bailey,Sales,Employee,Active,2021-04-07,,EMP0398,sarah.bailey@company.com
+EMP0134,Stephen Carter,Marketing,Employee,Active,2022-06-25,,EMP0153,stephen.carter@company.com
+EMP0135,Zachary Ramos,Sales,Employee,Active,2021-09-17,,EMP0292,zachary.ramos@company.com
+EMP0136,Ella Davis,Engineering,Employee,Active,2021-03-01,,EMP0321,ella.davis@company.com
+EMP0137,Sandra King,Engineering,Employee,Active,2020-11-17,,EMP0123,sandra.king@company.com
+EMP0138,Anthony Peterson,Engineering,Employee,Active,2020-11-16,,EMP0002,anthony.peterson@company.com
+EMP0139,Jeffrey Edwards,Marketing,Employee,Active,2021-08-19,,EMP0017,jeffrey.edwards@company.com
+EMP0140,Donna Torres,Operations,Employee,Active,2022-07-18,,EMP0037,donna.torres@company.com
+EMP0141,Victoria Robinson,Operations,Employee,Active,2021-02-09,,EMP0218,victoria.robinson@company.com
+EMP0142,Thomas Cooper,HR,Employee,Active,2020-11-01,,EMP0137,thomas.cooper@company.com
+EMP0143,Lucy Jackson,Engineering,Employee,Active,2020-05-02,,EMP0085,lucy.jackson@company.com
+EMP0144,Lillian Flores,Operations,Employee,Active,2022-06-18,,EMP0064,lillian.flores@company.com
+EMP0145,Olivia Ruiz,Operations,Employee,Active,2022-04-04,,EMP0140,olivia.ruiz@company.com
+EMP0146,Jonathan Cooper,Marketing,Employee,Active,2022-06-15,,EMP0042,jonathan.cooper@company.com
+EMP0147,Benjamin Garcia,Sales,Employee,Active,2021-10-22,,EMP0310,benjamin.garcia@company.com
+EMP0148,Andrew Brown,Engineering,Employee,Active,2021-04-13,,EMP0346,andrew.brown@company.com
+EMP0149,Natalie Gonzales,IT,Employee,Active,2021-07-05,,EMP0296,natalie.gonzales@company.com
+EMP0150,Linda Ross,Security,Employee,Active,2022-08-21,,EMP0266,linda.ross@company.com
+EMP0151,Grace Cruz,Operations,Employee,Active,2021-01-06,,EMP0300,grace.cruz@company.com
+EMP0152,Brenda Brooks,Marketing,Employee,Active,2020-07-05,,EMP0241,brenda.brooks@company.com
+EMP0153,Edward Evans,Finance,Employee,Active,2021-10-19,,EMP0344,edward.evans@company.com
+EMP0154,Jessica Barnes,Security,Employee,Active,2021-11-06,,EMP0211,jessica.barnes@company.com
+EMP0155,Raymond Murphy,Operations,Employee,Active,2022-03-31,,EMP0417,raymond.murphy@company.com
+EMP0156,Zoey Peterson,IT,Employee,Active,2022-07-20,,EMP0046,zoey.peterson@company.com
+EMP0157,Brian Allen,Finance,Employee,Active,2020-08-25,,EMP0396,brian.allen@company.com
+EMP0158,Angela Gonzales,IT,Employee,Active,2023-01-16,,EMP0237,angela.gonzales@company.com
+EMP0159,Jeffrey Miller,HR,Employee,Active,2022-11-27,,EMP0186,jeffrey.miller@company.com
+EMP0160,Ella Long,Marketing,Employee,Active,2022-06-24,,EMP0390,ella.long@company.com
+EMP0161,William Clark,Operations,Employee,Active,2023-01-29,,EMP0068,william.clark@company.com
+EMP0162,Walter Torres,Marketing,Employee,Active,2022-09-19,,EMP0063,walter.torres@company.com
+EMP0163,Jennifer Watson,HR,Employee,Active,2020-11-20,,EMP0160,jennifer.watson@company.com
+EMP0164,Justin Johnson,Sales,Employee,Active,2020-07-09,,EMP0116,justin.johnson@company.com
+EMP0165,Natalie Anderson,Marketing,Employee,Active,2020-08-28,,EMP0332,natalie.anderson@company.com
+EMP0166,Henry Martin,Marketing,Employee,Active,2021-08-20,,EMP0261,henry.martin@company.com
+EMP0167,Jack Wright,Sales,Employee,Active,2022-09-15,,EMP0242,jack.wright@company.com
+EMP0168,Carol Collins,Security,Employee,Active,2022-02-24,,EMP0098,carol.collins@company.com
+EMP0169,Anna Kim,Security,Employee,Active,2020-05-22,,EMP0142,anna.kim@company.com
+EMP0170,Aaron Jenkins,Sales,Employee,Active,2021-11-27,,EMP0404,aaron.jenkins@company.com
+EMP0171,Jonathan Wright,IT,Employee,Active,2021-08-02,,EMP0372,jonathan.wright@company.com
+EMP0172,Kevin Butler,Marketing,Employee,Active,2020-10-31,,EMP0229,kevin.butler@company.com
+EMP0173,Larry Morris,Finance,Employee,Active,2021-11-11,,EMP0283,larry.morris@company.com
+EMP0174,Zoey Cooper,Sales,Employee,Active,2022-07-21,,EMP0165,zoey.cooper@company.com
+EMP0175,Leah Harris,HR,Employee,Active,2023-03-17,,EMP0197,leah.harris@company.com
+EMP0176,Donna Barnes,Sales,Employee,Active,2020-03-30,,EMP0163,donna.barnes@company.com
+EMP0177,Aubrey Stewart,Sales,Employee,Active,2022-03-01,,EMP0340,aubrey.stewart@company.com
+EMP0178,Lillian Bell,Security,Employee,Active,2022-10-11,,EMP0019,lillian.bell@company.com
+EMP0179,Charles Cook,Finance,Employee,Active,2020-07-24,,EMP0226,charles.cook@company.com
+EMP0180,Joseph Ortiz,Marketing,Employee,Active,2020-02-01,,EMP0370,joseph.ortiz@company.com
+EMP0181,Daniel Evans,Security,Employee,Active,2020-06-02,,EMP0241,daniel.evans@company.com
+EMP0182,Jose King,Finance,Employee,Active,2022-03-25,,EMP0333,jose.king@company.com
+EMP0183,Richard Barnes,Finance,Employee,Active,2022-12-28,,EMP0195,richard.barnes@company.com
+EMP0184,Brian Watson,Marketing,Employee,Active,2023-01-13,,EMP0019,brian.watson@company.com
+EMP0185,Ella Rodriguez,HR,Employee,Active,2021-08-11,,EMP0117,ella.rodriguez@company.com
+EMP0186,Aubrey Lopez,Sales,Employee,Active,2020-07-20,,EMP0390,aubrey.lopez@company.com
+EMP0187,Scarlett Price,Engineering,Employee,Active,2022-06-27,,EMP0086,scarlett.price@company.com
+EMP0188,Raymond Hill,IT,Employee,Active,2020-04-04,,EMP0167,raymond.hill@company.com
+EMP0189,Lillian Davis,Operations,Employee,Active,2022-01-04,,EMP0192,lillian.davis@company.com
+EMP0190,Brenda Jackson,HR,Employee,Active,2022-12-23,,EMP0211,brenda.jackson@company.com
+EMP0191,Scott Mendoza,Security,Employee,Active,2020-12-14,,EMP0090,scott.mendoza@company.com
+EMP0192,Richard Ward,Sales,Employee,Active,2021-05-08,,EMP0255,richard.ward@company.com
+EMP0193,Ethan Howard,Security,Employee,Active,2021-04-20,,EMP0237,ethan.howard@company.com
+EMP0194,Scarlett Allen,Marketing,Employee,Active,2021-06-06,,EMP0342,scarlett.allen@company.com
+EMP0195,Maria Perry,Marketing,Employee,Active,2021-08-12,,EMP0347,maria.perry@company.com
+EMP0196,Charlotte Lee,Engineering,Employee,Active,2022-06-23,,EMP0177,charlotte.lee@company.com
+EMP0197,Evelyn Hill,Sales,Employee,Active,2021-05-27,,EMP0234,evelyn.hill@company.com
+EMP0198,Douglas Hill,HR,Employee,Active,2022-02-26,,EMP0248,douglas.hill@company.com
+EMP0199,Jessica Walker,Sales,Employee,Active,2023-03-17,,EMP0184,jessica.walker@company.com
+EMP0200,Harper Nguyen,Operations,Employee,Active,2020-02-14,,EMP0338,harper.nguyen@company.com
+EMP0201,Jason Scott,IT,Employee,Active,2023-03-05,,EMP0352,jason.scott@company.com
+EMP0202,Penelope Myers,IT,Employee,Active,2022-10-14,,EMP0147,penelope.myers@company.com
+EMP0203,Penelope Perry,HR,Employee,Active,2021-12-22,,EMP0113,penelope.perry@company.com
+EMP0204,Scarlett Harris,Operations,Employee,Active,2020-10-07,,EMP0322,scarlett.harris@company.com
+EMP0205,Joseph Watson,IT,Employee,Active,2021-09-24,,EMP0404,joseph.watson@company.com
+EMP0206,Jacob Jones,Finance,Employee,Active,2020-09-26,,EMP0047,jacob.jones@company.com
+EMP0207,Ethan Nguyen,Finance,Employee,Active,2022-04-30,,EMP0090,ethan.nguyen@company.com
+EMP0208,Helen Taylor,Finance,Employee,Active,2022-12-23,,EMP0257,helen.taylor@company.com
+EMP0209,Ethan Wright,Security,Employee,Active,2021-06-10,,EMP0247,ethan.wright@company.com
+EMP0210,Addison Nguyen,Finance,Employee,Active,2020-08-23,,EMP0240,addison.nguyen@company.com
+EMP0211,Elizabeth Jackson,HR,Employee,Active,2022-03-24,,EMP0412,elizabeth.jackson@company.com
+EMP0212,Amelia Campbell,Engineering,Employee,Active,2022-03-19,,EMP0008,amelia.campbell@company.com
+EMP0213,Ruth Morgan,Engineering,Employee,Active,2022-07-20,,EMP0189,ruth.morgan@company.com
+EMP0214,Frank Myers,Operations,Employee,Active,2023-04-12,,EMP0196,frank.myers@company.com
+EMP0215,Lucy Brooks,Finance,Employee,Active,2020-08-09,,EMP0346,lucy.brooks@company.com
+EMP0216,Donna Stewart,IT,Employee,Active,2023-02-23,,EMP0168,donna.stewart@company.com
+EMP0217,Anna Ward,HR,Employee,Active,2020-05-09,,EMP0326,anna.ward@company.com
+EMP0218,Lucy Reyes,Operations,Employee,Active,2022-04-16,,EMP0060,lucy.reyes@company.com
+EMP0219,Karen Garcia,IT,Employee,Active,2021-09-15,,EMP0253,karen.garcia@company.com
+EMP0220,Thomas Gonzalez,HR,Employee,Active,2023-01-05,,EMP0070,thomas.gonzalez@company.com
+EMP0221,Amy Collins,Finance,Employee,Active,2023-01-11,,EMP0215,amy.collins@company.com
+EMP0222,Evelyn Myers,Security,Employee,Active,2022-04-29,,EMP0336,evelyn.myers@company.com
+EMP0223,Joseph Coleman,Marketing,Employee,Active,2022-04-15,,EMP0144,joseph.coleman@company.com
+EMP0224,Michael Ruiz,Finance,Employee,Active,2021-03-20,,EMP0228,michael.ruiz@company.com
+EMP0225,Jacob Walker,Finance,Employee,Active,2020-07-22,,EMP0352,jacob.walker@company.com
+EMP0226,Dorothy Cooper,Finance,Employee,Active,2020-05-04,,EMP0204,dorothy.cooper@company.com
+EMP0227,Sharon Harris,Engineering,Employee,Active,2022-07-20,,EMP0047,sharon.harris@company.com
+EMP0228,Patrick Ramirez,IT,Employee,Active,2020-04-13,,EMP0403,patrick.ramirez@company.com
+EMP0229,George Young,Security,Employee,Active,2023-03-02,,EMP0106,george.young@company.com
+EMP0230,David Coleman,HR,Employee,Active,2023-04-15,,EMP0111,david.coleman@company.com
+EMP0231,Nathan Robinson,Finance,Employee,Active,2020-10-29,,EMP0404,nathan.robinson@company.com
+EMP0232,Samantha Kim,IT,Employee,Active,2021-07-21,,EMP0075,samantha.kim@company.com
+EMP0233,Charles Cooper,Operations,Employee,Active,2020-12-23,,EMP0057,charles.cooper@company.com
+EMP0234,Patrick Gonzales,IT,Employee,Active,2020-09-26,,EMP0008,patrick.gonzales@company.com
+EMP0235,Deborah Jenkins,HR,Employee,Active,2021-10-25,,EMP0009,deborah.jenkins@company.com
+EMP0236,Anthony King,IT,Employee,Active,2020-09-16,,EMP0380,anthony.king@company.com
+EMP0237,Ashley Ortiz,Engineering,Employee,Active,2020-05-10,,EMP0244,ashley.ortiz@company.com
+EMP0238,Emma Jimenez,Finance,Employee,Active,2022-11-17,,EMP0304,emma.jimenez@company.com
+EMP0239,Jessica Edwards,HR,Employee,Active,2020-03-29,,EMP0373,jessica.edwards@company.com
+EMP0240,Jose Gonzales,Operations,Employee,Active,2022-07-27,,EMP0330,jose.gonzales@company.com
+EMP0241,Jennifer Davis,Marketing,Employee,Active,2022-04-02,,EMP0219,jennifer.davis@company.com
+EMP0242,Victoria Wilson,Marketing,Employee,Active,2022-06-27,,EMP0038,victoria.wilson@company.com
+EMP0243,Samantha Hernandez,Finance,Employee,Active,2020-10-30,,EMP0034,samantha.hernandez@company.com
+EMP0244,Charles Scott,Finance,Employee,Active,2022-02-19,,EMP0306,charles.scott@company.com
+EMP0245,Mia Nguyen,Marketing,Employee,Active,2022-11-01,,EMP0310,mia.nguyen@company.com
+EMP0246,Brenda Gonzalez,Engineering,Employee,Active,2023-02-03,,EMP0370,brenda.gonzalez@company.com
+EMP0247,Zachary Ramirez,Sales,Employee,Active,2022-07-13,,EMP0117,zachary.ramirez@company.com
+EMP0248,Jeffrey Baker,Marketing,Employee,Active,2022-03-27,,EMP0213,jeffrey.baker@company.com
+EMP0249,Lily Gonzalez,Finance,Employee,Active,2022-05-24,,EMP0161,lily.gonzalez@company.com
+EMP0250,Chloe Allen,Finance,Employee,Active,2020-11-08,,EMP0352,chloe.allen@company.com
+EMP0251,Walter Stewart,Engineering,Employee,Active,2020-07-05,,EMP0044,walter.stewart@company.com
+EMP0252,Susan Parker,Engineering,Employee,Active,2022-02-02,,EMP0416,susan.parker@company.com
+EMP0253,Charles Bailey,IT,Employee,Active,2023-02-24,,EMP0288,charles.bailey@company.com
+EMP0254,George Bennett,Engineering,Employee,Active,2022-04-21,,EMP0182,george.bennett@company.com
+EMP0255,Leah Bennett,Sales,Employee,Active,2020-04-15,,EMP0148,leah.bennett@company.com
+EMP0256,Benjamin Flores,Finance,Employee,Active,2020-07-31,,EMP0296,benjamin.flores@company.com
+EMP0257,Jonathan Ramirez,Security,Employee,Active,2022-09-14,,EMP0115,jonathan.ramirez@company.com
+EMP0258,Douglas Wilson,Finance,Employee,Active,2023-02-13,,EMP0189,douglas.wilson@company.com
+EMP0259,Thomas Ross,Operations,Employee,Active,2023-03-21,,EMP0116,thomas.ross@company.com
+EMP0260,Addison Diaz,IT,Employee,Active,2021-07-01,,EMP0015,addison.diaz@company.com
+EMP0261,Betty Wright,Operations,Employee,Active,2021-11-26,,EMP0180,betty.wright@company.com
+EMP0262,James White,Security,Employee,Active,2023-03-05,,EMP0337,james.white@company.com
+EMP0263,Angela Rodriguez,Security,Employee,Active,2020-03-03,,EMP0047,angela.rodriguez@company.com
+EMP0264,Aubrey Ortiz,HR,Employee,Active,2022-02-09,,EMP0215,aubrey.ortiz@company.com
+EMP0265,Gary Baker,Security,Employee,Active,2022-01-27,,EMP0160,gary.baker@company.com
+EMP0266,Dennis Adams,Engineering,Employee,Active,2020-04-17,,EMP0080,dennis.adams@company.com
+EMP0267,Matthew Long,IT,Employee,Active,2020-06-16,,EMP0140,matthew.long@company.com
+EMP0268,Jacob James,Sales,Employee,Active,2022-09-21,,EMP0311,jacob.james@company.com
+EMP0269,Jacob Turner,Operations,Employee,Active,2021-03-17,,EMP0387,jacob.turner@company.com
+EMP0270,Isabella Anderson,Finance,Employee,Active,2022-05-30,,EMP0057,isabella.anderson@company.com
+EMP0271,Kenneth Gray,Marketing,Employee,Active,2022-12-15,,EMP0342,kenneth.gray@company.com
+EMP0272,Laura Garcia,HR,Employee,Active,2022-03-20,,EMP0307,laura.garcia@company.com
+EMP0273,Patricia Smith,HR,Employee,Active,2021-09-09,,EMP0109,patricia.smith@company.com
+EMP0274,Aaron Moore,Operations,Employee,Active,2021-08-15,,EMP0168,aaron.moore@company.com
+EMP0275,Sarah Smith,Marketing,Employee,Active,2022-05-31,,EMP0090,sarah.smith@company.com
+EMP0276,Charles Carter,HR,Employee,Active,2022-10-21,,EMP0287,charles.carter@company.com
+EMP0277,Henry Bennett,Finance,Employee,Active,2020-05-27,,EMP0204,henry.bennett@company.com
+EMP0278,Zachary Patel,IT,Employee,Active,2022-06-12,,EMP0010,zachary.patel@company.com
+EMP0279,Gary Martinez,Finance,Employee,Active,2023-03-25,,EMP0220,gary.martinez@company.com
+EMP0280,Harper Phillips,Sales,Employee,Active,2021-08-15,,EMP0059,harper.phillips@company.com
+EMP0281,Angela Williams,Finance,Employee,Active,2020-12-17,,EMP0411,angela.williams@company.com
+EMP0282,Ella Collins,Finance,Employee,Active,2020-06-29,,EMP0224,ella.collins@company.com
+EMP0283,Douglas Wilson,HR,Employee,Active,2022-06-11,,EMP0302,douglas.wilson@company.com
+EMP0284,Angela Ortiz,Engineering,Employee,Active,2022-03-21,,EMP0159,angela.ortiz@company.com
+EMP0285,Aubrey Baker,HR,Employee,Active,2021-11-13,,EMP0399,aubrey.baker@company.com
+EMP0286,Lisa Martinez,Engineering,Employee,Active,2022-12-22,,EMP0262,lisa.martinez@company.com
+EMP0287,Mark Jimenez,Finance,Employee,Active,2021-12-20,,EMP0373,mark.jimenez@company.com
+EMP0288,Nathan Chavez,Security,Employee,Active,2021-04-28,,EMP0053,nathan.chavez@company.com
+EMP0289,Daniel Allen,HR,Employee,Active,2020-12-21,,EMP0309,daniel.allen@company.com
+EMP0290,Nancy Ross,Engineering,Employee,Active,2020-12-28,,EMP0396,nancy.ross@company.com
+EMP0291,Gregory Murphy,Marketing,Employee,Active,2023-02-28,,EMP0390,gregory.murphy@company.com
+EMP0292,Brandon Edwards,Finance,Employee,Active,2021-10-09,,EMP0078,brandon.edwards@company.com
+EMP0293,Jacob Rodriguez,Marketing,Employee,Active,2022-06-24,,EMP0324,jacob.rodriguez@company.com
+EMP0294,Kevin Jenkins,Operations,Employee,Active,2020-04-25,,EMP0181,kevin.jenkins@company.com
+EMP0295,Jonathan Martinez,Operations,Employee,Active,2022-08-03,,EMP0232,jonathan.martinez@company.com
+EMP0296,Michael Davis,Finance,Employee,Active,2021-08-10,,EMP0040,michael.davis@company.com
+EMP0297,Alexander Gonzales,Engineering,Employee,Active,2022-11-04,,EMP0197,alexander.gonzales@company.com
+EMP0298,Olivia Howard,IT,Employee,Active,2022-07-10,,EMP0415,olivia.howard@company.com
+EMP0299,Harper Wood,HR,Employee,Active,2021-10-20,,EMP0310,harper.wood@company.com
+EMP0300,Nicholas Cook,Security,Employee,Active,2020-05-06,,EMP0231,nicholas.cook@company.com
+EMP0301,Jessica Russell,Finance,Employee,Active,2020-06-21,,EMP0259,jessica.russell@company.com
+EMP0302,Alexander Thompson,IT,Employee,Active,2021-05-22,,EMP0363,alexander.thompson@company.com
+EMP0303,Jacob Cruz,Security,Employee,Active,2022-01-15,,EMP0191,jacob.cruz@company.com
+EMP0304,Anna Torres,Sales,Employee,Active,2022-04-17,,EMP0397,anna.torres@company.com
+EMP0305,Kimberly Gray,IT,Employee,Active,2021-11-16,,EMP0034,kimberly.gray@company.com
+EMP0306,George Gonzalez,Sales,Employee,Active,2021-08-04,,EMP0130,george.gonzalez@company.com
+EMP0307,Dennis Barnes,Security,Employee,Active,2021-11-13,,EMP0042,dennis.barnes@company.com
+EMP0308,Brandon James,Security,Employee,Active,2021-12-17,,EMP0159,brandon.james@company.com
+EMP0309,Grace Hughes,Sales,Employee,Active,2020-09-21,,EMP0305,grace.hughes@company.com
+EMP0310,Jack Hernandez,Operations,Employee,Active,2023-02-18,,EMP0193,jack.hernandez@company.com
+EMP0311,Alexander Jenkins,Finance,Employee,Active,2020-09-18,,EMP0344,alexander.jenkins@company.com
+EMP0312,Riley Coleman,Engineering,Employee,Active,2022-05-17,,EMP0261,riley.coleman@company.com
+EMP0313,Ronald Williams,Finance,Employee,Active,2021-09-24,,EMP0093,ronald.williams@company.com
+EMP0314,Sandra Baker,Marketing,Employee,Active,2021-01-28,,EMP0116,sandra.baker@company.com
+EMP0315,Karen Martin,Engineering,Employee,Active,2021-08-28,,EMP0404,karen.martin@company.com
+EMP0316,Joseph Cook,IT,Employee,Active,2021-11-20,,EMP0393,joseph.cook@company.com
+EMP0317,Ella Taylor,Sales,Employee,Active,2020-11-11,,EMP0084,ella.taylor@company.com
+EMP0318,Betty Coleman,Security,Employee,Active,2022-06-15,,EMP0023,betty.coleman@company.com
+EMP0319,Jeffrey Campbell,HR,Employee,Active,2022-06-28,,EMP0313,jeffrey.campbell@company.com
+EMP0320,Kenneth Long,Marketing,Employee,Active,2021-04-24,,EMP0274,kenneth.long@company.com
+EMP0321,Paul Flores,Marketing,Employee,Active,2021-02-01,,EMP0189,paul.flores@company.com
+EMP0322,Frank Kelly,Marketing,Employee,Active,2022-08-03,,EMP0394,frank.kelly@company.com
+EMP0323,Kenneth Jimenez,Sales,Employee,Active,2022-10-26,,EMP0271,kenneth.jimenez@company.com
+EMP0324,Ashley Lee,HR,Employee,Active,2020-10-10,,EMP0129,ashley.lee@company.com
+EMP0325,William Chavez,Marketing,Employee,Active,2022-01-30,,EMP0284,william.chavez@company.com
+EMP0326,Stella Wilson,Engineering,Employee,Active,2021-08-06,,EMP0043,stella.wilson@company.com
+EMP0327,Zoey Lee,Operations,Employee,Active,2022-07-09,,EMP0263,zoey.lee@company.com
+EMP0328,Daniel Coleman,Sales,Employee,Active,2020-07-06,,EMP0114,daniel.coleman@company.com
+EMP0329,Nathan Edwards,Finance,Employee,Active,2020-02-24,,EMP0213,nathan.edwards@company.com
+EMP0330,William Gomez,Finance,Employee,Active,2021-04-27,,EMP0198,william.gomez@company.com
+EMP0331,Richard Mitchell,HR,Employee,Active,2020-02-27,,EMP0164,richard.mitchell@company.com
+EMP0332,Stella Gonzalez,Finance,Employee,Active,2020-10-26,,EMP0071,stella.gonzalez@company.com
+EMP0333,Michael Torres,Marketing,Employee,Active,2020-10-11,,EMP0389,michael.torres@company.com
+EMP0334,Jack Stewart,Marketing,Employee,Active,2020-01-11,,EMP0041,jack.stewart@company.com
+EMP0335,Robert Allen,HR,Employee,Active,2020-11-02,,EMP0281,robert.allen@company.com
+EMP0336,Lily Cox,Sales,Employee,Active,2020-08-15,,EMP0398,lily.cox@company.com
+EMP0337,Kenneth Walker,Operations,Employee,Active,2020-09-06,,EMP0025,kenneth.walker@company.com
+EMP0338,Paul Turner,Marketing,Employee,Active,2020-05-08,,EMP0057,paul.turner@company.com
+EMP0339,Natalie Murphy,IT,Employee,Active,2022-11-21,,EMP0295,natalie.murphy@company.com
+EMP0340,Paul Alvarez,Security,Employee,Active,2021-08-19,,EMP0220,paul.alvarez@company.com
+EMP0341,James Ward,Finance,Employee,Active,2021-05-07,,EMP0293,james.ward@company.com
+EMP0342,Ashley White,Engineering,Employee,Active,2022-12-08,,EMP0185,ashley.white@company.com
+EMP0343,David Ortiz,IT,Employee,Active,2022-03-10,,EMP0241,david.ortiz@company.com
+EMP0344,Linda Brooks,Sales,Employee,Active,2022-02-03,,EMP0130,linda.brooks@company.com
+EMP0345,Aubrey Williams,Finance,Employee,Active,2020-05-18,,EMP0177,aubrey.williams@company.com
+EMP0346,Paul Sanders,Engineering,Employee,Active,2023-04-06,,EMP0377,paul.sanders@company.com
+EMP0347,Tyler Nelson,Security,Employee,Active,2020-03-31,,EMP0181,tyler.nelson@company.com
+EMP0348,Charlotte Baker,Security,Employee,Active,2022-08-09,,EMP0357,charlotte.baker@company.com
+EMP0349,Ava Watson,Security,Employee,Active,2020-10-03,,EMP0033,ava.watson@company.com
+EMP0350,Aria Jimenez,Marketing,Employee,Active,2020-03-16,,EMP0151,aria.jimenez@company.com
+EMP0351,Helen Garcia,HR,Employee,Active,2020-03-26,,EMP0162,helen.garcia@company.com
+EMP0352,Stella Flores,Sales,Employee,Active,2023-01-17,,EMP0243,stella.flores@company.com
+EMP0353,Andrew Jones,HR,Employee,Active,2021-08-08,,EMP0183,andrew.jones@company.com
+EMP0354,Zachary Jimenez,IT,Employee,Active,2021-11-10,,EMP0140,zachary.jimenez@company.com
+EMP0355,Sarah Perry,Finance,Employee,Active,2022-06-13,,EMP0205,sarah.perry@company.com
+EMP0356,Aubrey Cruz,Sales,Employee,Active,2021-11-25,,EMP0096,aubrey.cruz@company.com
+EMP0357,Sophia Ruiz,Marketing,Employee,Active,2022-01-22,,EMP0409,sophia.ruiz@company.com
+EMP0358,Stephen Wright,Engineering,Employee,Active,2022-05-19,,EMP0041,stephen.wright@company.com
+EMP0359,Brenda Cox,Security,Employee,Active,2023-01-22,,EMP0151,brenda.cox@company.com
+EMP0360,Emily Wilson,Engineering,Employee,Active,2021-11-02,,EMP0339,emily.wilson@company.com
+EMP0361,Michelle Flores,Marketing,Employee,Active,2022-05-22,,EMP0086,michelle.flores@company.com
+EMP0362,Raymond Cruz,Finance,Employee,Active,2022-07-04,,EMP0022,raymond.cruz@company.com
+EMP0363,Lily Rivera,Sales,Employee,Active,2021-07-16,,EMP0328,lily.rivera@company.com
+EMP0364,Lillian Davis,Engineering,Employee,Active,2022-04-11,,EMP0187,lillian.davis@company.com
+EMP0365,Isabella Perry,Security,Employee,Active,2020-03-04,,EMP0074,isabella.perry@company.com
+EMP0366,Douglas Cox,Marketing,Employee,Active,2020-03-12,,EMP0065,douglas.cox@company.com
+EMP0367,David Walker,Finance,Employee,Active,2022-01-11,,EMP0197,david.walker@company.com
+EMP0368,Scott Jones,Security,Employee,Active,2022-07-10,,EMP0190,scott.jones@company.com
+EMP0369,Dorothy Cruz,Engineering,Employee,Active,2023-03-21,,EMP0071,dorothy.cruz@company.com
+EMP0370,Mia Campbell,Sales,Employee,Active,2021-10-05,,EMP0333,mia.campbell@company.com
+EMP0371,Sharon Young,Engineering,Employee,Active,2020-02-23,,EMP0377,sharon.young@company.com
+EMP0372,Betty Murphy,Sales,Employee,Active,2023-02-24,,EMP0061,betty.murphy@company.com
+EMP0373,Ruth Jimenez,Operations,Employee,Active,2022-07-02,,EMP0110,ruth.jimenez@company.com
+EMP0374,Samuel Torres,Marketing,Employee,Active,2021-02-13,,EMP0063,samuel.torres@company.com
+EMP0375,Karen Barnes,Engineering,Employee,Active,2022-07-14,,EMP0089,karen.barnes@company.com
+EMP0376,Samantha Alvarez,Marketing,Employee,Active,2020-06-28,,EMP0415,samantha.alvarez@company.com
+EMP0377,Victoria Henderson,Finance,Employee,Active,2021-12-12,,EMP0364,victoria.henderson@company.com
+EMP0378,David Peterson,Operations,Employee,Active,2021-09-06,,EMP0081,david.peterson@company.com
+EMP0379,Aria Price,Security,Employee,Active,2022-01-10,,EMP0261,aria.price@company.com
+EMP0380,Steven Thomas,HR,Employee,Active,2020-10-11,,EMP0122,steven.thomas@company.com
+EMP0381,Lillian Murphy,IT,Employee,Active,2022-01-09,,EMP0284,lillian.murphy@company.com
+EMP0382,Harper Mitchell,Marketing,Employee,Active,2023-02-03,,EMP0067,harper.mitchell@company.com
+EMP0383,Samuel Lopez,Engineering,Employee,Active,2021-09-25,,EMP0204,samuel.lopez@company.com
+EMP0384,Aria Castillo,Marketing,Employee,Active,2022-12-12,,EMP0211,aria.castillo@company.com
+EMP0385,Aaron Evans,Engineering,Employee,Active,2020-09-13,,EMP0163,aaron.evans@company.com
+EMP0386,Alexander Martinez,Marketing,Employee,Active,2022-08-12,,EMP0349,alexander.martinez@company.com
+EMP0387,Stephen Hall,Security,Employee,Active,2023-02-03,,EMP0328,stephen.hall@company.com
+EMP0388,Evelyn White,Security,Employee,Active,2022-06-05,,EMP0258,evelyn.white@company.com
+EMP0389,Ethan Davis,Engineering,Employee,Active,2022-11-27,,EMP0079,ethan.davis@company.com
+EMP0390,Kevin Perez,Security,Employee,Active,2021-10-22,,EMP0364,kevin.perez@company.com
+EMP0391,Steven Hall,Operations,Employee,Active,2020-06-10,,EMP0129,steven.hall@company.com
+EMP0392,Helen Brooks,Operations,Employee,Active,2020-09-13,,EMP0321,helen.brooks@company.com
+EMP0393,Kevin Ward,Engineering,Employee,Active,2022-10-26,,EMP0329,kevin.ward@company.com
+EMP0394,Lisa Ramos,Security,Employee,Active,2020-12-16,,EMP0338,lisa.ramos@company.com
+EMP0395,Ella Castillo,Finance,Employee,Active,2023-02-28,,EMP0022,ella.castillo@company.com
+EMP0396,Lucy Gonzales,IT,Employee,Active,2020-06-15,,EMP0024,lucy.gonzales@company.com
+EMP0397,Alexander Foster,Operations,Employee,Active,2021-03-07,,EMP0393,alexander.foster@company.com
+EMP0398,Harper Turner,IT,Employee,Active,2022-10-16,,EMP0322,harper.turner@company.com
+EMP0399,Charlotte Nguyen,Operations,Employee,Active,2022-09-16,,EMP0126,charlotte.nguyen@company.com
+EMP0400,Addison Russell,Sales,Employee,Active,2021-09-01,,EMP0233,addison.russell@company.com
+EMP0401,Elizabeth Ruiz,IT,Employee,Active,2020-11-19,,EMP0226,elizabeth.ruiz@company.com
+EMP0402,Ashley Morris,Marketing,Employee,Active,2021-02-21,,EMP0175,ashley.morris@company.com
+EMP0403,Abigail Jackson,Finance,Employee,Active,2021-10-15,,EMP0376,abigail.jackson@company.com
+EMP0404,Zachary Hall,Sales,Employee,Active,2020-09-24,,EMP0390,zachary.hall@company.com
+EMP0405,Dorothy Rogers,Engineering,Employee,Active,2021-10-15,,EMP0124,dorothy.rogers@company.com
+EMP0406,Olivia Thomas,Operations,Employee,Active,2022-07-09,,EMP0127,olivia.thomas@company.com
+EMP0407,Daniel Gonzalez,IT,Employee,Active,2021-08-17,,EMP0197,daniel.gonzalez@company.com
+EMP0408,Zachary Ward,Sales,Employee,Active,2021-05-23,,EMP0082,zachary.ward@company.com
+EMP0409,Nathan Adams,Finance,Employee,Active,2021-01-23,,EMP0391,nathan.adams@company.com
+EMP0410,Matthew Murphy,Marketing,Employee,Active,2022-10-18,,EMP0158,matthew.murphy@company.com
+EMP0411,Sophia Williams,Engineering,Employee,Active,2022-03-16,,EMP0259,sophia.williams@company.com
+EMP0412,Gary Walker,HR,Employee,Active,2023-04-09,,EMP0181,gary.walker@company.com
+EMP0413,William Miller,Operations,Employee,Active,2022-10-10,,EMP0306,william.miller@company.com
+EMP0414,Peter Butler,Marketing,Employee,Active,2021-08-08,,EMP0275,peter.butler@company.com
+EMP0415,Maria Henderson,Engineering,Employee,Active,2022-06-01,,EMP0069,maria.henderson@company.com
+EMP0416,Peter King,Finance,Employee,Active,2022-04-05,,EMP0188,peter.king@company.com
+EMP0417,Linda Phillips,IT,Employee,Active,2023-03-13,,EMP0288,linda.phillips@company.com
+EMP0418,Mark Campbell,Operations,Employee,Active,2020-05-30,,EMP0198,mark.campbell@company.com
+EMP0419,Jonathan Edwards,Operations,Employee,Active,2020-08-31,,EMP0066,jonathan.edwards@company.com
+EMP0420,Joseph Gomez,Finance,Employee,Active,2021-11-25,,EMP0286,joseph.gomez@company.com

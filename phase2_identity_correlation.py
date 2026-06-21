@@ -1,12 +1,20 @@
+#!/usr/bin/env python3
+"""
+Phase 2: Identity Correlation Engine
+Maps platform accounts (AD, AWS, Okta, Salesforce) to unified identities.
+Produces identity_360.json — the foundation for all downstream analysis.
+"""
+
 import csv
 import json
 import os
 
 CSV_DIR = os.path.join(os.path.dirname(__file__), 'csv_files')
-JSON_OUT = os.path.join(os.path.dirname(__file__), 'output_files', 'identity_360.json')
-CSV_OUT = os.path.join(os.path.dirname(__file__), 'output_files', 'phase2_match_report.csv')
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'output_files')
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def load_identities():
+    """Load master identity records."""
     identities = {}
     with open(os.path.join(CSV_DIR, 'identities.csv'), 'r') as f:
         reader = csv.DictReader(f)
@@ -15,7 +23,7 @@ def load_identities():
     return identities
 
 def build_match_indexes(identities):
-    # Mapping expected username to a list of identity_ids
+    """Build username-to-identity lookup indexes for each platform."""
     indexes = {
         'ad': {},
         'aws': {},
@@ -28,7 +36,7 @@ def build_match_indexes(identities):
         lname = data['full_name'].split()[-1].lower()
         emp_type = data['employment_type']
         
-        # Service Accounts
+        # Service Accounts: svc_{dept}_{number}
         if emp_type == 'ServiceAccount':
             parts = data['full_name'].split('_')
             num = parts[-1]
@@ -63,24 +71,38 @@ def build_match_indexes(identities):
     return indexes
 
 def correlate():
+    """Main correlation function."""
+    print("Phase 2: Identity Correlation Engine")
+    print("-" * 40)
+    
     identities = load_identities()
+    print(f"Loaded {len(identities)} master identities")
+    
     indexes = build_match_indexes(identities)
     
+    # Initialize 360 view
     id_360 = {}
     for uid, data in identities.items():
         id_360[uid] = {
             "identity": data,
             "accounts": {}
         }
-        
+    
     match_report = []
     
     def process_file(platform, filename, user_field):
-        with open(os.path.join(CSV_DIR, filename), 'r') as f:
+        filepath = os.path.join(CSV_DIR, filename)
+        if not os.path.exists(filepath):
+            print(f"WARNING: {filepath} not found, skipping")
+            return
+            
+        with open(filepath, 'r') as f:
             reader = csv.DictReader(f)
+            row_count = 0
             for row in reader:
+                row_count += 1
                 username = row[user_field]
-                actual_uid = row['identity_id'] # Ground truth
+                actual_uid = row['identity_id']
                 
                 # Match logic
                 candidates = indexes[platform].get(username.lower(), [])
@@ -111,27 +133,40 @@ def correlate():
                     acct_data = dict(row)
                     del acct_data['identity_id']
                     id_360[predicted_uid]['accounts'][platform] = acct_data
-
+            
+            print(f"  {platform}: Processed {row_count} accounts")
+    
     process_file('ad', 'ad_accounts.csv', 'ad_username')
     process_file('aws', 'aws_accounts.csv', 'aws_username')
     process_file('okta', 'okta_accounts.csv', 'okta_login')
     process_file('salesforce', 'salesforce_accounts.csv', 'sf_username')
     
-    with open(JSON_OUT, 'w') as f:
+    # Save identity_360.json
+    with open(os.path.join(OUTPUT_DIR, 'identity_360.json'), 'w') as f:
         json.dump(id_360, f, indent=2)
-        
-    with open(CSV_OUT, 'w', newline='') as f:
+    
+    # Save match report
+    with open(os.path.join(OUTPUT_DIR, 'phase2_match_report.csv'), 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=[
-            "platform", "account_username", "predicted_identity_id", "actual_identity_id", "confidence", "match_status"
+            "platform", "account_username", "predicted_identity_id", 
+            "actual_identity_id", "confidence", "match_status"
         ])
         writer.writeheader()
         writer.writerows(match_report)
-        
+    
+    # Accuracy stats
     total = len(match_report)
     correct = sum(1 for m in match_report if m['match_status'] == 'Correct')
-    print(f"Total Accounts Processed: {total}")
-    print(f"Correct Matches: {correct}")
-    print(f"Accuracy: {correct/total:.1%}")
+    unmatched = sum(1 for m in match_report if m['match_status'] == 'Unmatched')
+    collisions = sum(1 for m in match_report if 'Collision' in m['confidence'])
+    
+    print(f"\nCorrelation Results:")
+    print(f"  Total Accounts: {total}")
+    print(f"  Correct Matches: {correct}")
+    print(f"  Accuracy: {correct/total:.1%}")
+    print(f"  Unmatched: {unmatched}")
+    print(f"  Name Collisions: {collisions}")
+    print(f"\nSaved: identity_360.json, phase2_match_report.csv")
 
 if __name__ == '__main__':
     correlate()

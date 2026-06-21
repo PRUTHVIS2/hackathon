@@ -1,0 +1,26 @@
+group_id,group_name,platform,parent_group_id,grants_privilege_level
+ADG001,Domain Admins,ad,,DomainAdmin
+ADG002,Enterprise Admins,ad,,DomainAdmin
+ADG003,Server Admins,ad,,ServerAdmin
+ADG004,IT Support,ad,,PowerUser
+ADG005,Security Team,ad,ADG003,ServerAdmin
+ADG006,Cloud Admins,ad,ADG001,DomainAdmin
+ADG007,Database Admins,ad,ADG003,ServerAdmin
+ADG008,Help Desk,ad,ADG004,PowerUser
+ADG009,Developers,ad,,StandardUser
+ADG010,Contractors-AD,ad,,StandardUser
+AWG001,AWS-Admins,aws,,Administrator
+AWG002,AWS-DevOps,aws,,PowerUser
+AWG003,AWS-ReadOnly,aws,,ReadOnly
+AWG004,AWS-Security,aws,AWG001,Administrator
+AWG005,AWS-DataTeam,aws,AWG002,PowerUser
+OKG001,Okta_Admins,okta,,SuperAdmin
+OKG002,Okta_Users,okta,,User
+OKG003,Okta_AppAdmins,okta,OKG001,SuperAdmin
+OKG004,Okta_SuperAdmins,okta,OKG001,SuperAdmin
+OKG005,Okta_Contractors,okta,,User
+SFG001,SF_Admins,salesforce,,SystemAdmin
+SFG002,SF_Users,salesforce,,Standard
+SFG003,SF_Managers,salesforce,,Standard
+SFG004,SF_SalesTeam,salesforce,,Standard
+SFG005,SF_SupportTeam,salesforce,,Standard

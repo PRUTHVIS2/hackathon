@@ -1,501 +1,501 @@
-ad_username,identity_id,account_status,group_memberships,privilege_level,last_login_days,account_created
-christopher.brown,EMP0001,Suspended,IT Support;Domain Users,ServerAdmin,8,2022-07-25
-mary.smith,EMP0002,Suspended,Domain Users,StandardUser,8,2023-03-13
-daniel.moore,EMP0003,Suspended,Domain Users,StandardUser,15,2023-03-06
-daniel.wilson,EMP0004,Suspended,Domain Users,StandardUser,5,2022-07-13
-margaret.lopez,EMP0005,Suspended,Domain Users,StandardUser,24,2025-02-28
-elizabeth.clark,EMP0006,Suspended,Domain Users,StandardUser,7,2019-03-05
-john.ramirez,EMP0007,Suspended,Domain Users,StandardUser,13,2024-07-07
-barbara.miller,EMP0008,Suspended,Domain Users,StandardUser,3,2018-05-19
-richard.rodriguez,EMP0009,Suspended,Domain Users,StandardUser,27,2022-01-04
-richard.rodriguez,EMP0010,Suspended,Domain Users,StandardUser,30,2023-04-13
-joseph.jones,EMP0011,Suspended,Domain Users,StandardUser,8,2024-01-31
-richard.lopez,EMP0012,Suspended,Domain Users,StandardUser,17,2024-02-05
-jennifer.sanchez,EMP0013,Suspended,Domain Users,StandardUser,3,2018-12-17
-margaret.smith,EMP0014,Suspended,Domain Users,StandardUser,25,2019-08-17
-james.white,EMP0015,Suspended,Domain Users,StandardUser,25,2020-01-13
-thomas.martin,EMP0016,Active,Domain Admins;IT Support,DomainAdmin,12,2023-12-07
-mark.clark,EMP0017,Active,IT Automation;Enterprise Admins,DomainAdmin,2,2022-12-18
-nancy.thomas,EMP0018,Active,IT Automation;Enterprise Admins,DomainAdmin,17,2022-09-04
-barbara.anderson,EMP0019,Active,Domain Admins;IT Support,DomainAdmin,8,2024-04-16
-mary.davis,EMP0020,Active,Domain Admins;IT Support,DomainAdmin,28,2025-04-18
-jessica.davis,EMP0021,Active,Domain Admins;IT Support,DomainAdmin,7,2021-01-30
-christopher.lee,EMP0022,Active,Domain Admins;IT Support,DomainAdmin,13,2024-12-19
-jennifer.rodriguez,EMP0023,Active,Domain Admins;IT Support,DomainAdmin,28,2022-11-05
-sandra.harris,EMP0024,Active,Domain Admins;IT Support,DomainAdmin,14,2023-10-13
-sandra.sanchez,EMP0025,Active,Domain Admins;IT Support,DomainAdmin,14,2022-06-13
-lisa.moore,EMP0026,Active,Domain Admins;IT Support,DomainAdmin,186,2022-02-17
-karen.williams,EMP0027,Active,IT Automation;Enterprise Admins,DomainAdmin,174,2021-02-13
-david.robinson,EMP0028,Active,IT Support;Domain Users,PowerUser,22,2023-05-11
-james.anderson,EMP0029,Active,IT Support;Domain Users,PowerUser,18,2024-10-28
-anthony.moore,EMP0030,Active,Domain Admins;IT Support,DomainAdmin,138,2018-10-15
-sarah.jones,EMP0031,Active,Domain Users,StandardUser,20,2022-06-27
-john.lee,EMP0032,Active,IT Support;Domain Users,ServerAdmin,2,2022-07-18
-sarah.smith,EMP0033,Active,Domain Users,StandardUser,29,2024-10-20
-elizabeth.lopez,EMP0034,Active,Domain Users,StandardUser,7,2021-08-20
-robert.robinson,EMP0035,Active,IT Support;Domain Users,ServerAdmin,26,2023-10-29
-william.garcia,EMP0036,Active,Domain Users,StandardUser,28,2021-05-11
-michael.gonzalez,EMP0037,Active,Domain Users,StandardUser,28,2022-07-10
-jennifer.jackson,EMP0038,Active,IT Automation;Enterprise Admins,DomainAdmin,170,2025-03-21
-mary.thompson,EMP0039,Active,Domain Users,StandardUser,17,2025-08-18
-sandra.hernandez,EMP0040,Active,Domain Users,StandardUser,24,2024-04-01
-robert.miller,EMP0041,Active,Domain Admins;IT Support,DomainAdmin,159,2021-05-25
-karen.lee,EMP0042,Active,Domain Admins;IT Support,DomainAdmin,157,2020-06-07
-david.williams,EMP0043,Active,IT Support;Domain Users,StandardUser,8,2022-03-02
-susan.lewis,EMP0044,Active,IT Support;Domain Users,StandardUser,16,2021-05-05
-thomas.anderson,EMP0045,Active,Domain Users,StandardUser,8,2019-05-25
-svc_45,EMP0046,Active,IT Automation;Enterprise Admins,DomainAdmin,5,2019-07-03
-svc_46,EMP0047,Active,Domain Admins;IT Support,DomainAdmin,5,2018-08-14
-svc_47,EMP0048,Active,Domain Admins;IT Support,DomainAdmin,7,2023-01-20
-svc_48,EMP0049,Active,Domain Admins;IT Support,DomainAdmin,8,2020-12-08
-svc_49,EMP0050,Active,Domain Admins;IT Support,DomainAdmin,4,2020-12-12
-svc_50,EMP0051,Active,IT Automation;Enterprise Admins,DomainAdmin,1,2021-02-10
-svc_51,EMP0052,Active,Domain Admins;IT Support,DomainAdmin,5,2024-09-15
-svc_52,EMP0053,Active,IT Automation;Enterprise Admins,DomainAdmin,1,2021-05-25
-svc_53,EMP0054,Active,Domain Admins;IT Support,DomainAdmin,3,2018-05-04
-svc_54,EMP0055,Active,IT Automation;Enterprise Admins,DomainAdmin,3,2020-06-07
-svc_55,EMP0056,Active,IT Automation;Enterprise Admins,DomainAdmin,10,2019-03-11
-svc_56,EMP0057,Active,IT Automation;Enterprise Admins,DomainAdmin,7,2018-11-30
-svc_57,EMP0058,Active,Domain Admins;IT Support,DomainAdmin,3,2025-07-04
-svc_58,EMP0059,Active,Domain Admins;IT Support,DomainAdmin,10,2018-09-28
-svc_59,EMP0060,Active,Domain Admins;IT Support,DomainAdmin,7,2022-07-09
-c-margaret.hernandez,EMP0061,Active,Domain Users,StandardUser,7,2020-03-06
-c-james.taylor,EMP0062,Active,Domain Users,StandardUser,8,2024-09-08
-c-jessica.anderson,EMP0063,Active,Domain Users,StandardUser,10,2024-08-08
-c-sarah.taylor,EMP0064,Active,Domain Users,StandardUser,24,2020-11-16
-c-patricia.white,EMP0065,Active,Domain Users,StandardUser,4,2022-02-09
-c-william.white,EMP0066,Active,Domain Users,StandardUser,27,2024-07-09
-c-robert.rodriguez,EMP0067,Active,Domain Users,StandardUser,18,2025-01-13
-c-elizabeth.thomas,EMP0068,Active,Domain Users,StandardUser,11,2020-09-15
-c-jessica.williams,EMP0069,Active,Domain Users,StandardUser,5,2023-12-12
-c-karen.martin,EMP0070,Active,Domain Users,StandardUser,13,2019-10-15
-karen.johnson,EMP0071,Active,Domain Users,StandardUser,21,2023-04-26
-john.garcia,EMP0072,Active,IT Support;Domain Users,ServerAdmin,15,2021-01-24
-daniel.ramirez,EMP0073,Active,Domain Users,StandardUser,22,2024-11-06
-sarah.davis,EMP0074,Active,Domain Users,StandardUser,27,2022-09-01
-joseph.thompson,EMP0075,Active,Domain Users,StandardUser,9,2021-02-18
-david.martin,EMP0076,Active,Domain Users,StandardUser,3,2025-05-11
-thomas.lee,EMP0077,Active,Domain Users,StandardUser,6,2022-07-12
-susan.hernandez,EMP0078,Active,Domain Users,StandardUser,28,2024-06-22
-sarah.johnson,EMP0079,Active,Domain Users,StandardUser,11,2024-08-29
-margaret.moore,EMP0080,Active,Domain Users,StandardUser,2,2021-01-05
-william.moore,EMP0081,Active,Domain Users,StandardUser,15,2022-06-02
-sarah.smith,EMP0082,Active,Domain Users,StandardUser,8,2024-08-08
-daniel.rodriguez,EMP0083,Active,Domain Users,StandardUser,16,2020-03-27
-mark.jones,EMP0084,Active,Domain Users,StandardUser,25,2022-07-20
-lisa.martinez,EMP0085,Active,Domain Users,StandardUser,15,2023-12-25
-margaret.miller,EMP0086,Active,Domain Users,StandardUser,13,2019-03-27
-betty.clark,EMP0087,Active,Domain Users,StandardUser,2,2020-02-04
-sandra.anderson,EMP0088,Active,IT Support;Domain Users,ServerAdmin,14,2024-01-12
-margaret.hernandez,EMP0089,Active,Domain Users,StandardUser,21,2022-02-04
-nancy.robinson,EMP0090,Active,Domain Users,StandardUser,24,2023-02-05
-elizabeth.lewis,EMP0091,Active,IT Support;Domain Users,StandardUser,11,2025-02-17
-susan.jackson,EMP0092,Active,Domain Users,StandardUser,6,2023-09-28
-robert.davis,EMP0093,Active,Domain Users,StandardUser,9,2018-06-30
-joseph.lopez,EMP0094,Active,Domain Users,StandardUser,14,2018-06-25
-patricia.davis,EMP0095,Active,Domain Users,StandardUser,12,2019-03-27
-charles.ramirez,EMP0096,Active,IT Support;Domain Users,ServerAdmin,24,2018-11-06
-karen.rodriguez,EMP0097,Active,Domain Users,StandardUser,4,2018-08-08
-barbara.white,EMP0098,Active,Domain Users,StandardUser,30,2024-08-20
-mark.lopez,EMP0099,Active,Domain Users,StandardUser,9,2023-10-21
-robert.harris,EMP0100,Active,Domain Users,StandardUser,28,2021-03-11
-patricia.anderson,EMP0101,Active,IT Automation;Enterprise Admins,DomainAdmin,19,2022-09-16
-anthony.anderson,EMP0102,Active,IT Automation;Enterprise Admins,DomainAdmin,14,2018-05-14
-nancy.white,EMP0103,Active,IT Automation;Enterprise Admins,DomainAdmin,24,2019-01-23
-joseph.davis,EMP0104,Active,IT Automation;Enterprise Admins,DomainAdmin,22,2024-07-14
-nancy.miller,EMP0105,Active,Domain Admins;IT Support,DomainAdmin,26,2025-01-29
-matthew.jones,EMP0106,Active,Domain Admins;IT Support,DomainAdmin,28,2022-07-16
-james.garcia,EMP0107,Active,Domain Admins;IT Support,DomainAdmin,5,2025-01-22
-mary.white,EMP0108,Active,Domain Admins;IT Support,DomainAdmin,21,2020-07-05
-john.jones,EMP0109,Active,Domain Users,StandardUser,21,2018-08-24
-margaret.lee,EMP0110,Active,Domain Admins;IT Support,DomainAdmin,15,2020-10-28
-robert.perez,EMP0111,Active,Domain Admins;IT Support,DomainAdmin,3,2024-11-23
-patricia.wilson,EMP0112,Active,Domain Admins;IT Support,DomainAdmin,28,2020-11-26
-margaret.moore,EMP0113,Active,Domain Admins;IT Support,DomainAdmin,25,2024-05-11
-james.garcia,EMP0114,Active,IT Support;Domain Users,PowerUser,22,2019-04-19
-lisa.hernandez,EMP0115,Active,Domain Users,StandardUser,5,2025-01-21
-william.miller,EMP0116,Active,Domain Admins;IT Support,DomainAdmin,14,2021-10-11
-elizabeth.miller,EMP0117,Active,Domain Admins;IT Support,DomainAdmin,10,2022-10-13
-john.gonzalez,EMP0118,Active,Domain Users,StandardUser,1,2020-10-03
-david.garcia,EMP0119,Active,IT Automation;Enterprise Admins,DomainAdmin,3,2021-08-03
-john.taylor,EMP0120,Active,Domain Admins;IT Support,DomainAdmin,17,2019-09-12
-matthew.harris,EMP0121,Active,Domain Users,StandardUser,25,2023-08-30
-robert.anderson,EMP0122,Active,Domain Users,StandardUser,15,2020-05-22
-joseph.johnson,EMP0123,Active,Domain Users,StandardUser,27,2021-07-06
-betty.white,EMP0124,Active,Domain Users,StandardUser,30,2020-08-08
-betty.lewis,EMP0125,Active,Domain Users,StandardUser,17,2024-09-13
-richard.wilson,EMP0126,Active,IT Automation;Enterprise Admins,DomainAdmin,252,2018-12-11
-lisa.ramirez,EMP0127,Active,Domain Users,StandardUser,3,2021-11-28
-elizabeth.moore,EMP0128,Active,Domain Users,StandardUser,26,2018-06-07
-james.lopez,EMP0129,Active,IT Automation;Enterprise Admins,DomainAdmin,218,2023-08-17
-matthew.moore,EMP0130,Active,Domain Users,StandardUser,29,2021-11-14
-betty.lewis,EMP0131,Active,Domain Users,StandardUser,2,2020-09-27
-linda.moore,EMP0132,Active,Domain Users,StandardUser,26,2022-03-06
-elizabeth.harris,EMP0133,Active,Domain Users,StandardUser,17,2020-01-04
-sarah.robinson,EMP0134,Active,Domain Users,StandardUser,28,2019-11-11
-robert.clark,EMP0135,Active,Domain Admins;IT Support,DomainAdmin,231,2024-08-14
-john.lopez,EMP0136,Suspended,Domain Users,StandardUser,11,2025-05-01
-robert.johnson,EMP0137,Suspended,Domain Users,StandardUser,23,2020-05-07
-karen.smith,EMP0138,Suspended,Domain Users,StandardUser,9,2025-06-08
-susan.brown,EMP0139,Suspended,Domain Users,StandardUser,10,2022-12-25
-john.brown,EMP0140,Suspended,Domain Users,StandardUser,18,2018-12-15
-robert.martinez,EMP0141,Suspended,Domain Users,StandardUser,20,2025-08-18
-nancy.williams,EMP0142,Suspended,Domain Users,StandardUser,17,2024-11-20
-richard.ramirez,EMP0143,Suspended,Domain Users,StandardUser,21,2025-02-27
-betty.williams,EMP0144,Suspended,Domain Users,StandardUser,24,2022-12-11
-matthew.hernandez,EMP0145,Suspended,Domain Users,StandardUser,12,2025-02-24
-svc_145,EMP0146,Active,Domain Users,StandardUser,6,2018-07-25
-svc_146,EMP0147,Active,Domain Users,StandardUser,26,2025-02-26
-svc_147,EMP0148,Active,Domain Users,StandardUser,2,2022-10-22
-svc_148,EMP0149,Active,Domain Users,StandardUser,4,2022-08-01
-svc_149,EMP0150,Active,Domain Users,StandardUser,6,2021-11-05
-svc_150,EMP0151,Active,Domain Users,StandardUser,3,2020-11-20
-svc_151,EMP0152,Active,Domain Users,StandardUser,11,2024-10-01
-svc_152,EMP0153,Active,Domain Users,StandardUser,12,2020-09-01
-svc_153,EMP0154,Active,Domain Users,StandardUser,26,2018-06-23
-svc_154,EMP0155,Active,Domain Users,StandardUser,5,2025-04-19
-svc_155,EMP0156,Active,Domain Users,StandardUser,25,2023-01-01
-svc_156,EMP0157,Active,Domain Users,StandardUser,12,2020-08-08
-svc_157,EMP0158,Active,Domain Users,StandardUser,11,2021-03-08
-svc_158,EMP0159,Active,Domain Users,StandardUser,13,2019-11-04
-svc_159,EMP0160,Active,Domain Users,StandardUser,10,2018-10-14
-svc_160,EMP0161,Active,Domain Users,StandardUser,29,2023-09-17
-svc_161,EMP0162,Active,Domain Users,StandardUser,18,2019-06-25
-svc_162,EMP0163,Active,Domain Users,StandardUser,7,2024-04-14
-svc_163,EMP0164,Active,Domain Users,StandardUser,26,2020-05-28
-svc_164,EMP0165,Active,Domain Users,StandardUser,17,2020-04-12
-svc_165,EMP0166,Active,Domain Users,StandardUser,15,2020-08-07
-svc_166,EMP0167,Active,Domain Users,StandardUser,14,2024-03-14
-svc_167,EMP0168,Active,Domain Users,StandardUser,11,2023-10-31
-svc_168,EMP0169,Active,Domain Users,StandardUser,21,2023-06-12
-svc_169,EMP0170,Active,Domain Users,StandardUser,21,2020-01-05
-svc_170,EMP0171,Active,Domain Users,StandardUser,2,2019-04-30
-svc_171,EMP0172,Active,Domain Users,StandardUser,14,2019-03-26
-svc_172,EMP0173,Active,Domain Users,StandardUser,8,2020-03-25
-svc_173,EMP0174,Active,Domain Users,StandardUser,14,2020-09-19
-svc_174,EMP0175,Active,Domain Users,StandardUser,13,2021-10-10
-svc_175,EMP0176,Active,Domain Users,StandardUser,9,2024-04-10
-svc_176,EMP0177,Active,Domain Users,StandardUser,28,2022-11-12
-svc_177,EMP0178,Active,Domain Users,StandardUser,16,2023-11-11
-svc_178,EMP0179,Active,Domain Users,StandardUser,17,2021-03-28
-svc_179,EMP0180,Active,Domain Users,StandardUser,20,2020-02-05
-svc_180,EMP0181,Active,Domain Users,StandardUser,29,2024-02-23
-svc_181,EMP0182,Active,Domain Users,StandardUser,18,2019-04-03
-svc_182,EMP0183,Active,Domain Users,StandardUser,9,2019-06-25
-svc_183,EMP0184,Active,Domain Users,StandardUser,26,2021-06-18
-svc_184,EMP0185,Active,Domain Users,StandardUser,2,2020-01-15
-svc_185,EMP0186,Active,Domain Users,StandardUser,20,2023-12-23
-svc_186,EMP0187,Active,Domain Users,StandardUser,24,2018-09-25
-svc_187,EMP0188,Active,Domain Users,StandardUser,10,2019-05-03
-svc_188,EMP0189,Active,Domain Users,StandardUser,1,2018-08-04
-svc_189,EMP0190,Active,Domain Users,StandardUser,16,2019-02-07
-svc_190,EMP0191,Active,Domain Users,StandardUser,27,2023-12-28
-svc_191,EMP0192,Active,Domain Users,StandardUser,14,2022-02-17
-svc_192,EMP0193,Active,Domain Users,StandardUser,23,2024-12-12
-svc_193,EMP0194,Active,Domain Users,StandardUser,6,2022-02-16
-svc_194,EMP0195,Active,Domain Users,StandardUser,16,2018-10-22
-svc_195,EMP0196,Active,Domain Users,StandardUser,23,2023-04-28
-svc_196,EMP0197,Active,Domain Users,StandardUser,4,2022-06-03
-svc_197,EMP0198,Active,Domain Users,StandardUser,2,2022-05-23
-svc_198,EMP0199,Active,Domain Users,StandardUser,7,2023-04-01
-svc_199,EMP0200,Active,Domain Users,StandardUser,20,2024-06-03
-svc_200,EMP0201,Active,Domain Users,StandardUser,8,2018-06-29
-svc_201,EMP0202,Active,Domain Users,StandardUser,18,2025-08-03
-svc_202,EMP0203,Active,Domain Users,StandardUser,11,2022-06-05
-svc_203,EMP0204,Active,Domain Users,StandardUser,24,2019-08-25
-svc_204,EMP0205,Active,Domain Users,StandardUser,27,2025-03-29
-svc_205,EMP0206,Active,Domain Users,StandardUser,19,2022-04-20
-svc_206,EMP0207,Active,Domain Users,StandardUser,28,2024-02-22
-svc_207,EMP0208,Active,Domain Users,StandardUser,9,2018-05-18
-svc_208,EMP0209,Active,Domain Users,StandardUser,20,2023-09-06
-svc_209,EMP0210,Active,Domain Users,StandardUser,6,2024-07-30
-c-james.rodriguez,EMP0211,Active,Domain Users,StandardUser,15,2023-01-03
-c-charles.smith,EMP0212,Active,Domain Users,StandardUser,12,2018-04-26
-c-elizabeth.garcia,EMP0213,Active,Domain Users,StandardUser,30,2020-01-05
-c-karen.davis,EMP0214,Active,Domain Users,StandardUser,16,2024-02-24
-c-daniel.moore,EMP0215,Active,Domain Users,StandardUser,26,2019-08-15
-c-thomas.anderson,EMP0216,Active,Domain Users,StandardUser,30,2024-10-09
-c-michael.jackson,EMP0217,Active,Domain Users,StandardUser,11,2023-10-21
-c-charles.thomas,EMP0218,Active,Domain Users,StandardUser,15,2019-12-04
-c-joseph.jackson,EMP0219,Active,IT Support;Domain Users,PowerUser,15,2019-05-20
-c-lisa.miller,EMP0220,Active,Domain Users,StandardUser,14,2025-02-20
-mary.martinez,EMP0221,Active,Domain Users,StandardUser,25,2023-08-18
-margaret.robinson,EMP0222,Active,Domain Users,StandardUser,3,2021-06-08
-jennifer.moore,EMP0223,Active,Domain Users,StandardUser,5,2019-09-19
-joseph.perez,EMP0224,Active,Domain Users,StandardUser,13,2019-09-07
-william.miller,EMP0225,Active,Domain Users,StandardUser,26,2025-04-15
-michael.williams,EMP0226,Active,Domain Users,StandardUser,2,2018-12-27
-lisa.johnson,EMP0227,Active,Domain Users,StandardUser,8,2020-09-22
-thomas.martinez,EMP0228,Active,Domain Users,StandardUser,11,2019-03-10
-elizabeth.lewis,EMP0229,Active,Domain Users,StandardUser,8,2019-10-20
-mark.white,EMP0230,Active,Domain Users,StandardUser,22,2018-08-17
-nancy.gonzalez,EMP0231,Active,Domain Users,StandardUser,14,2020-12-23
-linda.ramirez,EMP0232,Active,Domain Users,StandardUser,28,2022-04-11
-susan.wilson,EMP0233,Active,Domain Users,StandardUser,8,2021-04-17
-margaret.lopez,EMP0234,Active,Domain Users,StandardUser,24,2019-08-23
-karen.martin,EMP0235,Active,IT Support;Domain Users,StandardUser,7,2024-10-30
-michael.ramirez,EMP0236,Active,Domain Users,StandardUser,30,2022-04-01
-matthew.thomas,EMP0237,Active,Domain Users,StandardUser,23,2018-11-14
-matthew.martinez,EMP0238,Active,Domain Users,StandardUser,18,2020-06-02
-mark.thomas,EMP0239,Active,Domain Users,StandardUser,26,2024-07-17
-barbara.hernandez,EMP0240,Active,Domain Users,StandardUser,19,2025-02-18
-sarah.robinson,EMP0241,Active,Domain Users,StandardUser,5,2022-05-03
-jessica.moore,EMP0242,Active,Domain Users,StandardUser,25,2022-10-05
-jennifer.white,EMP0243,Active,Domain Users,StandardUser,5,2023-10-01
-mary.taylor,EMP0244,Active,IT Support;Domain Users,StandardUser,27,2024-10-24
-linda.williams,EMP0245,Active,Domain Users,StandardUser,7,2025-07-18
-nancy.robinson,EMP0246,Active,Domain Users,StandardUser,16,2018-04-03
-james.taylor,EMP0247,Active,Domain Users,StandardUser,10,2019-08-22
-patricia.robinson,EMP0248,Active,Domain Users,StandardUser,5,2019-10-08
-william.sanchez,EMP0249,Active,Domain Users,StandardUser,12,2024-10-05
-nancy.clark,EMP0250,Active,Domain Users,StandardUser,28,2018-04-26
-sarah.thomas,EMP0251,Active,IT Support;Domain Users,ServerAdmin,1,2018-07-04
-charles.ramirez,EMP0252,Active,Domain Users,StandardUser,30,2019-09-22
-william.johnson,EMP0253,Active,Domain Users,StandardUser,29,2022-07-03
-james.miller,EMP0254,Active,Domain Users,StandardUser,30,2021-03-07
-anthony.ramirez,EMP0255,Active,Domain Users,StandardUser,11,2019-08-02
-lisa.lopez,EMP0256,Active,IT Support;Domain Users,ServerAdmin,14,2024-07-20
-matthew.hernandez,EMP0257,Active,IT Support;Domain Users,ServerAdmin,9,2018-07-15
-susan.garcia,EMP0258,Active,Domain Users,StandardUser,25,2024-09-07
-william.jones,EMP0259,Active,Domain Users,StandardUser,5,2018-07-16
-james.martinez,EMP0260,Active,Domain Users,StandardUser,25,2021-08-11
-joseph.moore,EMP0261,Active,Domain Users,StandardUser,1,2024-06-27
-betty.hernandez,EMP0262,Active,Domain Users,StandardUser,10,2025-07-05
-charles.taylor,EMP0263,Active,Domain Users,StandardUser,6,2021-05-18
-john.garcia,EMP0264,Active,Domain Users,StandardUser,14,2022-07-21
-linda.white,EMP0265,Active,Domain Users,StandardUser,20,2018-12-27
-richard.hernandez,EMP0266,Active,Domain Users,StandardUser,15,2021-12-14
-elizabeth.hernandez,EMP0267,Active,Domain Users,StandardUser,11,2020-04-10
-betty.davis,EMP0268,Active,Domain Users,StandardUser,9,2021-06-06
-charles.moore,EMP0269,Active,Domain Users,StandardUser,1,2019-06-24
-anthony.thompson,EMP0270,Active,Domain Users,StandardUser,22,2021-01-22
-nancy.jones,EMP0271,Active,Domain Users,StandardUser,3,2021-06-02
-thomas.robinson,EMP0272,Active,Domain Users,StandardUser,2,2019-07-21
-christopher.robinson,EMP0273,Active,Domain Users,StandardUser,25,2024-06-03
-charles.lee,EMP0274,Active,Domain Users,StandardUser,26,2021-12-05
-thomas.white,EMP0275,Active,Domain Users,StandardUser,12,2020-08-25
-thomas.jones,EMP0276,Active,Domain Users,StandardUser,16,2025-05-16
-anthony.white,EMP0277,Active,Domain Users,StandardUser,10,2021-09-28
-barbara.thomas,EMP0278,Active,Domain Users,StandardUser,24,2020-09-25
-betty.thompson,EMP0279,Active,Domain Users,StandardUser,28,2025-05-24
-linda.taylor,EMP0280,Active,Domain Users,StandardUser,6,2019-06-17
-christopher.garcia,EMP0281,Active,Domain Users,StandardUser,22,2018-06-19
-joseph.jackson,EMP0282,Active,Domain Users,StandardUser,1,2021-04-15
-patricia.sanchez,EMP0283,Active,Domain Users,StandardUser,11,2021-07-18
-christopher.hernandez,EMP0284,Active,Domain Users,StandardUser,13,2018-10-17
-jennifer.clark,EMP0285,Active,Domain Users,StandardUser,19,2018-10-04
-patricia.garcia,EMP0286,Active,Domain Users,StandardUser,17,2024-01-23
-susan.garcia,EMP0287,Active,Domain Users,StandardUser,18,2018-07-09
-robert.garcia,EMP0288,Active,Domain Users,StandardUser,20,2020-08-03
-anthony.gonzalez,EMP0289,Active,Domain Users,StandardUser,22,2021-01-22
-jennifer.williams,EMP0290,Active,IT Support;Domain Users,StandardUser,10,2023-03-05
-joseph.jackson,EMP0291,Active,Domain Users,StandardUser,17,2019-06-26
-sarah.clark,EMP0292,Active,IT Support;Domain Users,PowerUser,18,2020-09-12
-joseph.rodriguez,EMP0293,Active,Domain Users,StandardUser,15,2024-09-02
-betty.white,EMP0294,Active,Domain Users,StandardUser,21,2018-10-21
-betty.johnson,EMP0295,Active,Domain Users,StandardUser,9,2019-09-05
-charles.rodriguez,EMP0296,Active,Domain Users,StandardUser,25,2024-02-16
-robert.thompson,EMP0297,Active,Domain Users,StandardUser,5,2022-11-06
-robert.jackson,EMP0298,Active,Domain Users,StandardUser,14,2018-08-10
-thomas.white,EMP0299,Active,Domain Users,StandardUser,15,2021-07-05
-joseph.lee,EMP0300,Active,Domain Users,StandardUser,26,2024-12-08
-william.hernandez,EMP0301,Active,Domain Users,StandardUser,18,2021-11-10
-mark.perez,EMP0302,Active,IT Support;Domain Users,PowerUser,4,2025-02-17
-james.wilson,EMP0303,Active,Domain Users,StandardUser,29,2024-03-02
-christopher.lopez,EMP0304,Active,Domain Users,StandardUser,12,2024-09-21
-lisa.thompson,EMP0305,Active,Domain Users,StandardUser,21,2020-10-31
-robert.jackson,EMP0306,Active,Domain Users,StandardUser,22,2019-10-28
-margaret.wilson,EMP0307,Active,Domain Users,StandardUser,3,2020-04-16
-david.lopez,EMP0308,Active,Domain Users,StandardUser,13,2024-02-10
-thomas.jackson,EMP0309,Active,IT Support;Domain Users,ServerAdmin,21,2018-10-21
-robert.robinson,EMP0310,Active,Domain Users,StandardUser,22,2018-09-27
-matthew.brown,EMP0311,Active,Domain Users,StandardUser,14,2021-09-15
-sarah.martin,EMP0312,Active,Domain Users,StandardUser,28,2025-05-07
-michael.white,EMP0313,Active,Domain Users,StandardUser,21,2022-05-02
-jessica.lee,EMP0314,Active,Domain Users,StandardUser,29,2019-09-22
-margaret.clark,EMP0315,Active,Domain Users,StandardUser,18,2021-07-20
-charles.williams,EMP0316,Active,IT Support;Domain Users,PowerUser,7,2022-09-16
-daniel.taylor,EMP0317,Active,Domain Users,StandardUser,23,2020-11-24
-robert.rodriguez,EMP0318,Active,Domain Users,StandardUser,3,2022-03-04
-richard.jackson,EMP0319,Active,Domain Users,StandardUser,23,2022-03-03
-patricia.anderson,EMP0320,Active,IT Support;Domain Users,ServerAdmin,22,2022-03-07
-jennifer.thomas,EMP0321,Active,Domain Users,StandardUser,17,2019-10-13
-matthew.ramirez,EMP0322,Active,Domain Users,StandardUser,25,2024-04-28
-thomas.williams,EMP0323,Active,Domain Users,StandardUser,21,2019-03-08
-jessica.ramirez,EMP0324,Active,Domain Users,StandardUser,6,2021-07-10
-lisa.taylor,EMP0325,Active,IT Support;Domain Users,PowerUser,28,2025-02-25
-sandra.jones,EMP0326,Active,Domain Users,StandardUser,18,2025-04-02
-sandra.white,EMP0327,Active,Domain Users,StandardUser,27,2022-08-09
-mark.johnson,EMP0328,Active,Domain Users,StandardUser,26,2023-02-22
-matthew.ramirez,EMP0329,Active,Domain Users,StandardUser,3,2021-12-23
-charles.sanchez,EMP0330,Active,Domain Users,StandardUser,8,2018-08-31
-mark.moore,EMP0331,Active,Domain Users,StandardUser,1,2023-12-17
-christopher.clark,EMP0332,Active,IT Support;Domain Users,StandardUser,1,2021-11-21
-thomas.davis,EMP0333,Active,Domain Users,StandardUser,2,2020-02-17
-susan.thompson,EMP0334,Active,Domain Users,StandardUser,24,2020-07-04
-anthony.gonzalez,EMP0335,Active,Domain Users,StandardUser,19,2019-01-04
-william.ramirez,EMP0336,Active,Domain Users,StandardUser,23,2021-03-29
-john.miller,EMP0337,Active,Domain Users,StandardUser,4,2019-02-03
-susan.brown,EMP0338,Active,Domain Users,StandardUser,15,2023-04-27
-jennifer.sanchez,EMP0339,Active,Domain Users,StandardUser,2,2018-11-18
-richard.taylor,EMP0340,Active,IT Support;Domain Users,ServerAdmin,9,2022-04-18
-sarah.davis,EMP0341,Active,Domain Users,StandardUser,4,2020-06-19
-linda.jones,EMP0342,Active,Domain Users,StandardUser,12,2021-02-26
-william.robinson,EMP0343,Active,Domain Users,StandardUser,3,2025-05-27
-patricia.johnson,EMP0344,Active,Domain Users,StandardUser,6,2025-01-29
-james.gonzalez,EMP0345,Active,Domain Users,StandardUser,12,2023-09-17
-mary.martin,EMP0346,Active,Domain Users,StandardUser,10,2018-05-22
-john.rodriguez,EMP0347,Active,Domain Users,StandardUser,14,2024-02-09
-richard.sanchez,EMP0348,Active,Domain Users,StandardUser,18,2020-04-08
-david.gonzalez,EMP0349,Active,Domain Users,StandardUser,1,2023-08-19
-betty.thomas,EMP0350,Active,Domain Users,StandardUser,8,2019-02-05
-sarah.clark,EMP0351,Active,IT Support;Domain Users,StandardUser,19,2023-03-10
-charles.hernandez,EMP0352,Active,Domain Users,StandardUser,1,2019-01-05
-michael.clark,EMP0353,Active,Domain Users,StandardUser,10,2019-07-27
-karen.davis,EMP0354,Active,IT Support;Domain Users,StandardUser,16,2019-09-29
-daniel.garcia,EMP0355,Active,Domain Users,StandardUser,1,2024-12-24
-patricia.ramirez,EMP0356,Active,Domain Users,StandardUser,12,2024-10-31
-david.jones,EMP0357,Active,Domain Users,StandardUser,26,2020-09-30
-sarah.thompson,EMP0358,Active,Domain Users,StandardUser,22,2023-02-22
-jennifer.white,EMP0359,Active,IT Support;Domain Users,PowerUser,13,2019-03-23
-linda.lee,EMP0360,Active,Domain Users,StandardUser,5,2020-01-31
-christopher.lewis,EMP0361,Active,Domain Users,StandardUser,24,2018-06-25
-linda.thompson,EMP0362,Active,Domain Users,StandardUser,9,2021-09-19
-joseph.white,EMP0363,Active,Domain Users,StandardUser,29,2023-10-13
-richard.brown,EMP0364,Active,Domain Users,StandardUser,21,2019-03-02
-elizabeth.smith,EMP0365,Active,Domain Users,StandardUser,4,2022-09-20
-lisa.williams,EMP0366,Active,Domain Users,StandardUser,20,2021-11-09
-jennifer.martin,EMP0367,Active,Domain Users,StandardUser,2,2023-11-20
-sarah.white,EMP0368,Active,Domain Users,StandardUser,10,2022-06-28
-anthony.thomas,EMP0369,Active,Domain Users,StandardUser,12,2025-01-13
-jessica.miller,EMP0370,Active,Domain Users,StandardUser,7,2025-05-11
-betty.gonzalez,EMP0371,Active,Domain Users,StandardUser,29,2020-02-29
-jennifer.lopez,EMP0372,Active,Domain Users,StandardUser,6,2021-07-03
-linda.clark,EMP0373,Active,Domain Users,StandardUser,2,2019-04-27
-susan.harris,EMP0374,Active,Domain Users,StandardUser,2,2019-06-10
-nancy.ramirez,EMP0375,Active,Domain Users,StandardUser,29,2019-03-24
-mary.taylor,EMP0376,Active,Domain Users,StandardUser,25,2024-04-19
-mary.wilson,EMP0377,Active,Domain Users,StandardUser,7,2020-10-06
-david.robinson,EMP0378,Active,Domain Users,StandardUser,13,2024-09-02
-joseph.robinson,EMP0379,Active,IT Support;Domain Users,StandardUser,19,2018-08-29
-charles.jackson,EMP0380,Active,Domain Users,StandardUser,19,2024-06-18
-mark.wilson,EMP0381,Active,Domain Users,StandardUser,21,2021-05-09
-william.gonzalez,EMP0382,Active,Domain Users,StandardUser,20,2018-09-18
-linda.johnson,EMP0383,Active,Domain Users,StandardUser,29,2022-08-20
-william.clark,EMP0384,Active,Domain Users,StandardUser,28,2024-07-18
-anthony.hernandez,EMP0385,Active,Domain Users,StandardUser,20,2020-12-21
-lisa.thomas,EMP0386,Active,Domain Users,StandardUser,17,2025-01-06
-robert.harris,EMP0387,Active,IT Support;Domain Users,StandardUser,7,2023-09-13
-mary.robinson,EMP0388,Active,Domain Users,StandardUser,9,2023-06-01
-james.davis,EMP0389,Active,Domain Users,StandardUser,20,2020-03-01
-barbara.lopez,EMP0390,Active,Domain Users,StandardUser,24,2022-09-30
-jennifer.ramirez,EMP0391,Active,Domain Users,StandardUser,21,2023-03-02
-james.ramirez,EMP0392,Active,IT Support;Domain Users,StandardUser,30,2020-05-01
-karen.sanchez,EMP0393,Active,Domain Users,StandardUser,9,2018-06-10
-michael.anderson,EMP0394,Active,Domain Users,StandardUser,27,2019-10-23
-nancy.clark,EMP0395,Active,Domain Users,StandardUser,21,2019-05-09
-john.hernandez,EMP0396,Active,Domain Users,StandardUser,11,2018-06-19
-robert.taylor,EMP0397,Active,Domain Users,StandardUser,26,2025-01-04
-robert.white,EMP0398,Active,IT Support;Domain Users,PowerUser,16,2018-04-19
-mary.jackson,EMP0399,Active,Domain Users,StandardUser,24,2021-10-19
-barbara.taylor,EMP0400,Active,Domain Users,StandardUser,27,2023-09-28
-robert.white,EMP0401,Active,Domain Users,StandardUser,25,2019-05-19
-john.davis,EMP0402,Active,Domain Users,StandardUser,24,2023-02-22
-william.jackson,EMP0403,Active,Domain Users,StandardUser,28,2020-06-12
-karen.williams,EMP0404,Active,Domain Users,StandardUser,17,2023-06-20
-margaret.ramirez,EMP0405,Active,Domain Users,StandardUser,7,2024-02-09
-david.ramirez,EMP0406,Active,Domain Users,StandardUser,16,2024-09-27
-joseph.rodriguez,EMP0407,Active,Domain Users,StandardUser,19,2023-10-04
-karen.wilson,EMP0408,Active,Domain Users,StandardUser,14,2021-02-14
-lisa.lopez,EMP0409,Active,IT Support;Domain Users,ServerAdmin,25,2022-01-13
-linda.davis,EMP0410,Active,Domain Users,StandardUser,5,2022-02-23
-john.clark,EMP0411,Active,IT Support;Domain Users,PowerUser,10,2022-04-21
-robert.hernandez,EMP0412,Active,Domain Users,StandardUser,25,2021-08-14
-linda.davis,EMP0413,Active,Domain Users,StandardUser,24,2023-04-12
-daniel.lee,EMP0414,Active,IT Support;Domain Users,StandardUser,29,2021-06-10
-mary.perez,EMP0415,Active,Domain Users,StandardUser,27,2018-04-26
-richard.brown,EMP0416,Active,Domain Users,StandardUser,23,2020-04-29
-elizabeth.wilson,EMP0417,Active,Domain Users,StandardUser,9,2019-10-24
-thomas.white,EMP0418,Active,Domain Users,StandardUser,4,2022-06-24
-matthew.rodriguez,EMP0419,Active,Domain Users,StandardUser,23,2021-08-19
-sandra.miller,EMP0420,Active,Domain Users,StandardUser,8,2021-12-09
-nancy.thomas,EMP0421,Active,Domain Users,StandardUser,25,2024-08-21
-christopher.davis,EMP0422,Active,Domain Users,StandardUser,9,2022-04-30
-margaret.martinez,EMP0423,Active,Domain Users,StandardUser,14,2022-02-21
-margaret.jones,EMP0424,Active,Domain Users,StandardUser,12,2021-12-17
-anthony.hernandez,EMP0425,Active,Domain Users,StandardUser,13,2024-05-15
-margaret.thomas,EMP0426,Active,Domain Users,StandardUser,29,2018-05-16
-patricia.wilson,EMP0427,Active,Domain Users,StandardUser,22,2019-04-08
-james.ramirez,EMP0428,Active,Domain Users,StandardUser,30,2020-03-25
-john.rodriguez,EMP0429,Active,Domain Users,StandardUser,23,2025-07-05
-charles.davis,EMP0430,Active,Domain Users,StandardUser,17,2019-10-29
-barbara.perez,EMP0431,Active,Domain Users,StandardUser,27,2023-12-25
-christopher.robinson,EMP0432,Active,Domain Users,StandardUser,28,2019-12-24
-jessica.hernandez,EMP0433,Active,Domain Users,StandardUser,9,2021-12-08
-anthony.davis,EMP0434,Active,Domain Users,StandardUser,15,2020-07-01
-david.brown,EMP0435,Active,Domain Users,StandardUser,1,2018-04-27
-james.clark,EMP0436,Active,Domain Users,StandardUser,20,2018-11-15
-christopher.perez,EMP0437,Active,Domain Users,StandardUser,12,2021-10-28
-sarah.harris,EMP0438,Active,Domain Users,StandardUser,12,2018-04-12
-david.lopez,EMP0439,Active,Domain Users,StandardUser,17,2019-07-04
-robert.clark,EMP0440,Active,Domain Users,StandardUser,9,2024-06-12
-joseph.clark,EMP0441,Active,Domain Users,StandardUser,4,2021-11-09
-matthew.lewis,EMP0442,Active,Domain Users,StandardUser,22,2020-07-08
-lisa.johnson,EMP0443,Active,Domain Users,StandardUser,16,2019-02-01
-charles.garcia,EMP0444,Active,Domain Users,StandardUser,13,2024-06-26
-mark.gonzalez,EMP0445,Active,Domain Users,StandardUser,30,2018-10-26
-joseph.sanchez,EMP0446,Active,Domain Users,StandardUser,14,2024-02-06
-daniel.white,EMP0447,Active,Domain Users,StandardUser,7,2023-05-25
-christopher.garcia,EMP0448,Active,Domain Users,StandardUser,25,2024-05-09
-daniel.wilson,EMP0449,Active,Domain Users,StandardUser,26,2020-11-28
-mary.perez,EMP0450,Active,IT Support;Domain Users,StandardUser,9,2023-05-29
-daniel.sanchez,EMP0451,Active,Domain Users,StandardUser,25,2023-05-12
-karen.ramirez,EMP0452,Active,Domain Users,StandardUser,18,2018-05-23
-nancy.johnson,EMP0453,Active,Domain Users,StandardUser,14,2021-04-20
-william.miller,EMP0454,Active,Domain Users,StandardUser,30,2023-02-13
-karen.miller,EMP0455,Active,Domain Users,StandardUser,15,2022-05-08
-richard.johnson,EMP0456,Active,Domain Users,StandardUser,18,2022-07-08
-david.anderson,EMP0457,Active,Domain Users,StandardUser,5,2025-03-14
-anthony.perez,EMP0458,Active,Domain Users,StandardUser,26,2020-02-23
-linda.garcia,EMP0459,Active,Domain Users,StandardUser,6,2019-12-25
-linda.lewis,EMP0460,Active,Domain Users,StandardUser,11,2021-12-04
-jessica.moore,EMP0461,Active,IT Support;Domain Users,ServerAdmin,22,2024-05-12
-mary.perez,EMP0462,Active,Domain Users,StandardUser,30,2021-05-15
-elizabeth.smith,EMP0463,Active,Domain Users,StandardUser,26,2019-11-18
-michael.hernandez,EMP0464,Active,Domain Users,StandardUser,6,2024-07-27
-michael.perez,EMP0465,Active,Domain Users,StandardUser,27,2020-11-21
-anthony.williams,EMP0466,Active,Domain Users,StandardUser,15,2025-05-19
-jennifer.sanchez,EMP0467,Active,Domain Users,StandardUser,3,2019-05-23
-joseph.lee,EMP0468,Active,Domain Users,StandardUser,11,2020-10-16
-christopher.white,EMP0469,Active,Domain Users,StandardUser,2,2019-01-30
-elizabeth.sanchez,EMP0470,Active,Domain Users,StandardUser,3,2018-11-05
-jennifer.moore,EMP0471,Active,Domain Users,StandardUser,24,2024-02-13
-nancy.lewis,EMP0472,Active,Domain Users,StandardUser,18,2025-07-10
-charles.martin,EMP0473,Active,Domain Users,StandardUser,18,2019-08-16
-susan.lewis,EMP0474,Active,Domain Users,StandardUser,6,2023-11-04
-jennifer.perez,EMP0475,Active,IT Support;Domain Users,PowerUser,15,2019-06-29
-michael.white,EMP0476,Active,Domain Users,StandardUser,12,2021-12-08
-mark.miller,EMP0477,Active,Domain Users,StandardUser,15,2020-03-13
-charles.jackson,EMP0478,Active,Domain Users,StandardUser,14,2022-02-06
-lisa.lee,EMP0479,Active,Domain Users,StandardUser,27,2022-07-18
-joseph.anderson,EMP0480,Active,Domain Users,StandardUser,16,2022-03-22
-anthony.rodriguez,EMP0481,Active,Domain Users,StandardUser,7,2019-08-10
-margaret.taylor,EMP0482,Active,IT Support;Domain Users,ServerAdmin,19,2019-02-14
-sarah.lewis,EMP0483,Active,Domain Users,StandardUser,25,2018-04-25
-margaret.martinez,EMP0484,Active,Domain Users,StandardUser,17,2020-06-08
-nancy.davis,EMP0485,Active,Domain Users,StandardUser,5,2019-11-19
-margaret.jones,EMP0486,Active,Domain Users,StandardUser,2,2021-08-16
-linda.johnson,EMP0487,Active,Domain Users,StandardUser,30,2019-11-03
-mary.lee,EMP0488,Active,Domain Users,StandardUser,23,2024-06-28
-sarah.jackson,EMP0489,Active,Domain Users,StandardUser,21,2021-06-04
-william.gonzalez,EMP0490,Active,Domain Users,StandardUser,13,2019-11-09
-james.taylor,EMP0491,Active,Domain Users,StandardUser,6,2020-09-18
-robert.garcia,EMP0492,Active,Domain Users,StandardUser,20,2021-08-02
-lisa.brown,EMP0493,Active,Domain Users,StandardUser,16,2020-04-11
-linda.johnson,EMP0494,Active,Domain Users,StandardUser,19,2019-03-20
-robert.johnson,EMP0495,Active,Domain Users,StandardUser,30,2022-10-02
-james.lewis,EMP0496,Active,Domain Users,StandardUser,7,2024-09-07
-linda.clark,EMP0497,Active,Domain Users,StandardUser,5,2018-11-28
-nancy.taylor,EMP0498,Active,Domain Users,StandardUser,24,2023-10-08
-john.davis,EMP0499,Active,Domain Users,StandardUser,5,2021-04-29
-susan.clark,EMP0500,Active,Domain Users,StandardUser,4,2018-11-09
+identity_id,ad_username,privilege_level,group_memberships,account_status,last_login_days,created_date,api_token_age_days
+SVC001,svc_001,ServerAdmin,Database Admins,Active,4,2020-01-01,536
+SVC002,svc_002,ServerAdmin,Database Admins,Active,66,2020-01-01,155
+SVC003,svc_003,ServerAdmin,IT Support,Active,17,2020-01-01,156
+SVC004,svc_004,ServerAdmin,Database Admins,Active,40,2020-01-01,157
+SVC005,svc_005,ServerAdmin,Database Admins,Active,38,2020-01-01,129
+SVC006,svc_006,StandardUser,IT Support,Active,68,2020-01-01,144
+SVC007,svc_007,StandardUser,IT Support,Active,2,2020-01-01,172
+SVC008,svc_008,StandardUser,Database Admins,Active,39,2020-01-01,185
+SVC009,svc_009,ServerAdmin,Database Admins,Active,33,2020-01-01,200
+SVC010,svc_010,PowerUser,IT Support,Active,29,2020-01-01,149
+SVC011,svc_011,ServerAdmin,IT Support,Active,18,2020-01-01,62
+SVC012,svc_012,StandardUser,IT Support,Active,89,2020-01-01,375
+SVC013,svc_013,ServerAdmin,Database Admins,Active,88,2020-01-01,128
+SVC014,svc_014,StandardUser,IT Support,Active,60,2020-01-01,188
+SVC015,svc_015,PowerUser,Database Admins,Active,66,2020-01-01,83
+SVC016,svc_016,StandardUser,IT Support,Active,48,2020-01-01,44
+SVC017,svc_017,ServerAdmin,Database Admins,Active,86,2020-01-01,184
+SVC018,svc_018,PowerUser,Database Admins,Active,33,2020-01-01,49
+SVC019,svc_019,StandardUser,IT Support,Active,38,2020-01-01,76
+SVC020,svc_020,PowerUser,IT Support,Active,26,2020-01-01,125
+SVC021,svc_021,ServerAdmin,Database Admins,Active,36,2020-01-01,712
+SVC022,svc_022,StandardUser,IT Support,Active,50,2020-01-01,197
+SVC023,svc_023,ServerAdmin,IT Support,Active,5,2020-01-01,182
+SVC024,svc_024,PowerUser,IT Support,Active,83,2020-01-01,122
+SVC025,svc_025,ServerAdmin,IT Support,Active,71,2020-01-01,35
+SVC026,svc_026,PowerUser,Database Admins,Active,30,2020-01-01,171
+SVC027,svc_027,StandardUser,IT Support,Active,29,2020-01-01,577
+SVC028,svc_028,StandardUser,IT Support,Active,60,2020-01-01,436
+SVC029,svc_029,PowerUser,IT Support,Active,52,2020-01-01,121
+SVC030,svc_030,StandardUser,IT Support,Active,25,2020-01-01,73
+CON001,c-scarlett.anderson,PowerUser,Contractors-AD,Disabled,284,2023-05-06,15
+CON002,c-karen.patel,PowerUser,Contractors-AD,Disabled,165,2023-02-14,59
+CON003,c-ryan.jones,PowerUser,Contractors-AD,Disabled,393,2023-04-22,9
+CON004,c-jonathan.cox,PowerUser,Contractors-AD,Disabled,209,2023-04-12,45
+CON005,c-grace.hughes,PowerUser,Contractors-AD,Disabled,138,2023-08-18,101
+CON006,c-sharon.russell,PowerUser,Contractors-AD,Disabled,268,2023-12-24,2
+CON007,c-kimberly.scott,StandardUser,Contractors-AD,Disabled,174,2024-01-26,85
+CON008,c-jessica.lopez,StandardUser,Contractors-AD,Disabled,265,2023-07-03,164
+CON009,c-abigail.king,ServerAdmin,Server Admins,Active,17,2024-01-09,119
+CON010,c-larry.thomas,StandardUser,Contractors-AD,Active,34,2023-02-10,28
+CON011,c-michelle.coleman,StandardUser,Contractors-AD,Active,42,2023-10-23,117
+CON012,c-jack.rodriguez,PowerUser,Contractors-AD,Active,1,2023-12-05,75
+CON013,c-aaron.nguyen,PowerUser,Contractors-AD,Active,24,2023-04-30,163
+CON014,c-timothy.scott,StandardUser,Contractors-AD,Active,51,2023-11-22,131
+CON015,c-matthew.mitchell,StandardUser,Contractors-AD,Active,41,2023-04-18,708
+CON016,c-joshua.hughes,StandardUser,Contractors-AD,Active,17,2023-11-08,63
+CON017,c-lisa.morgan,StandardUser,Contractors-AD,Active,0,2023-03-25,60
+CON018,c-timothy.wright,StandardUser,Contractors-AD,Active,57,2023-12-17,84
+CON019,c-natalie.foster,PowerUser,Contractors-AD,Active,33,2023-04-28,177
+CON020,c-addison.green,StandardUser,Contractors-AD,Active,30,2023-05-18,426
+CON021,c-sandra.reed,StandardUser,Contractors-AD,Active,59,2023-04-19,103
+CON022,c-sophia.gomez,StandardUser,Contractors-AD,Active,87,2023-03-15,180
+CON023,c-karen.young,StandardUser,Contractors-AD,Active,39,2024-01-18,163
+CON024,c-ryan.howard,StandardUser,Contractors-AD,Active,37,2023-07-05,56
+CON025,c-karen.rogers,StandardUser,Contractors-AD,Active,28,2023-02-16,122
+CON026,c-william.gonzales,StandardUser,Contractors-AD,Active,77,2023-03-20,179
+CON027,c-matthew.jenkins,StandardUser,Contractors-AD,Active,70,2023-11-02,193
+CON028,c-amy.carter,StandardUser,Contractors-AD,Active,68,2023-09-28,55
+CON029,c-justin.gonzales,PowerUser,Contractors-AD,Active,67,2023-12-15,180
+CON030,c-thomas.mendoza,StandardUser,Contractors-AD,Active,46,2024-01-29,654
+CON031,c-kimberly.anderson,StandardUser,Contractors-AD,Active,14,2023-08-11,646
+CON032,c-gary.smith,StandardUser,Contractors-AD,Active,64,2023-09-14,137
+CON033,c-anthony.cook,StandardUser,Contractors-AD,Active,41,2023-11-17,113
+CON034,c-natalie.brooks,StandardUser,Contractors-AD,Active,14,2023-03-20,183
+CON035,c-zoey.lee,PowerUser,Contractors-AD,Active,65,2023-11-03,14
+CON036,c-eric.williams,StandardUser,Contractors-AD,Active,65,2023-07-05,144
+CON037,c-laura.walker,StandardUser,Contractors-AD,Active,59,2023-05-04,78
+CON038,c-richard.hernandez,StandardUser,Contractors-AD,Active,2,2023-02-05,0
+CON039,c-larry.foster,PowerUser,Contractors-AD,Active,5,2023-03-07,179
+CON040,c-nicholas.peterson,StandardUser,Contractors-AD,Active,7,2023-05-16,17
+CON041,c-leah.cox,StandardUser,Contractors-AD,Active,60,2023-04-19,575
+CON042,c-tyler.sanders,StandardUser,Contractors-AD,Active,23,2024-01-01,196
+CON043,c-angela.bennett,StandardUser,Contractors-AD,Active,82,2023-08-13,165
+CON044,c-emma.thomas,StandardUser,Contractors-AD,Active,53,2023-04-26,97
+CON045,c-kimberly.williams,StandardUser,Contractors-AD,Active,57,2023-10-29,96
+CON046,c-james.martinez,PowerUser,Contractors-AD,Active,83,2023-04-28,30
+CON047,c-samantha.jones,StandardUser,Contractors-AD,Active,22,2023-02-06,100
+CON048,c-paul.scott,StandardUser,Contractors-AD,Active,67,2023-04-20,480
+CON049,c-charles.castillo,StandardUser,Contractors-AD,Active,0,2023-05-05,76
+CON050,c-nicholas.russell,StandardUser,Contractors-AD,Active,59,2023-04-08,139
+EMP0001,joseph.james,DomainAdmin,IT Support,Active,337,2022-05-17,58
+EMP0002,jeffrey.reyes,DomainAdmin,Server Admins,Active,246,2020-05-04,39
+EMP0003,lily.baker,DomainAdmin,IT Support,Active,177,2021-01-27,704
+EMP0004,larry.edwards,DomainAdmin,Security Team,Active,334,2021-01-10,4
+EMP0005,olivia.young,DomainAdmin,IT Support,Active,243,2023-02-01,25
+EMP0006,william.wood,ServerAdmin,Server Admins,Active,144,2021-04-29,11
+EMP0007,jeffrey.morales,StandardUser,,Active,239,2022-04-01,193
+EMP0008,lisa.carter,PowerUser,,Active,191,2021-06-27,74
+EMP0009,jose.collins,StandardUser,,Active,239,2023-02-12,187
+EMP0010,aria.morales,DomainAdmin,Security Team,Active,283,2021-08-30,197
+EMP0011,patricia.howard,ServerAdmin,Cloud Admins,Active,241,2020-04-27,36
+EMP0012,brandon.morris,ServerAdmin,Security Team,Active,273,2022-11-06,142
+EMP0013,douglas.white,PowerUser,Developers,Active,209,2021-04-26,109
+EMP0014,sarah.reed,StandardUser,,Active,373,2020-03-22,542
+EMP0015,richard.turner,DomainAdmin,IT Support,Active,315,2021-02-22,81
+EMP0016,aria.green,StandardUser,,Active,89,2021-06-27,38
+EMP0017,charles.bennett,StandardUser,,Active,38,2022-07-25,193
+EMP0018,walter.long,PowerUser,Developers,Active,30,2020-01-20,76
+EMP0019,ella.reed,PowerUser,Developers,Active,18,2020-05-30,14
+EMP0020,sandra.cook,DomainAdmin,IT Support,Active,71,2020-09-28,106
+EMP0021,peter.rodriguez,StandardUser,,Active,71,2022-01-26,99
+EMP0022,matthew.cruz,StandardUser,,Active,31,2022-12-19,84
+EMP0023,chloe.sullivan,StandardUser,,Active,82,2020-07-31,596
+EMP0024,ruth.anderson,PowerUser,Developers,Active,11,2023-02-07,48
+EMP0025,joshua.torres,DomainAdmin,IT Support,Active,6,2021-12-03,172
+EMP0026,victoria.brooks,StandardUser,,Active,77,2022-11-01,18
+EMP0027,andrew.henderson,StandardUser,,Active,75,2020-07-08,143
+EMP0028,ryan.coleman,StandardUser,,Active,27,2020-03-31,85
+EMP0029,george.foster,PowerUser,,Active,27,2021-06-20,189
+EMP0030,jerry.cruz,DomainAdmin,IT Support,Active,15,2023-02-22,193
+EMP0031,thomas.martinez,PowerUser,,Active,89,2023-01-22,52
+EMP0032,henry.mitchell,PowerUser,,Active,70,2022-05-30,72
+EMP0033,linda.flores,StandardUser,,Active,48,2020-03-22,166
+EMP0034,donald.mendoza,StandardUser,,Active,45,2020-07-29,92
+EMP0035,penelope.bailey,StandardUser,,Active,65,2020-11-12,119
+EMP0036,zachary.lee,StandardUser,,Active,60,2022-04-24,81
+EMP0037,anthony.patel,StandardUser,,Active,26,2022-04-23,105
+EMP0038,chloe.gonzales,StandardUser,,Active,5,2021-06-30,56
+EMP0039,jose.hughes,PowerUser,Developers,Active,2,2022-02-22,149
+EMP0040,hannah.stewart,ServerAdmin,IT Support,Active,169,2021-02-12,75
+EMP0041,anna.collins,ServerAdmin,IT Support,Active,114,2021-09-17,58
+EMP0042,leah.robinson,ServerAdmin,IT Support,Active,143,2020-02-18,62
+EMP0043,mark.phillips,ServerAdmin,IT Support,Active,158,2021-07-24,175
+EMP0044,aaron.scott,ServerAdmin,IT Support,Active,138,2022-11-09,125
+EMP0045,frank.butler,StandardUser,,Active,82,2020-02-26,117
+EMP0046,peter.king,StandardUser,,Active,45,2023-04-04,184
+EMP0047,michael.wilson,StandardUser,,Active,69,2021-12-08,138
+EMP0048,jose.green,StandardUser,,Active,82,2022-11-13,134
+EMP0049,amy.kelly,StandardUser,,Active,4,2021-06-05,19
+EMP0050,jack.parker,ServerAdmin,Server Admins,Active,180,2022-11-30,369
+EMP0051,larry.mendoza,StandardUser,,Active,52,2022-01-15,688
+EMP0052,david.bennett,StandardUser,,Active,29,2021-10-04,443
+EMP0053,douglas.thomas,StandardUser,,Active,1,2022-11-04,116
+EMP0054,chloe.evans,StandardUser,,Active,47,2022-04-04,692
+EMP0055,michelle.peterson,ServerAdmin,Security Team,Active,85,2021-01-27,123
+EMP0056,chloe.carter,PowerUser,,Active,0,2023-03-11,105
+EMP0057,angela.peterson,StandardUser,,Active,67,2021-09-14,137
+EMP0058,donald.parker,StandardUser,,Active,36,2022-08-10,723
+EMP0059,jacob.gray,StandardUser,,Active,86,2022-11-12,45
+EMP0060,lillian.jenkins,ServerAdmin,Security Team,Active,13,2020-06-22,134
+EMP0061,isabella.james,StandardUser,,Active,19,2020-07-10,158
+EMP0062,tyler.walker,StandardUser,,Active,67,2021-04-05,90
+EMP0063,helen.jackson,StandardUser,,Active,50,2020-04-04,573
+EMP0064,nicholas.ward,StandardUser,Developers,Active,31,2022-07-21,57
+EMP0065,audrey.watson,ServerAdmin,IT Support,Active,38,2022-02-25,20
+EMP0066,angela.young,PowerUser,,Active,11,2020-01-12,96
+EMP0067,zachary.foster,PowerUser,Developers,Active,7,2022-05-20,179
+EMP0068,anthony.perry,StandardUser,,Active,21,2020-04-12,588
+EMP0069,carol.henderson,PowerUser,Developers,Active,42,2022-07-23,24
+EMP0070,adam.reyes,ServerAdmin,IT Support,Active,67,2022-06-25,58
+EMP0071,nathan.castillo,StandardUser,,Active,27,2023-01-27,177
+EMP0072,kyle.lee,StandardUser,,Active,72,2022-07-10,11
+EMP0073,tyler.young,StandardUser,,Active,9,2022-12-03,71
+EMP0074,gregory.walker,StandardUser,,Active,69,2022-06-19,8
+EMP0075,aria.torres,StandardUser,,Active,22,2021-07-10,80
+EMP0076,brian.cooper,StandardUser,Developers,Active,26,2020-10-10,192
+EMP0077,donna.roberts,ServerAdmin,Security Team,Active,9,2021-03-14,144
+EMP0078,ashley.evans,StandardUser,,Active,30,2023-01-16,99
+EMP0079,ashley.davis,StandardUser,,Active,86,2022-05-10,84
+EMP0080,samantha.foster,PowerUser,,Active,88,2023-03-25,128
+EMP0081,ava.smith,StandardUser,,Active,44,2021-09-03,589
+EMP0082,amy.barnes,StandardUser,,Active,29,2023-01-07,87
+EMP0083,jerry.cooper,StandardUser,,Active,77,2022-09-26,152
+EMP0084,joshua.parker,StandardUser,,Active,50,2020-02-29,83
+EMP0085,kimberly.bennett,StandardUser,,Active,3,2020-12-04,200
+EMP0086,anna.taylor,ServerAdmin,Server Admins,Active,29,2022-03-17,96
+EMP0087,scott.james,ServerAdmin,Server Admins,Active,10,2020-06-20,75
+EMP0088,ryan.moore,StandardUser,,Active,31,2021-01-07,21
+EMP0089,ruth.carter,StandardUser,,Active,34,2021-03-09,182
+EMP0090,emily.baker,StandardUser,,Active,81,2021-07-23,99
+EMP0091,henry.turner,StandardUser,,Active,40,2020-06-16,23
+EMP0092,robert.myers,StandardUser,,Active,39,2021-12-17,194
+EMP0093,grace.rodriguez,StandardUser,,Active,16,2020-03-04,586
+EMP0094,helen.butler,ServerAdmin,Server Admins,Active,13,2020-11-08,547
+EMP0095,charles.stewart,PowerUser,Developers,Active,76,2023-03-01,83
+EMP0096,olivia.hughes,StandardUser,,Active,49,2022-01-25,577
+EMP0097,abigail.cox,StandardUser,Developers,Active,10,2020-12-01,143
+EMP0098,jessica.howard,PowerUser,,Active,73,2021-09-30,175
+EMP0099,frank.carter,StandardUser,,Active,48,2021-02-10,68
+EMP0100,evelyn.ruiz,StandardUser,,Active,38,2020-07-27,37
+EMP0101,aaron.hill,StandardUser,Developers,Active,55,2023-03-05,76
+EMP0102,linda.hall,StandardUser,,Active,61,2022-01-28,92
+EMP0103,jonathan.chavez,StandardUser,,Active,32,2020-01-26,184
+EMP0104,lucy.morales,PowerUser,Developers,Active,76,2022-06-06,117
+EMP0105,scarlett.coleman,StandardUser,,Active,13,2020-11-09,369
+EMP0106,anthony.sanders,StandardUser,,Active,50,2023-01-07,158
+EMP0107,ava.reyes,StandardUser,,Active,48,2021-07-03,84
+EMP0108,hannah.young,StandardUser,Developers,Active,55,2021-07-25,166
+EMP0109,carol.long,StandardUser,,Active,76,2023-03-13,530
+EMP0110,chloe.carter,StandardUser,,Active,77,2020-02-28,51
+EMP0111,douglas.adams,PowerUser,,Active,50,2022-09-25,74
+EMP0112,deborah.perry,StandardUser,,Active,88,2021-11-28,147
+EMP0113,peter.kim,StandardUser,,Active,31,2023-02-12,71
+EMP0114,stephen.harris,PowerUser,Developers,Active,50,2021-05-09,144
+EMP0115,jeffrey.morales,StandardUser,,Active,25,2022-09-02,139
+EMP0116,aria.morales,StandardUser,,Active,23,2020-02-05,140
+EMP0117,michelle.lewis,StandardUser,,Active,3,2021-05-13,118
+EMP0118,patrick.howard,StandardUser,,Active,26,2022-08-27,74
+EMP0119,mia.hall,StandardUser,,Active,88,2023-02-01,575
+EMP0120,deborah.hughes,StandardUser,,Active,86,2021-07-08,162
+EMP0121,andrew.robinson,StandardUser,Developers,Active,32,2021-01-29,183
+EMP0122,sarah.myers,ServerAdmin,Security Team,Active,9,2021-01-27,153
+EMP0123,jerry.morris,StandardUser,,Active,61,2022-12-10,136
+EMP0124,kenneth.gonzalez,StandardUser,,Active,64,2021-08-29,177
+EMP0125,ronald.thompson,StandardUser,,Active,53,2020-01-29,92
+EMP0126,larry.taylor,StandardUser,,Active,89,2020-04-03,137
+EMP0127,justin.nguyen,PowerUser,,Active,13,2022-10-02,168
+EMP0128,leah.johnson,StandardUser,,Active,85,2022-08-19,165
+EMP0129,jacob.baker,ServerAdmin,Security Team,Active,42,2020-04-15,110
+EMP0130,zachary.morris,StandardUser,Developers,Active,12,2020-05-13,130
+EMP0131,eric.martinez,PowerUser,,Active,57,2020-11-06,118
+EMP0132,addison.reed,StandardUser,,Active,86,2020-06-23,128
+EMP0133,sarah.bailey,StandardUser,,Active,19,2021-04-07,6
+EMP0134,stephen.carter,StandardUser,,Active,61,2022-06-25,578
+EMP0135,zachary.ramos,StandardUser,,Active,10,2021-09-17,438
+EMP0136,ella.davis,StandardUser,Developers,Active,43,2021-03-01,52
+EMP0137,sandra.king,PowerUser,Developers,Active,44,2020-11-17,112
+EMP0138,anthony.peterson,PowerUser,Developers,Active,57,2020-11-16,76
+EMP0139,jeffrey.edwards,StandardUser,,Active,5,2021-08-19,29
+EMP0140,donna.torres,StandardUser,,Active,2,2022-07-18,165
+EMP0141,victoria.robinson,StandardUser,,Active,13,2021-02-09,42
+EMP0142,thomas.cooper,StandardUser,,Active,31,2020-11-01,141
+EMP0143,lucy.jackson,StandardUser,Developers,Active,71,2020-05-02,118
+EMP0144,lillian.flores,StandardUser,,Active,29,2022-06-18,161
+EMP0145,olivia.ruiz,StandardUser,,Active,23,2022-04-04,168
+EMP0146,jonathan.cooper,StandardUser,,Active,55,2022-06-15,188
+EMP0147,benjamin.garcia,StandardUser,,Active,78,2021-10-22,115
+EMP0148,andrew.brown,PowerUser,Developers,Active,49,2021-04-13,475
+EMP0149,natalie.gonzales,StandardUser,,Active,8,2021-07-05,137
+EMP0150,linda.ross,StandardUser,,Active,41,2022-08-21,29
+EMP0151,grace.cruz,StandardUser,,Active,33,2021-01-06,125
+EMP0152,brenda.brooks,StandardUser,,Active,67,2020-07-05,80
+EMP0153,edward.evans,StandardUser,,Active,76,2021-10-19,100
+EMP0154,jessica.barnes,ServerAdmin,Security Team,Active,45,2021-11-06,158
+EMP0155,raymond.murphy,StandardUser,,Active,22,2022-03-31,180
+EMP0156,zoey.peterson,PowerUser,,Active,86,2022-07-20,426
+EMP0157,brian.allen,StandardUser,,Active,30,2020-08-25,46
+EMP0158,angela.gonzales,PowerUser,,Active,65,2023-01-16,152
+EMP0159,jeffrey.miller,StandardUser,,Active,17,2022-11-27,108
+EMP0160,ella.long,StandardUser,,Active,23,2022-06-24,137
+EMP0161,william.clark,StandardUser,,Active,88,2023-01-29,44
+EMP0162,walter.torres,StandardUser,,Active,71,2022-09-19,73
+EMP0163,jennifer.watson,StandardUser,,Active,17,2020-11-20,115
+EMP0164,justin.johnson,StandardUser,,Active,79,2020-07-09,549
+EMP0165,natalie.anderson,StandardUser,,Active,1,2020-08-28,49
+EMP0166,henry.martin,StandardUser,,Active,49,2021-08-20,129
+EMP0167,jack.wright,StandardUser,,Active,83,2022-09-15,175
+EMP0168,carol.collins,ServerAdmin,Security Team,Active,62,2022-02-24,144
+EMP0169,anna.kim,StandardUser,,Active,28,2020-05-22,70
+EMP0170,aaron.jenkins,StandardUser,,Active,28,2021-11-27,43
+EMP0171,jonathan.wright,ServerAdmin,Server Admins,Active,70,2021-08-02,146
+EMP0172,kevin.butler,StandardUser,,Active,14,2020-10-31,139
+EMP0173,larry.morris,StandardUser,,Active,46,2021-11-11,193
+EMP0174,zoey.cooper,StandardUser,,Active,5,2022-07-21,112
+EMP0175,leah.harris,StandardUser,,Active,69,2023-03-17,108
+EMP0176,donna.barnes,StandardUser,,Active,13,2020-03-30,167
+EMP0177,aubrey.stewart,StandardUser,,Active,31,2022-03-01,8
+EMP0178,lillian.bell,ServerAdmin,Security Team,Active,11,2022-10-11,30
+EMP0179,charles.cook,StandardUser,,Active,30,2020-07-24,188
+EMP0180,joseph.ortiz,StandardUser,,Active,75,2020-02-01,181
+EMP0181,daniel.evans,ServerAdmin,Security Team,Active,21,2020-06-02,200
+EMP0182,jose.king,StandardUser,,Active,26,2022-03-25,15
+EMP0183,richard.barnes,StandardUser,,Active,72,2022-12-28,71
+EMP0184,brian.watson,StandardUser,,Active,76,2023-01-13,82
+EMP0185,ella.rodriguez,StandardUser,,Active,37,2021-08-11,68
+EMP0186,aubrey.lopez,StandardUser,,Active,65,2020-07-20,173
+EMP0187,scarlett.price,PowerUser,Developers,Active,17,2022-06-27,105
+EMP0188,raymond.hill,ServerAdmin,Server Admins,Active,83,2020-04-04,433
+EMP0189,lillian.davis,StandardUser,,Active,31,2022-01-04,530
+EMP0190,brenda.jackson,StandardUser,,Active,31,2022-12-23,173
+EMP0191,scott.mendoza,PowerUser,,Active,73,2020-12-14,160
+EMP0192,richard.ward,StandardUser,,Active,53,2021-05-08,19
+EMP0193,ethan.howard,PowerUser,,Active,51,2021-04-20,71
+EMP0194,scarlett.allen,StandardUser,,Active,88,2021-06-06,94
+EMP0195,maria.perry,StandardUser,,Active,58,2021-08-12,83
+EMP0196,charlotte.lee,PowerUser,Developers,Active,11,2022-06-23,117
+EMP0197,evelyn.hill,StandardUser,,Active,81,2021-05-27,91
+EMP0198,douglas.hill,StandardUser,,Active,8,2022-02-26,101
+EMP0199,jessica.walker,StandardUser,,Active,27,2023-03-17,54
+EMP0200,harper.nguyen,StandardUser,,Active,63,2020-02-14,72
+EMP0201,jason.scott,PowerUser,,Active,72,2023-03-05,87
+EMP0202,penelope.myers,PowerUser,,Active,5,2022-10-14,601
+EMP0203,penelope.perry,StandardUser,,Active,2,2021-12-22,446
+EMP0204,scarlett.harris,StandardUser,,Active,56,2020-10-07,109
+EMP0205,joseph.watson,StandardUser,,Active,88,2021-09-24,166
+EMP0206,jacob.jones,StandardUser,,Active,38,2020-09-26,70
+EMP0207,ethan.nguyen,StandardUser,,Active,11,2022-04-30,64
+EMP0208,helen.taylor,StandardUser,,Active,10,2022-12-23,166
+EMP0209,ethan.wright,StandardUser,,Active,50,2021-06-10,185
+EMP0210,addison.nguyen,StandardUser,,Active,89,2020-08-23,109
+EMP0211,elizabeth.jackson,StandardUser,,Active,83,2022-03-24,414
+EMP0212,amelia.campbell,StandardUser,Developers,Active,61,2022-03-19,669
+EMP0213,ruth.morgan,StandardUser,Developers,Active,87,2022-07-20,2
+EMP0214,frank.myers,StandardUser,,Active,89,2023-04-12,30
+EMP0215,lucy.brooks,StandardUser,,Active,54,2020-08-09,122
+EMP0216,donna.stewart,StandardUser,,Active,49,2023-02-23,418
+EMP0217,anna.ward,StandardUser,,Active,13,2020-05-09,76
+EMP0218,lucy.reyes,StandardUser,,Active,17,2022-04-16,192
+EMP0219,karen.garcia,PowerUser,,Active,8,2021-09-15,2
+EMP0220,thomas.gonzalez,StandardUser,,Active,78,2023-01-05,112
+EMP0221,amy.collins,StandardUser,,Active,44,2023-01-11,160
+EMP0222,evelyn.myers,ServerAdmin,Security Team,Active,78,2022-04-29,55
+EMP0223,joseph.coleman,StandardUser,,Active,11,2022-04-15,35
+EMP0224,michael.ruiz,StandardUser,,Active,15,2021-03-20,98
+EMP0225,jacob.walker,StandardUser,,Active,44,2020-07-22,80
+EMP0226,dorothy.cooper,StandardUser,,Active,17,2020-05-04,165
+EMP0227,sharon.harris,StandardUser,Developers,Active,70,2022-07-20,184
+EMP0228,patrick.ramirez,PowerUser,,Active,84,2020-04-13,52
+EMP0229,george.young,PowerUser,,Active,50,2023-03-02,13
+EMP0230,david.coleman,StandardUser,,Active,30,2023-04-15,28
+EMP0231,nathan.robinson,StandardUser,,Active,30,2020-10-29,152
+EMP0232,samantha.kim,StandardUser,,Active,1,2021-07-21,81
+EMP0233,charles.cooper,StandardUser,,Active,16,2020-12-23,145
+EMP0234,patrick.gonzales,PowerUser,,Active,60,2020-09-26,197
+EMP0235,deborah.jenkins,StandardUser,,Active,9,2021-10-25,400
+EMP0236,anthony.king,StandardUser,,Active,27,2020-09-16,396
+EMP0237,ashley.ortiz,PowerUser,Developers,Active,50,2020-05-10,160
+EMP0238,emma.jimenez,StandardUser,,Active,64,2022-11-17,108
+EMP0239,jessica.edwards,StandardUser,,Active,89,2020-03-29,163
+EMP0240,jose.gonzales,StandardUser,,Active,68,2022-07-27,39
+EMP0241,jennifer.davis,StandardUser,,Active,35,2022-04-02,406
+EMP0242,victoria.wilson,StandardUser,,Active,65,2022-06-27,39
+EMP0243,samantha.hernandez,StandardUser,,Active,68,2020-10-30,150
+EMP0244,charles.scott,StandardUser,,Active,81,2022-02-19,166
+EMP0245,mia.nguyen,StandardUser,,Active,87,2022-11-01,79
+EMP0246,brenda.gonzalez,PowerUser,Developers,Active,30,2023-02-03,410
+EMP0247,zachary.ramirez,StandardUser,,Active,55,2022-07-13,679
+EMP0248,jeffrey.baker,StandardUser,,Active,77,2022-03-27,707
+EMP0249,lily.gonzalez,StandardUser,,Active,84,2022-05-24,30
+EMP0250,chloe.allen,StandardUser,,Active,1,2020-11-08,179
+EMP0251,walter.stewart,StandardUser,Developers,Active,63,2020-07-05,133
+EMP0252,susan.parker,PowerUser,Developers,Active,33,2022-02-02,32
+EMP0253,charles.bailey,ServerAdmin,Server Admins,Active,15,2023-02-24,7
+EMP0254,george.bennett,StandardUser,Developers,Active,54,2022-04-21,16
+EMP0255,leah.bennett,StandardUser,,Active,33,2020-04-15,147
+EMP0256,benjamin.flores,StandardUser,,Active,80,2020-07-31,599
+EMP0257,jonathan.ramirez,PowerUser,,Active,63,2022-09-14,42
+EMP0258,douglas.wilson,StandardUser,,Active,47,2023-02-13,197
+EMP0259,thomas.ross,StandardUser,,Active,13,2023-03-21,172
+EMP0260,addison.diaz,PowerUser,,Active,65,2021-07-01,372
+EMP0261,betty.wright,StandardUser,,Active,31,2021-11-26,552
+EMP0262,james.white,PowerUser,,Active,22,2023-03-05,9
+EMP0263,angela.rodriguez,ServerAdmin,Security Team,Active,28,2020-03-03,106
+EMP0264,aubrey.ortiz,StandardUser,,Active,40,2022-02-09,19
+EMP0265,gary.baker,PowerUser,,Active,64,2022-01-27,13
+EMP0266,dennis.adams,StandardUser,Developers,Active,66,2020-04-17,102
+EMP0267,matthew.long,StandardUser,,Active,59,2020-06-16,198
+EMP0268,jacob.james,StandardUser,,Active,39,2022-09-21,141
+EMP0269,jacob.turner,StandardUser,,Active,58,2021-03-17,468
+EMP0270,isabella.anderson,StandardUser,,Active,37,2022-05-30,77
+EMP0271,kenneth.gray,StandardUser,,Active,79,2022-12-15,94
+EMP0272,laura.garcia,StandardUser,,Active,75,2022-03-20,197
+EMP0273,patricia.smith,StandardUser,,Active,25,2021-09-09,139
+EMP0274,aaron.moore,StandardUser,,Active,31,2021-08-15,104
+EMP0275,sarah.smith,StandardUser,,Active,3,2022-05-31,88
+EMP0276,charles.carter,StandardUser,,Active,81,2022-10-21,2
+EMP0277,henry.bennett,StandardUser,,Active,42,2020-05-27,702
+EMP0278,zachary.patel,ServerAdmin,Server Admins,Active,13,2022-06-12,60
+EMP0279,gary.martinez,StandardUser,,Active,53,2023-03-25,15
+EMP0280,harper.phillips,StandardUser,,Active,18,2021-08-15,23
+EMP0281,angela.williams,StandardUser,,Active,5,2020-12-17,133
+EMP0282,ella.collins,StandardUser,,Active,52,2020-06-29,95
+EMP0283,douglas.wilson,StandardUser,,Active,58,2022-06-11,21
+EMP0284,angela.ortiz,PowerUser,Developers,Active,64,2022-03-21,567
+EMP0285,aubrey.baker,StandardUser,,Active,9,2021-11-13,15
+EMP0286,lisa.martinez,StandardUser,Developers,Active,16,2022-12-22,66
+EMP0287,mark.jimenez,StandardUser,,Active,40,2021-12-20,100
+EMP0288,nathan.chavez,ServerAdmin,Security Team,Active,40,2021-04-28,59
+EMP0289,daniel.allen,StandardUser,,Active,9,2020-12-21,34
+EMP0290,nancy.ross,PowerUser,Developers,Active,74,2020-12-28,420
+EMP0291,gregory.murphy,StandardUser,,Active,21,2023-02-28,80
+EMP0292,brandon.edwards,StandardUser,,Active,52,2021-10-09,549
+EMP0293,jacob.rodriguez,StandardUser,,Active,26,2022-06-24,118
+EMP0294,kevin.jenkins,StandardUser,,Active,33,2020-04-25,23
+EMP0295,jonathan.martinez,StandardUser,,Active,20,2022-08-03,77
+EMP0296,michael.davis,StandardUser,,Active,89,2021-08-10,55
+EMP0297,alexander.gonzales,PowerUser,Developers,Active,41,2022-11-04,730
+EMP0298,olivia.howard,StandardUser,,Active,45,2022-07-10,12
+EMP0299,harper.wood,StandardUser,,Active,86,2021-10-20,44
+EMP0300,nicholas.cook,StandardUser,,Active,51,2020-05-06,142
+EMP0301,jessica.russell,StandardUser,,Active,70,2020-06-21,118
+EMP0302,alexander.thompson,StandardUser,,Active,17,2021-05-22,397
+EMP0303,jacob.cruz,PowerUser,,Active,16,2022-01-15,102
+EMP0304,anna.torres,StandardUser,,Active,47,2022-04-17,165
+EMP0305,kimberly.gray,StandardUser,,Active,75,2021-11-16,19
+EMP0306,george.gonzalez,StandardUser,,Active,2,2021-08-04,50
+EMP0307,dennis.barnes,ServerAdmin,Security Team,Active,16,2021-11-13,535
+EMP0308,brandon.james,StandardUser,,Active,59,2021-12-17,659
+EMP0309,grace.hughes,StandardUser,,Active,55,2020-09-21,101
+EMP0310,jack.hernandez,StandardUser,,Active,63,2023-02-18,715
+EMP0311,alexander.jenkins,StandardUser,,Active,54,2020-09-18,54
+EMP0312,riley.coleman,PowerUser,Developers,Active,35,2022-05-17,38
+EMP0313,ronald.williams,StandardUser,,Active,4,2021-09-24,157
+EMP0314,sandra.baker,StandardUser,,Active,31,2021-01-28,127
+EMP0315,karen.martin,StandardUser,Developers,Active,70,2021-08-28,22
+EMP0316,joseph.cook,StandardUser,,Active,17,2021-11-20,164
+EMP0317,ella.taylor,StandardUser,,Active,67,2020-11-11,139
+EMP0318,betty.coleman,ServerAdmin,Security Team,Active,45,2022-06-15,200
+EMP0319,jeffrey.campbell,StandardUser,,Active,62,2022-06-28,144
+EMP0320,kenneth.long,StandardUser,,Active,64,2021-04-24,69
+EMP0321,paul.flores,StandardUser,,Active,23,2021-02-01,671
+EMP0322,frank.kelly,StandardUser,,Active,28,2022-08-03,509
+EMP0323,kenneth.jimenez,StandardUser,,Active,7,2022-10-26,120
+EMP0324,ashley.lee,StandardUser,,Active,67,2020-10-10,149
+EMP0325,william.chavez,StandardUser,,Active,29,2022-01-30,25
+EMP0326,stella.wilson,StandardUser,Developers,Active,30,2021-08-06,188
+EMP0327,zoey.lee,StandardUser,,Active,7,2022-07-09,56
+EMP0328,daniel.coleman,StandardUser,,Active,73,2020-07-06,99
+EMP0329,nathan.edwards,StandardUser,,Active,45,2020-02-24,44
+EMP0330,william.gomez,StandardUser,,Active,22,2021-04-27,81
+EMP0331,richard.mitchell,StandardUser,,Active,89,2020-02-27,151
+EMP0332,stella.gonzalez,StandardUser,,Active,3,2020-10-26,90
+EMP0333,michael.torres,StandardUser,,Active,72,2020-10-11,144
+EMP0334,jack.stewart,StandardUser,,Active,24,2020-01-11,126
+EMP0335,robert.allen,StandardUser,,Active,69,2020-11-02,125
+EMP0336,lily.cox,StandardUser,,Active,4,2020-08-15,485
+EMP0337,kenneth.walker,StandardUser,,Active,77,2020-09-06,134
+EMP0338,paul.turner,StandardUser,,Active,61,2020-05-08,680
+EMP0339,natalie.murphy,StandardUser,,Active,16,2022-11-21,45
+EMP0340,paul.alvarez,ServerAdmin,Security Team,Active,7,2021-08-19,666
+EMP0341,james.ward,StandardUser,,Active,18,2021-05-07,134
+EMP0342,ashley.white,PowerUser,Developers,Active,9,2022-12-08,169
+EMP0343,david.ortiz,PowerUser,,Active,43,2022-03-10,34
+EMP0344,linda.brooks,StandardUser,,Active,20,2022-02-03,111
+EMP0345,aubrey.williams,StandardUser,,Active,81,2020-05-18,166
+EMP0346,paul.sanders,StandardUser,Developers,Active,71,2023-04-06,157
+EMP0347,tyler.nelson,PowerUser,,Active,85,2020-03-31,44
+EMP0348,charlotte.baker,ServerAdmin,Security Team,Active,16,2022-08-09,0
+EMP0349,ava.watson,ServerAdmin,Security Team,Active,72,2020-10-03,674
+EMP0350,aria.jimenez,StandardUser,,Active,40,2020-03-16,156
+EMP0351,helen.garcia,StandardUser,,Active,28,2020-03-26,26
+EMP0352,stella.flores,StandardUser,,Active,63,2023-01-17,405
+EMP0353,andrew.jones,StandardUser,,Active,30,2021-08-08,81
+EMP0354,zachary.jimenez,StandardUser,,Active,11,2021-11-10,171
+EMP0355,sarah.perry,StandardUser,,Active,81,2022-06-13,85
+EMP0356,aubrey.cruz,StandardUser,,Active,57,2021-11-25,473
+EMP0357,sophia.ruiz,StandardUser,,Active,31,2022-01-22,89
+EMP0358,stephen.wright,StandardUser,Developers,Active,13,2022-05-19,12
+EMP0359,brenda.cox,ServerAdmin,Security Team,Active,21,2023-01-22,126
+EMP0360,emily.wilson,PowerUser,Developers,Active,44,2021-11-02,25
+EMP0361,michelle.flores,StandardUser,,Active,61,2022-05-22,147
+EMP0362,raymond.cruz,StandardUser,,Active,83,2022-07-04,57
+EMP0363,lily.rivera,StandardUser,,Active,20,2021-07-16,8
+EMP0364,lillian.davis,StandardUser,Developers,Active,40,2022-04-11,26
+EMP0365,isabella.perry,StandardUser,,Active,21,2020-03-04,41
+EMP0366,douglas.cox,StandardUser,,Active,9,2020-03-12,23
+EMP0367,david.walker,StandardUser,,Active,43,2022-01-11,157
+EMP0368,scott.jones,PowerUser,,Active,55,2022-07-10,42
+EMP0369,dorothy.cruz,PowerUser,Developers,Active,55,2023-03-21,25
+EMP0370,mia.campbell,StandardUser,,Active,42,2021-10-05,48
+EMP0371,sharon.young,StandardUser,Developers,Active,70,2020-02-23,186
+EMP0372,betty.murphy,StandardUser,,Active,69,2023-02-24,72
+EMP0373,ruth.jimenez,StandardUser,,Active,38,2022-07-02,12
+EMP0374,samuel.torres,StandardUser,,Active,50,2021-02-13,125
+EMP0375,karen.barnes,StandardUser,Developers,Active,46,2022-07-14,410
+EMP0376,samantha.alvarez,StandardUser,,Active,37,2020-06-28,160
+EMP0377,victoria.henderson,StandardUser,,Active,76,2021-12-12,24
+EMP0378,david.peterson,StandardUser,,Active,3,2021-09-06,163
+EMP0379,aria.price,StandardUser,,Active,10,2022-01-10,29
+EMP0380,steven.thomas,StandardUser,,Active,39,2020-10-11,120
+EMP0381,lillian.murphy,ServerAdmin,Server Admins,Active,11,2022-01-09,99
+EMP0382,harper.mitchell,StandardUser,,Active,23,2023-02-03,97
+EMP0383,samuel.lopez,StandardUser,Developers,Active,57,2021-09-25,591
+EMP0384,aria.castillo,StandardUser,,Active,59,2022-12-12,68
+EMP0385,aaron.evans,PowerUser,Developers,Active,19,2020-09-13,170
+EMP0386,alexander.martinez,StandardUser,,Active,12,2022-08-12,542
+EMP0387,stephen.hall,ServerAdmin,Security Team,Active,75,2023-02-03,15
+EMP0388,evelyn.white,ServerAdmin,Security Team,Active,68,2022-06-05,121
+EMP0389,ethan.davis,PowerUser,Developers,Active,30,2022-11-27,20
+EMP0390,kevin.perez,PowerUser,,Active,64,2021-10-22,132
+EMP0391,steven.hall,StandardUser,,Active,73,2020-06-10,158
+EMP0392,helen.brooks,StandardUser,,Active,18,2020-09-13,595
+EMP0393,kevin.ward,StandardUser,Developers,Active,21,2022-10-26,49
+EMP0394,lisa.ramos,StandardUser,,Active,54,2020-12-16,715
+EMP0395,ella.castillo,StandardUser,,Active,55,2023-02-28,160
+EMP0396,lucy.gonzales,StandardUser,,Active,76,2020-06-15,186
+EMP0397,alexander.foster,StandardUser,,Active,8,2021-03-07,650
+EMP0398,harper.turner,ServerAdmin,Server Admins,Active,35,2022-10-16,3
+EMP0399,charlotte.nguyen,StandardUser,,Active,89,2022-09-16,133
+EMP0400,addison.russell,StandardUser,,Active,53,2021-09-01,442
+EMP0401,elizabeth.ruiz,StandardUser,,Active,75,2020-11-19,25
+EMP0402,ashley.morris,StandardUser,,Active,13,2021-02-21,25
+EMP0403,abigail.jackson,StandardUser,,Active,36,2021-10-15,88
+EMP0404,zachary.hall,StandardUser,,Active,52,2020-09-24,167
+EMP0405,dorothy.rogers,StandardUser,Developers,Active,77,2021-10-15,44
+EMP0406,olivia.thomas,StandardUser,,Active,35,2022-07-09,158
+EMP0407,daniel.gonzalez,ServerAdmin,Server Admins,Active,4,2021-08-17,84
+EMP0408,zachary.ward,StandardUser,,Active,88,2021-05-23,190
+EMP0409,nathan.adams,StandardUser,,Active,60,2021-01-23,95
+EMP0410,matthew.murphy,StandardUser,,Active,2,2022-10-18,77
+EMP0411,sophia.williams,StandardUser,Developers,Active,62,2022-03-16,175
+EMP0412,gary.walker,StandardUser,,Active,12,2023-04-09,58
+EMP0413,william.miller,StandardUser,,Active,17,2022-10-10,190
+EMP0414,peter.butler,StandardUser,,Active,56,2021-08-08,82
+EMP0415,maria.henderson,StandardUser,Developers,Active,53,2022-06-01,22
+EMP0416,peter.king,StandardUser,,Active,24,2022-04-05,104
+EMP0417,linda.phillips,ServerAdmin,Server Admins,Active,7,2023-03-13,40
+EMP0418,mark.campbell,StandardUser,,Active,8,2020-05-30,129
+EMP0419,jonathan.edwards,StandardUser,,Active,51,2020-08-31,634
+EMP0420,joseph.gomez,StandardUser,,Active,72,2021-11-25,464
