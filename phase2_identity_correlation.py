@@ -8,6 +8,7 @@ Produces identity_360.json — the foundation for all downstream analysis.
 import csv
 import json
 import os
+import re
 
 CSV_DIR = os.path.join(os.path.dirname(__file__), 'csv_files')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'output_files')
@@ -22,53 +23,64 @@ def load_identities():
             identities[row['identity_id']] = row
     return identities
 
-def build_match_indexes(identities):
-    """Build username-to-identity lookup indexes for each platform."""
-    indexes = {
-        'ad': {},
-        'aws': {},
-        'okta': {},
-        'salesforce': {}
-    }
+def match_username_to_identity(username, platform, identities):
+    username_lower = username.lower()
+    
+    # Check if username is service account pattern
+    svc_match = re.search(r'svc[-_](\d+)', username_lower)
+    
+    # Check if username is contractor pattern
+    is_contractor = username_lower.startswith('c-') or username_lower.startswith('c_') or '@contractor' in username_lower
+    
+    best_score = -1.0
+    candidates = []
     
     for uid, data in identities.items():
-        fname = data['full_name'].split()[0].lower()
-        lname = data['full_name'].split()[-1].lower()
+        full_name = data['full_name'].lower()
+        parts = full_name.split()
+        fname = parts[0]
+        lname = parts[-1]
         emp_type = data['employment_type']
         
-        # Service Accounts: svc_{dept}_{number}
-        if emp_type == 'ServiceAccount':
-            parts = data['full_name'].split('_')
-            num = parts[-1]
-            ad_user = f"svc_{num}"
-            aws_user = f"svc-{num}"
-            okta_user = f"svc_{num}@company.com"
-            sf_user = f"svc_{num}_sf"
-            
-            indexes['ad'].setdefault(ad_user, []).append(uid)
-            indexes['aws'].setdefault(aws_user, []).append(uid)
-            indexes['okta'].setdefault(okta_user, []).append(uid)
-            indexes['salesforce'].setdefault(sf_user, []).append(uid)
-            continue
-            
-        # Contractors and Employees
-        ad_user = f"{fname}.{lname}"
-        aws_user = f"{fname[0]}{lname}"
-        okta_user = f"{fname}.{lname}@company.com"
-        sf_user = f"{fname}_{lname}_sf"
+        score = 0.0
         
-        if emp_type == 'Contractor':
-            ad_user = f"c-{ad_user}"
-            aws_user = f"c_{aws_user}"
-            okta_user = f"{fname}.{lname}@contractor.company.com"
-            sf_user = f"c_{fname}_{lname}_sf"
+        # Service account matching
+        if svc_match:
+            # Only match service accounts if name looks like svc_something_number
+            if emp_type == 'ServiceAccount':
+                # Extract number from identity name
+                id_svc_match = re.search(r'svc_.*_(\d+)', full_name)
+                if id_svc_match and id_svc_match.group(1) == svc_match.group(1):
+                    score = 1.0
+        else:
+            # Human matching
+            if fname in username_lower and lname in username_lower:
+                score = 1.0
+            elif lname in username_lower and fname[0] in username_lower:
+                score = 0.9
+            elif lname in username_lower:
+                score = 0.6
+            elif fname in username_lower:
+                score = 0.3
+                
+            # Disambiguate with contractor flag
+            if is_contractor and emp_type == 'Contractor':
+                score += 0.05
+            elif not is_contractor and emp_type != 'Contractor':
+                score += 0.05
+                
+        if score > best_score:
+            best_score = score
+            candidates = [uid]
+        elif score == best_score and score > 0:
+            candidates.append(uid)
             
-        indexes['ad'].setdefault(ad_user, []).append(uid)
-        indexes['aws'].setdefault(aws_user, []).append(uid)
-        indexes['okta'].setdefault(okta_user, []).append(uid)
-        indexes['salesforce'].setdefault(sf_user, []).append(uid)
-        
-    return indexes
+    if best_score >= 0.5:
+        if len(candidates) == 1:
+            return candidates[0], str(best_score)
+        else:
+            return candidates[0], f"{best_score} (Collision)"
+    return None, "None"
 
 def correlate():
     """Main correlation function."""
@@ -77,8 +89,6 @@ def correlate():
     
     identities = load_identities()
     print(f"Loaded {len(identities)} master identities")
-    
-    indexes = build_match_indexes(identities)
     
     # Initialize 360 view
     id_360 = {}
@@ -105,17 +115,8 @@ def correlate():
                 actual_uid = row['identity_id']
                 
                 # Match logic
-                candidates = indexes[platform].get(username.lower(), [])
+                predicted_uid, confidence = match_username_to_identity(username, platform, identities)
                 
-                predicted_uid = None
-                confidence = "None"
-                if len(candidates) == 1:
-                    predicted_uid = candidates[0]
-                    confidence = "High"
-                elif len(candidates) > 1:
-                    predicted_uid = candidates[0]
-                    confidence = "Low (Collision)"
-                    
                 match_status = "Correct" if predicted_uid == actual_uid else "Incorrect"
                 if predicted_uid is None:
                     match_status = "Unmatched"
@@ -166,6 +167,15 @@ def correlate():
     print(f"  Accuracy: {correct/total:.1%}")
     print(f"  Unmatched: {unmatched}")
     print(f"  Name Collisions: {collisions}")
+    
+    print("\nFailure Analysis (Non-Collision Mistakes):")
+    for m in match_report:
+        if m['match_status'] != 'Correct' and m['predicted_identity_id']:
+            actual = identities.get(m['actual_identity_id'])
+            pred = identities.get(m['predicted_identity_id'])
+            if actual and pred and actual['full_name'] != pred['full_name']:
+                print(f"  Mismatch: {m['account_username']} -> Predicted: {pred['full_name']} ({pred['identity_id']}), Actual: {actual['full_name']} ({actual['identity_id']})")
+                
     print(f"\nSaved: identity_360.json, phase2_match_report.csv")
 
 if __name__ == '__main__':

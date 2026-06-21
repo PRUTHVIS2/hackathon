@@ -1,6 +1,6 @@
 {
   "SVC001": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -8,12 +8,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 75.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 3
   },
   "SVC002": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -21,12 +21,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 21.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC003": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -34,12 +34,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 87.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 3
   },
   "SVC004": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 80,
@@ -47,12 +47,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC005": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -60,12 +60,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 17.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "SVC006": {
-    "score": 53.7,
+    "score": 38.7,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -73,12 +73,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC007": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -86,12 +86,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 24.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC008": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 80,
@@ -99,12 +99,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 25.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC009": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 80,
@@ -112,7 +112,7 @@
       "platform_spread_score": 100.0,
       "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
@@ -130,7 +130,7 @@
     "flags_count": 0
   },
   "SVC011": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -138,25 +138,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 24.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC012": {
-    "score": 64.2,
-    "level": "High",
+    "score": 49.2,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 0.6,
       "platform_spread_score": 100.0,
       "credential_score": 51.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC013": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -164,12 +164,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 21.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC014": {
-    "score": 51.6,
+    "score": 36.6,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -177,12 +177,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 25.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC015": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -190,25 +190,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 11.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC016": {
-    "score": 61.3,
-    "level": "High",
+    "score": 46.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 8.3,
       "platform_spread_score": 100.0,
       "credential_score": 6.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC017": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -216,12 +216,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 25.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC018": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 80,
@@ -229,12 +229,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 10.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC019": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -242,25 +242,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 15.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "SVC020": {
-    "score": 64.4,
-    "level": "High",
+    "score": 49.4,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 14.4,
       "platform_spread_score": 100.0,
       "credential_score": 24.9,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC021": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -268,12 +268,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 97.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "SVC022": {
-    "score": 49.3,
+    "score": 34.3,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -281,12 +281,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC023": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -294,25 +294,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 26.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC024": {
-    "score": 63.9,
-    "level": "High",
+    "score": 48.9,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 11.7,
       "platform_spread_score": 100.0,
       "credential_score": 25.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "SVC025": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -320,12 +320,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 15.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC026": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 80,
@@ -333,12 +333,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 23.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC027": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -346,25 +346,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 79.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "SVC028": {
-    "score": 65.5,
-    "level": "High",
+    "score": 50.5,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 59.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC029": {
-    "score": 95,
+    "score": 80,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -372,12 +372,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 23.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "SVC030": {
-    "score": 51.0,
+    "score": 36.0,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -385,12 +385,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 27.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON001": {
-    "score": 100,
+    "score": 85.9,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -398,25 +398,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 59.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "CON002": {
-    "score": 92.5,
-    "level": "Critical",
+    "score": 77.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 81.7,
       "platform_spread_score": 100.0,
       "credential_score": 11.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "CON003": {
-    "score": 96.6,
+    "score": 81.6,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -424,12 +424,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 15.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "CON004": {
-    "score": 100,
+    "score": 90,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -437,38 +437,38 @@
       "platform_spread_score": 100.0,
       "credential_score": 10.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
   "CON005": {
-    "score": 57.8,
-    "level": "Medium",
+    "score": 60,
+    "level": "High",
     "components": {
-      "privilege_score": 40,
-      "dormancy_score": 76.7,
-      "platform_spread_score": 50.0,
-      "credential_score": 14.4,
-      "offboarding_score": 0,
-      "behavioral_boost": 15
+      "privilege_score": 60,
+      "dormancy_score": 12.8,
+      "platform_spread_score": 75.0,
+      "credential_score": 17.0,
+      "offboarding_score": 100,
+      "behavioral_boost": 0
     },
-    "flags_count": 0
+    "flags_count": 1
   },
   "CON006": {
-    "score": 83.1,
-    "level": "Critical",
+    "score": 68.1,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 73.3,
       "platform_spread_score": 100.0,
       "credential_score": 94.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "CON007": {
-    "score": 100,
+    "score": 91.1,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -476,12 +476,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 17.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON008": {
-    "score": 55.2,
+    "score": 40.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -489,25 +489,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 22.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON009": {
-    "score": 88.5,
-    "level": "Critical",
+    "score": 73.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 9.4,
       "platform_spread_score": 100.0,
       "credential_score": 16.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON010": {
-    "score": 48.6,
+    "score": 33.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -515,12 +515,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 17.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON011": {
-    "score": 51.7,
+    "score": 36.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -528,38 +528,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 16.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON012": {
-    "score": 86.3,
-    "level": "Critical",
+    "score": 71.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.6,
       "platform_spread_score": 100.0,
       "credential_score": 11.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON013": {
-    "score": 73.9,
-    "level": "High",
+    "score": 58.9,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 13.3,
       "platform_spread_score": 100.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON014": {
-    "score": 51.5,
+    "score": 36.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -567,12 +567,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON015": {
-    "score": 58.4,
+    "score": 43.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -580,64 +580,64 @@
       "platform_spread_score": 75.0,
       "credential_score": 97.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON016": {
-    "score": 72.6,
-    "level": "High",
+    "score": 35.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 9.4,
-      "platform_spread_score": 100.0,
-      "credential_score": 17.0,
+      "platform_spread_score": 75.0,
+      "credential_score": 8.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON017": {
-    "score": 43.8,
-    "level": "Medium",
+    "score": 28.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 0.0,
       "platform_spread_score": 50.0,
       "credential_score": 8.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON018": {
-    "score": 40.5,
-    "level": "Medium",
+    "score": 25.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 31.7,
       "platform_spread_score": 50.0,
       "credential_score": 11.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON019": {
-    "score": 89.2,
-    "level": "Critical",
+    "score": 74.2,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.9,
       "platform_spread_score": 100.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON020": {
-    "score": 54.8,
+    "score": 39.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -645,12 +645,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 84.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON021": {
-    "score": 56.0,
+    "score": 41.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -658,12 +658,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 14.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON022": {
-    "score": 53.7,
+    "score": 38.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -671,25 +671,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON023": {
-    "score": 43.2,
-    "level": "Medium",
+    "score": 28.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 15.0,
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON024": {
-    "score": 56.3,
+    "score": 41.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -697,12 +697,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 92.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON025": {
-    "score": 49.9,
+    "score": 34.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -710,12 +710,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 19.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON026": {
-    "score": 75.6,
+    "score": 60.6,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -723,51 +723,51 @@
       "platform_spread_score": 100.0,
       "credential_score": 27.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON027": {
-    "score": 85,
-    "level": "Critical",
+    "score": 70,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 14.4,
       "platform_spread_score": 50.0,
       "credential_score": 60.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
   "CON028": {
-    "score": 39.5,
-    "level": "Medium",
+    "score": 24.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 3.9,
       "platform_spread_score": 75.0,
       "credential_score": 7.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON029": {
-    "score": 88.1,
-    "level": "Critical",
+    "score": 73.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.2,
       "platform_spread_score": 100.0,
       "credential_score": 26.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON030": {
-    "score": 58.1,
+    "score": 43.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -775,12 +775,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 89.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON031": {
-    "score": 57.5,
+    "score": 42.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -788,12 +788,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 88.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON032": {
-    "score": 52.4,
+    "score": 37.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -801,38 +801,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON033": {
-    "score": 71.2,
-    "level": "High",
+    "score": 56.2,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 0.0,
       "platform_spread_score": 100.0,
       "credential_score": 22.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON034": {
-    "score": 37.1,
-    "level": "Medium",
+    "score": 22.1,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 7.8,
       "platform_spread_score": 50.0,
       "credential_score": 25.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON035": {
-    "score": 100,
+    "score": 90,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -840,12 +840,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 15.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
   "CON036": {
-    "score": 75.4,
+    "score": 60.4,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -853,64 +853,64 @@
       "platform_spread_score": 100.0,
       "credential_score": 19.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON037": {
-    "score": 71.4,
-    "level": "High",
+    "score": 56.4,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 1.1,
       "platform_spread_score": 100.0,
       "credential_score": 21.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON038": {
-    "score": 40.1,
-    "level": "Medium",
+    "score": 25.1,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.1,
       "platform_spread_score": 75.0,
       "credential_score": 19.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "CON039": {
-    "score": 88.0,
-    "level": "Critical",
+    "score": 73.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 24.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON040": {
-    "score": 87.6,
-    "level": "Critical",
+    "score": 72.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 3.9,
       "platform_spread_score": 100.0,
       "credential_score": 18.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON041": {
-    "score": 53.8,
+    "score": 38.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -918,12 +918,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 78.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "CON042": {
-    "score": 48.2,
+    "score": 33.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -931,12 +931,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 26.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON043": {
-    "score": 58.1,
+    "score": 43.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -944,12 +944,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON044": {
-    "score": 49.6,
+    "score": 34.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -957,12 +957,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 13.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON045": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -970,20 +970,20 @@
       "platform_spread_score": 50.0,
       "credential_score": 13.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON046": {
-    "score": 88.0,
-    "level": "Critical",
+    "score": 73.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 24.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
@@ -1001,7 +1001,7 @@
     "flags_count": 0
   },
   "CON048": {
-    "score": 48.6,
+    "score": 33.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1009,12 +1009,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 65.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "CON049": {
-    "score": 50.2,
+    "score": 35.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1022,12 +1022,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "CON050": {
-    "score": 46.7,
+    "score": 31.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1035,20 +1035,20 @@
       "platform_spread_score": 50.0,
       "credential_score": 19.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0001": {
-    "score": 100,
+    "score": 84.9,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 100,
-      "platform_spread_score": 50.0,
+      "dormancy_score": 40.6,
+      "platform_spread_score": 75.0,
       "credential_score": 17.4,
       "offboarding_score": 100,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
@@ -1061,12 +1061,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 21.4,
       "offboarding_score": 100,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 3
   },
   "EMP0003": {
-    "score": 100,
+    "score": 99.3,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -1074,12 +1074,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 96.4,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 4
   },
   "EMP0004": {
-    "score": 100,
+    "score": 95.0,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -1087,25 +1087,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 17.1,
       "offboarding_score": 100,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 3
   },
   "EMP0005": {
-    "score": 99.3,
-    "level": "Critical",
+    "score": 73.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 67.8,
+      "dormancy_score": 10.6,
       "platform_spread_score": 100.0,
-      "credential_score": 7.3,
+      "credential_score": 12.7,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "EMP0006": {
-    "score": 100,
+    "score": 86.9,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -1113,12 +1113,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 25.5,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 3
   },
   "EMP0007": {
-    "score": 75,
+    "score": 60,
     "level": "High",
     "components": {
       "privilege_score": 20,
@@ -1126,25 +1126,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0008": {
-    "score": 84.6,
-    "level": "Critical",
+    "score": 69.6,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 72.8,
       "platform_spread_score": 100.0,
       "credential_score": 10.1,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0009": {
-    "score": 75,
+    "score": 60,
     "level": "High",
     "components": {
       "privilege_score": 20,
@@ -1152,25 +1152,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 25.6,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0010": {
-    "score": 75,
+    "score": 60,
     "level": "High",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 12.8,
       "platform_spread_score": 100.0,
       "credential_score": 23.4,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0011": {
-    "score": 100,
+    "score": 87.0,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -1178,7 +1178,7 @@
       "platform_spread_score": 100.0,
       "credential_score": 20.8,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
@@ -1191,25 +1191,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 58.2,
       "offboarding_score": 100,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 3
   },
   "EMP0013": {
-    "score": 91.3,
-    "level": "Critical",
+    "score": 76.3,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 100,
       "platform_spread_score": 100.0,
       "credential_score": 22.6,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0014": {
-    "score": 75,
+    "score": 60,
     "level": "High",
     "components": {
       "privilege_score": 20,
@@ -1217,25 +1217,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 74.2,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "EMP0015": {
-    "score": 97.4,
-    "level": "Critical",
+    "score": 77.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 76.1,
-      "platform_spread_score": 75.0,
-      "credential_score": 21.9,
+      "dormancy_score": 25.6,
+      "platform_spread_score": 100.0,
+      "credential_score": 23.2,
       "offboarding_score": 100,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 2
   },
   "EMP0016": {
-    "score": 50.7,
+    "score": 35.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1243,7 +1243,7 @@
       "platform_spread_score": 50.0,
       "credential_score": 5.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -1261,59 +1261,59 @@
     "flags_count": 0
   },
   "EMP0018": {
-    "score": 73.5,
-    "level": "High",
+    "score": 58.5,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 10.6,
       "platform_spread_score": 100.0,
       "credential_score": 24.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0019": {
-    "score": 70.8,
-    "level": "High",
+    "score": 55.8,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 3.9,
       "platform_spread_score": 100.0,
       "credential_score": 10.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0020": {
-    "score": 73.7,
-    "level": "High",
+    "score": 58.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 11.1,
       "platform_spread_score": 75.0,
       "credential_score": 14.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0021": {
-    "score": 38.2,
-    "level": "Medium",
+    "score": 23.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 19.4,
       "platform_spread_score": 50.0,
       "credential_score": 13.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0022": {
-    "score": 52.6,
+    "score": 37.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1321,12 +1321,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0023": {
-    "score": 51.8,
+    "score": 36.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1334,25 +1334,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 81.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0024": {
-    "score": 72.3,
-    "level": "High",
+    "score": 57.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 4.4,
       "platform_spread_score": 100.0,
       "credential_score": 24.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0025": {
-    "score": 78.0,
+    "score": 63.0,
     "level": "High",
     "components": {
       "privilege_score": 100,
@@ -1360,12 +1360,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 23.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0026": {
-    "score": 49.6,
+    "score": 34.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1373,90 +1373,90 @@
       "platform_spread_score": 75.0,
       "credential_score": 13.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0027": {
-    "score": 88.6,
-    "level": "Critical",
+    "score": 73.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
       "platform_spread_score": 100.0,
       "credential_score": 21.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0028": {
-    "score": 74.3,
-    "level": "High",
+    "score": 59.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 12.8,
       "platform_spread_score": 100.0,
       "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0029": {
-    "score": 89.1,
-    "level": "Critical",
+    "score": 74.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.8,
       "platform_spread_score": 100.0,
       "credential_score": 25.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0030": {
-    "score": 84.3,
-    "level": "Critical",
+    "score": 69.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.3,
       "platform_spread_score": 75.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0031": {
-    "score": 89.6,
-    "level": "Critical",
+    "score": 73.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 13.9,
+      "dormancy_score": 7.8,
       "platform_spread_score": 100.0,
-      "credential_score": 18.2,
+      "credential_score": 18.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0032": {
-    "score": 92.9,
-    "level": "Critical",
+    "score": 77.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 26.1,
       "platform_spread_score": 100.0,
       "credential_score": 27.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0033": {
-    "score": 53.1,
+    "score": 38.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1464,72 +1464,72 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0034": {
-    "score": 45.8,
+    "score": 36.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 7.8,
-      "platform_spread_score": 50.0,
-      "credential_score": 12.6,
+      "platform_spread_score": 75.0,
+      "credential_score": 23.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0035": {
-    "score": 41.4,
-    "level": "Medium",
+    "score": 26.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 33.9,
       "platform_spread_score": 50.0,
       "credential_score": 16.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0036": {
-    "score": 93.5,
-    "level": "Critical",
+    "score": 78.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 33.3,
       "platform_spread_score": 100.0,
       "credential_score": 18.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0037": {
-    "score": 52.3,
+    "score": 43.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 14.4,
-      "platform_spread_score": 75.0,
-      "credential_score": 14.4,
+      "platform_spread_score": 100.0,
+      "credential_score": 21.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0038": {
-    "score": 44.3,
-    "level": "Medium",
+    "score": 29.3,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 2.8,
       "platform_spread_score": 50.0,
       "credential_score": 7.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -1547,33 +1547,33 @@
     "flags_count": 0
   },
   "EMP0040": {
-    "score": 85,
-    "level": "Critical",
+    "score": 70,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 17.2,
       "platform_spread_score": 50.0,
       "credential_score": 10.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0041": {
-    "score": 85,
-    "level": "Critical",
+    "score": 70,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 32.2,
       "platform_spread_score": 75.0,
       "credential_score": 7.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0042": {
-    "score": 75,
+    "score": 60,
     "level": "High",
     "components": {
       "privilege_score": 80,
@@ -1581,38 +1581,38 @@
       "platform_spread_score": 50.0,
       "credential_score": 8.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0043": {
-    "score": 85,
-    "level": "Critical",
+    "score": 70,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 2.2,
       "platform_spread_score": 75.0,
       "credential_score": 24.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0044": {
-    "score": 85,
-    "level": "Critical",
+    "score": 70,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 4.4,
       "platform_spread_score": 75.0,
       "credential_score": 17.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0045": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1620,7 +1620,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 20.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -1638,7 +1638,7 @@
     "flags_count": 0
   },
   "EMP0047": {
-    "score": 52.6,
+    "score": 37.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1646,12 +1646,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 18.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0048": {
-    "score": 49.2,
+    "score": 34.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1659,7 +1659,7 @@
       "platform_spread_score": 50.0,
       "credential_score": 18.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -1677,20 +1677,20 @@
     "flags_count": 0
   },
   "EMP0050": {
-    "score": 93.6,
-    "level": "Critical",
+    "score": 78.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 17.8,
       "platform_spread_score": 100.0,
       "credential_score": 50.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
   "EMP0051": {
-    "score": 56.1,
+    "score": 41.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1698,12 +1698,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 94.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0052": {
-    "score": 55.3,
+    "score": 40.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1711,12 +1711,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 60.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0053": {
-    "score": 49.7,
+    "score": 34.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1724,12 +1724,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 15.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0054": {
-    "score": 59.6,
+    "score": 44.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1737,51 +1737,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 94.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0055": {
-    "score": 90.4,
-    "level": "Critical",
+    "score": 75.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 18.3,
       "platform_spread_score": 100.0,
       "credential_score": 16.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0056": {
-    "score": 74.7,
-    "level": "High",
+    "score": 59.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 16.7,
       "platform_spread_score": 100.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0057": {
-    "score": 87.4,
-    "level": "Critical",
+    "score": 72.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 18.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0058": {
-    "score": 58.9,
+    "score": 43.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1789,38 +1789,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 99.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0059": {
-    "score": 36.9,
-    "level": "Medium",
+    "score": 21.9,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 16.7,
       "platform_spread_score": 50.0,
       "credential_score": 6.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0060": {
-    "score": 88.3,
-    "level": "Critical",
+    "score": 73.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
       "platform_spread_score": 100.0,
       "credential_score": 18.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0061": {
-    "score": 50.7,
+    "score": 35.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1828,12 +1828,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0062": {
-    "score": 49.9,
+    "score": 34.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1841,77 +1841,77 @@
       "platform_spread_score": 75.0,
       "credential_score": 12.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0063": {
-    "score": 62.0,
-    "level": "High",
+    "score": 47.0,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.6,
       "platform_spread_score": 100.0,
       "credential_score": 78.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0064": {
-    "score": 72.6,
-    "level": "High",
+    "score": 57.6,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 6.1,
       "platform_spread_score": 100.0,
       "credential_score": 24.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0065": {
-    "score": 86.5,
-    "level": "Critical",
+    "score": 71.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 21.1,
       "platform_spread_score": 75.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0066": {
-    "score": 87.1,
-    "level": "Critical",
+    "score": 66.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
-      "platform_spread_score": 100.0,
-      "credential_score": 15.9,
+      "platform_spread_score": 75.0,
+      "credential_score": 13.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0067": {
-    "score": 72.2,
-    "level": "High",
+    "score": 57.2,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 3.9,
       "platform_spread_score": 100.0,
       "credential_score": 24.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0068": {
-    "score": 58.6,
+    "score": 43.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1919,12 +1919,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 82.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0069": {
-    "score": 76.1,
+    "score": 61.1,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -1932,25 +1932,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 24.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0070": {
-    "score": 94.1,
-    "level": "Critical",
+    "score": 79.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 34.4,
       "platform_spread_score": 75.0,
       "credential_score": 71.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 2
   },
   "EMP0071": {
-    "score": 48.4,
+    "score": 33.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1958,12 +1958,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0072": {
-    "score": 52.2,
+    "score": 37.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1971,25 +1971,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0073": {
-    "score": 40.4,
-    "level": "Medium",
+    "score": 25.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
       "platform_spread_score": 75.0,
       "credential_score": 13.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0074": {
-    "score": 52.1,
+    "score": 37.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -1997,12 +1997,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0075": {
-    "score": 46.5,
+    "score": 31.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2010,77 +2010,77 @@
       "platform_spread_score": 50.0,
       "credential_score": 11.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0076": {
-    "score": 74.5,
-    "level": "High",
+    "score": 59.5,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 14.4,
       "platform_spread_score": 100.0,
       "credential_score": 26.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0077": {
-    "score": 91.1,
-    "level": "Critical",
+    "score": 76.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 1.7,
       "platform_spread_score": 100.0,
       "credential_score": 57.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0078": {
-    "score": 81.9,
-    "level": "Critical",
+    "score": 66.9,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 16.7,
       "platform_spread_score": 100.0,
       "credential_score": 95.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0079": {
-    "score": 53.7,
+    "score": 58.1,
     "level": "Medium",
     "components": {
-      "privilege_score": 20,
-      "dormancy_score": 47.8,
-      "platform_spread_score": 50.0,
-      "credential_score": 11.5,
+      "privilege_score": 60,
+      "dormancy_score": 35.6,
+      "platform_spread_score": 75.0,
+      "credential_score": 20.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0080": {
-    "score": 86.9,
-    "level": "Critical",
+    "score": 71.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.6,
       "platform_spread_score": 100.0,
       "credential_score": 17.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0081": {
-    "score": 59.0,
+    "score": 44.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2088,25 +2088,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 80.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0082": {
-    "score": 69.4,
-    "level": "High",
+    "score": 59.4,
+    "level": "Medium",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 16.1,
-      "platform_spread_score": 50.0,
+      "platform_spread_score": 75.0,
       "credential_score": 11.9,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0083": {
-    "score": 46.4,
+    "score": 31.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2114,12 +2114,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 20.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0084": {
-    "score": 53.6,
+    "score": 38.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2127,12 +2127,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 14.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0085": {
-    "score": 46.1,
+    "score": 31.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2140,38 +2140,38 @@
       "platform_spread_score": 50.0,
       "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0086": {
-    "score": 81.5,
-    "level": "Critical",
+    "score": 66.5,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 16.1,
       "platform_spread_score": 100.0,
       "credential_score": 13.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0087": {
-    "score": 95.2,
-    "level": "Critical",
+    "score": 68.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 2.8,
-      "platform_spread_score": 100.0,
-      "credential_score": 96.0,
+      "dormancy_score": 5.6,
+      "platform_spread_score": 75.0,
+      "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0088": {
-    "score": 51.7,
+    "score": 36.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2179,90 +2179,90 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0089": {
-    "score": 43.4,
-    "level": "Medium",
+    "score": 28.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 14.4,
       "platform_spread_score": 75.0,
       "credential_score": 24.9,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0090": {
-    "score": 46.5,
+    "score": 36.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
-      "platform_spread_score": 50.0,
+      "platform_spread_score": 75.0,
       "credential_score": 24.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0091": {
-    "score": 49.8,
-    "level": "Medium",
+    "score": 27.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 22.2,
-      "platform_spread_score": 100.0,
-      "credential_score": 23.2,
+      "platform_spread_score": 75.0,
+      "credential_score": 4.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0092": {
-    "score": 92.0,
-    "level": "Critical",
+    "score": 77.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 21.7,
       "platform_spread_score": 100.0,
       "credential_score": 26.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0093": {
-    "score": 94.8,
-    "level": "Critical",
+    "score": 79.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.9,
       "platform_spread_score": 100.0,
       "credential_score": 80.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0094": {
-    "score": 93.9,
-    "level": "Critical",
+    "score": 78.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
       "platform_spread_score": 100.0,
       "credential_score": 74.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0095": {
-    "score": 76.6,
+    "score": 61.6,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -2270,12 +2270,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0096": {
-    "score": 51.2,
+    "score": 36.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2283,38 +2283,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 79.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0097": {
-    "score": 72.8,
-    "level": "High",
+    "score": 57.8,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 5.6,
       "platform_spread_score": 100.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0098": {
-    "score": 87.4,
-    "level": "Critical",
+    "score": 72.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.0,
       "platform_spread_score": 100.0,
       "credential_score": 24.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0099": {
-    "score": 50.5,
+    "score": 35.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2322,12 +2322,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0100": {
-    "score": 54.9,
+    "score": 39.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2335,7 +2335,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -2353,20 +2353,20 @@
     "flags_count": 0
   },
   "EMP0102": {
-    "score": 49.8,
-    "level": "Medium",
+    "score": 69.3,
+    "level": "High",
     "components": {
-      "privilege_score": 20,
-      "dormancy_score": 22.2,
-      "platform_spread_score": 50.0,
+      "privilege_score": 100,
+      "dormancy_score": 9.4,
+      "platform_spread_score": 75.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0103": {
-    "score": 54.1,
+    "score": 39.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2374,77 +2374,77 @@
       "platform_spread_score": 75.0,
       "credential_score": 25.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0104": {
-    "score": 75.6,
-    "level": "High",
+    "score": 47.9,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
-      "dormancy_score": 22.8,
-      "platform_spread_score": 100.0,
+      "privilege_score": 40,
+      "dormancy_score": 24.4,
+      "platform_spread_score": 75.0,
       "credential_score": 20.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0105": {
-    "score": 43.2,
-    "level": "Medium",
+    "score": 28.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 0.6,
       "platform_spread_score": 75.0,
       "credential_score": 50.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0106": {
-    "score": 50.9,
+    "score": 56.3,
     "level": "Medium",
     "components": {
-      "privilege_score": 20,
-      "dormancy_score": 3.9,
-      "platform_spread_score": 75.0,
+      "privilege_score": 60,
+      "dormancy_score": 0.6,
+      "platform_spread_score": 100.0,
       "credential_score": 21.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0107": {
-    "score": 39.5,
-    "level": "Medium",
+    "score": 24.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 26.7,
       "platform_spread_score": 50.0,
       "credential_score": 11.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0108": {
-    "score": 74.4,
-    "level": "High",
+    "score": 38.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
-      "dormancy_score": 15.6,
-      "platform_spread_score": 100.0,
+      "privilege_score": 20,
+      "dormancy_score": 17.8,
+      "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0109": {
-    "score": 56.8,
+    "score": 41.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2452,38 +2452,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 72.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0110": {
-    "score": 43.0,
-    "level": "Medium",
+    "score": 28.0,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 100,
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0111": {
-    "score": 92.1,
-    "level": "Critical",
+    "score": 77.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 22.2,
       "platform_spread_score": 100.0,
       "credential_score": 26.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0112": {
-    "score": 53.6,
+    "score": 38.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2491,12 +2491,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 20.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0113": {
-    "score": 52.4,
+    "score": 37.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2504,25 +2504,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 9.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0114": {
-    "score": 74.0,
-    "level": "High",
+    "score": 59.0,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 13.3,
       "platform_spread_score": 100.0,
       "credential_score": 23.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0115": {
-    "score": 53.0,
+    "score": 38.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2530,12 +2530,12 @@
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0116": {
-    "score": 53.0,
+    "score": 38.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2543,12 +2543,12 @@
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0117": {
-    "score": 48.2,
+    "score": 33.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2556,7 +2556,7 @@
       "platform_spread_score": 50.0,
       "credential_score": 51.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
@@ -2574,7 +2574,7 @@
     "flags_count": 0
   },
   "EMP0119": {
-    "score": 54.4,
+    "score": 39.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2582,12 +2582,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 95.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0120": {
-    "score": 54.4,
+    "score": 39.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2595,38 +2595,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0121": {
-    "score": 80.4,
-    "level": "Critical",
+    "score": 65.4,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 17.8,
       "platform_spread_score": 100.0,
       "credential_score": 78.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0122": {
-    "score": 88.2,
+    "score": 83.1,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 5.0,
-      "platform_spread_score": 100.0,
-      "credential_score": 21.6,
+      "platform_spread_score": 75.0,
+      "credential_score": 21.0,
       "offboarding_score": 0,
       "behavioral_boost": 25
     },
     "flags_count": 0
   },
   "EMP0123": {
-    "score": 55.2,
+    "score": 40.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2634,12 +2634,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 18.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0124": {
-    "score": 52.0,
+    "score": 37.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2647,7 +2647,7 @@
       "platform_spread_score": 50.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -2665,7 +2665,7 @@
     "flags_count": 0
   },
   "EMP0126": {
-    "score": 56.9,
+    "score": 41.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2673,25 +2673,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 18.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0127": {
-    "score": 88.7,
-    "level": "Critical",
+    "score": 73.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
       "platform_spread_score": 100.0,
       "credential_score": 23.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0128": {
-    "score": 45.9,
+    "score": 30.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2699,25 +2699,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0129": {
-    "score": 87.4,
-    "level": "Critical",
+    "score": 68.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 3.3,
-      "platform_spread_score": 100.0,
+      "dormancy_score": 11.1,
+      "platform_spread_score": 75.0,
       "credential_score": 16.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0130": {
-    "score": 79.0,
+    "score": 64.0,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -2725,25 +2725,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 87.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0131": {
-    "score": 96.2,
-    "level": "Critical",
+    "score": 70.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 7.8,
-      "platform_spread_score": 100.0,
-      "credential_score": 96.3,
+      "dormancy_score": 18.9,
+      "platform_spread_score": 75.0,
+      "credential_score": 16.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0132": {
-    "score": 45.3,
+    "score": 30.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2751,12 +2751,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.5,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0133": {
-    "score": 47.5,
+    "score": 32.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2764,12 +2764,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 23.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0134": {
-    "score": 56.9,
+    "score": 41.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2777,7 +2777,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 79.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
@@ -2795,46 +2795,46 @@
     "flags_count": 1
   },
   "EMP0136": {
-    "score": 75.8,
-    "level": "High",
+    "score": 39.4,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 23.9,
-      "platform_spread_score": 100.0,
-      "credential_score": 20.3,
+      "platform_spread_score": 75.0,
+      "credential_score": 16.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0137": {
-    "score": 74.8,
-    "level": "High",
+    "score": 59.8,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 20.6,
       "platform_spread_score": 100.0,
       "credential_score": 16.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0138": {
-    "score": 63.2,
-    "level": "High",
+    "score": 48.2,
+    "level": "Medium",
     "components": {
       "privilege_score": 40,
       "dormancy_score": 28.9,
       "platform_spread_score": 75.0,
       "credential_score": 14.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0139": {
-    "score": 49.2,
+    "score": 34.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2842,12 +2842,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 10.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0140": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2855,12 +2855,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0141": {
-    "score": 52.0,
+    "score": 37.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2868,12 +2868,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 25.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0142": {
-    "score": 47.8,
+    "score": 32.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2881,12 +2881,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 19.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0143": {
-    "score": 79.7,
+    "score": 64.7,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -2894,12 +2894,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 92.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0144": {
-    "score": 53.4,
+    "score": 38.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2907,12 +2907,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0145": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2920,25 +2920,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0146": {
-    "score": 62.5,
-    "level": "High",
+    "score": 47.5,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 30.6,
       "platform_spread_score": 75.0,
       "credential_score": 84.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0147": {
-    "score": 57.1,
+    "score": 42.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -2946,12 +2946,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 69.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0148": {
-    "score": 76.6,
+    "score": 61.6,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -2959,51 +2959,51 @@
       "platform_spread_score": 100.0,
       "credential_score": 65.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0149": {
-    "score": 91.7,
-    "level": "Critical",
+    "score": 76.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 4.4,
       "platform_spread_score": 100.0,
       "credential_score": 57.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0150": {
-    "score": 91.6,
-    "level": "Critical",
+    "score": 76.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 21.7,
       "platform_spread_score": 100.0,
       "credential_score": 23.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0151": {
-    "score": 43.4,
-    "level": "Medium",
+    "score": 28.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 18.3,
       "platform_spread_score": 75.0,
       "credential_score": 17.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0152": {
-    "score": 50.9,
+    "score": 35.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3011,12 +3011,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0153": {
-    "score": 52.2,
+    "score": 37.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3024,33 +3024,33 @@
       "platform_spread_score": 75.0,
       "credential_score": 18.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0154": {
-    "score": 91.7,
-    "level": "Critical",
+    "score": 71.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 22.8,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 21.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0155": {
-    "score": 52.9,
-    "level": "Medium",
+    "score": 74.4,
+    "level": "High",
     "components": {
-      "privilege_score": 20,
-      "dormancy_score": 12.2,
-      "platform_spread_score": 75.0,
+      "privilege_score": 100,
+      "dormancy_score": 9.4,
+      "platform_spread_score": 100.0,
       "credential_score": 24.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -3068,7 +3068,7 @@
     "flags_count": 1
   },
   "EMP0157": {
-    "score": 52.1,
+    "score": 37.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3076,38 +3076,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0158": {
-    "score": 89.5,
-    "level": "Critical",
+    "score": 69.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 12.2,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 20.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0159": {
-    "score": 36.4,
-    "level": "Medium",
+    "score": 21.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 9.4,
       "platform_spread_score": 50.0,
       "credential_score": 14.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0160": {
-    "score": 51.3,
+    "score": 36.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3115,12 +3115,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0161": {
-    "score": 57.8,
+    "score": 42.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3128,12 +3128,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 82.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0162": {
-    "score": 55.3,
+    "score": 40.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3141,38 +3141,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 16.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0163": {
-    "score": 51.7,
+    "score": 31.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 9.4,
-      "platform_spread_score": 75.0,
-      "credential_score": 18.2,
+      "platform_spread_score": 50.0,
+      "credential_score": 15.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0164": {
-    "score": 90.1,
-    "level": "Critical",
+    "score": 75.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 37.8,
       "platform_spread_score": 50.0,
       "credential_score": 75.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0165": {
-    "score": 48.8,
+    "score": 33.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3180,12 +3180,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 6.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0166": {
-    "score": 55.2,
+    "score": 40.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3193,51 +3193,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0167": {
-    "score": 88.3,
-    "level": "Critical",
+    "score": 73.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 29.4,
       "platform_spread_score": 75.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0168": {
-    "score": 89.7,
-    "level": "Critical",
+    "score": 74.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 10.6,
       "platform_spread_score": 100.0,
       "credential_score": 25.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0169": {
-    "score": 89.0,
-    "level": "Critical",
+    "score": 74.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 9.4,
       "platform_spread_score": 100.0,
       "credential_score": 21.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0170": {
-    "score": 47.3,
+    "score": 32.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3245,25 +3245,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 11.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0171": {
-    "score": 82.2,
-    "level": "Critical",
+    "score": 67.2,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.6,
       "platform_spread_score": 75.0,
       "credential_score": 20.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0172": {
-    "score": 51.9,
+    "score": 36.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3271,12 +3271,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0173": {
-    "score": 54.0,
+    "score": 39.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3284,12 +3284,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0174": {
-    "score": 78.0,
+    "score": 63.0,
     "level": "High",
     "components": {
       "privilege_score": 100,
@@ -3297,12 +3297,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 24.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0175": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3310,90 +3310,90 @@
       "platform_spread_score": 50.0,
       "credential_score": 14.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0176": {
-    "score": 87.5,
-    "level": "Critical",
+    "score": 63.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 6.1,
-      "platform_spread_score": 75.0,
-      "credential_score": 62.6,
+      "dormancy_score": 7.2,
+      "platform_spread_score": 50.0,
+      "credential_score": 23.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0177": {
-    "score": 49.6,
+    "score": 55.6,
     "level": "Medium",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 4.4,
-      "platform_spread_score": 50.0,
+      "platform_spread_score": 75.0,
       "credential_score": 57.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0178": {
-    "score": 100,
-    "level": "Critical",
+    "score": 70.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.0,
       "platform_spread_score": 100.0,
-      "credential_score": 10.3,
+      "credential_score": 7.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0179": {
-    "score": 53.2,
+    "score": 49.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 13.3,
-      "platform_spread_score": 75.0,
-      "credential_score": 25.8,
+      "platform_spread_score": 100.0,
+      "credential_score": 91.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 0
+    "flags_count": 1
   },
   "EMP0180": {
-    "score": 40.8,
-    "level": "Medium",
+    "score": 25.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.7,
       "platform_spread_score": 75.0,
       "credential_score": 24.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0181": {
-    "score": 89.6,
-    "level": "Critical",
+    "score": 70.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 9.4,
-      "platform_spread_score": 100.0,
+      "dormancy_score": 11.7,
+      "platform_spread_score": 75.0,
       "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0182": {
-    "score": 53.4,
+    "score": 38.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3401,12 +3401,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0183": {
-    "score": 58.4,
+    "score": 43.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3414,12 +3414,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 92.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0184": {
-    "score": 52.4,
+    "score": 37.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3427,51 +3427,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0185": {
-    "score": 38.0,
-    "level": "Medium",
+    "score": 23.0,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 20.6,
       "platform_spread_score": 50.0,
       "credential_score": 9.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0186": {
-    "score": 84.6,
-    "level": "Critical",
+    "score": 69.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 36.1,
       "platform_spread_score": 50.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0187": {
-    "score": 73.0,
-    "level": "High",
+    "score": 58.0,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 7.8,
       "platform_spread_score": 100.0,
       "credential_score": 24.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0188": {
-    "score": 98.5,
+    "score": 83.5,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -3479,25 +3479,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 59.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0189": {
-    "score": 70.6,
-    "level": "High",
+    "score": 34.6,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 2.2,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 12.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0190": {
-    "score": 46.3,
+    "score": 31.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3505,51 +3505,51 @@
       "platform_spread_score": 50.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0191": {
-    "score": 91.8,
-    "level": "Critical",
+    "score": 75.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 20.6,
-      "platform_spread_score": 100.0,
+      "dormancy_score": 40.6,
+      "platform_spread_score": 75.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0192": {
-    "score": 78.8,
+    "score": 71.3,
     "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 17.8,
-      "platform_spread_score": 50.0,
-      "credential_score": 2.6,
+      "platform_spread_score": 75.0,
+      "credential_score": 27.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0193": {
-    "score": 86.9,
-    "level": "Critical",
+    "score": 66.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 3.9,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 11.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0194": {
-    "score": 50.1,
+    "score": 35.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3557,12 +3557,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 12.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0195": {
-    "score": 51.8,
+    "score": 36.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3570,25 +3570,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0196": {
-    "score": 72.7,
-    "level": "High",
+    "score": 57.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 6.1,
       "platform_spread_score": 100.0,
       "credential_score": 24.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0197": {
-    "score": 47.1,
+    "score": 32.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3596,12 +3596,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 26.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0198": {
-    "score": 45.3,
+    "score": 30.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3609,12 +3609,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 13.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0199": {
-    "score": 47.5,
+    "score": 32.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3622,12 +3622,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 15.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0200": {
-    "score": 50.8,
+    "score": 35.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3635,51 +3635,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 9.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0201": {
-    "score": 90.3,
-    "level": "Critical",
+    "score": 75.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 16.1,
       "platform_spread_score": 100.0,
       "credential_score": 20.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0202": {
-    "score": 93.8,
-    "level": "Critical",
+    "score": 73.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 82.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0203": {
-    "score": 39.3,
-    "level": "Medium",
+    "score": 29.3,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.1,
-      "platform_spread_score": 50.0,
+      "platform_spread_score": 75.0,
       "credential_score": 61.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0204": {
-    "score": 49.9,
+    "score": 34.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3687,33 +3687,33 @@
       "platform_spread_score": 75.0,
       "credential_score": 14.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0205": {
-    "score": 82.7,
-    "level": "Critical",
+    "score": 67.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.2,
       "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0206": {
-    "score": 50.7,
+    "score": 40.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 0.0,
-      "platform_spread_score": 75.0,
+      "platform_spread_score": 100.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -3731,7 +3731,7 @@
     "flags_count": 0
   },
   "EMP0208": {
-    "score": 51.2,
+    "score": 36.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3739,77 +3739,77 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0209": {
-    "score": 91.1,
-    "level": "Critical",
+    "score": 76.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 17.8,
       "platform_spread_score": 100.0,
       "credential_score": 25.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0210": {
-    "score": 39.6,
-    "level": "Medium",
+    "score": 24.6,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 0.6,
       "platform_spread_score": 75.0,
       "credential_score": 14.9,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0211": {
-    "score": 42.1,
-    "level": "Medium",
+    "score": 27.1,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 17.2,
       "platform_spread_score": 50.0,
       "credential_score": 56.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0212": {
-    "score": 81.9,
-    "level": "Critical",
+    "score": 46.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
-      "dormancy_score": 18.9,
-      "platform_spread_score": 100.0,
+      "privilege_score": 20,
+      "dormancy_score": 23.3,
+      "platform_spread_score": 75.0,
       "credential_score": 91.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0213": {
-    "score": 71.7,
-    "level": "High",
+    "score": 56.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 2.2,
       "platform_spread_score": 100.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0214": {
-    "score": 50.4,
+    "score": 35.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3817,12 +3817,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0215": {
-    "score": 51.8,
+    "score": 36.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3830,22 +3830,22 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0216": {
-    "score": 100,
-    "level": "Critical",
+    "score": 75.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 14.4,
-      "platform_spread_score": 100.0,
+      "dormancy_score": 21.7,
+      "platform_spread_score": 75.0,
       "credential_score": 57.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 2
+    "flags_count": 1
   },
   "EMP0217": {
     "score": 45.5,
@@ -3861,7 +3861,7 @@
     "flags_count": 0
   },
   "EMP0218": {
-    "score": 51.2,
+    "score": 36.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3869,12 +3869,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0219": {
-    "score": 95.6,
+    "score": 80.6,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -3882,12 +3882,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 97.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0220": {
-    "score": 53.2,
+    "score": 38.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3895,12 +3895,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 15.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0221": {
-    "score": 55.1,
+    "score": 40.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3908,25 +3908,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0222": {
-    "score": 88.8,
-    "level": "Critical",
+    "score": 68.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 15.0,
-      "platform_spread_score": 100.0,
-      "credential_score": 8.2,
+      "platform_spread_score": 75.0,
+      "credential_score": 7.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0223": {
-    "score": 54.4,
+    "score": 39.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3934,12 +3934,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 51.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0224": {
-    "score": 51.0,
+    "score": 36.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3947,12 +3947,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 13.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0225": {
-    "score": 51.1,
+    "score": 36.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3960,12 +3960,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0226": {
-    "score": 52.1,
+    "score": 37.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3973,12 +3973,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0227": {
-    "score": 53.5,
+    "score": 38.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -3986,38 +3986,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 54.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0228": {
-    "score": 88.0,
-    "level": "Critical",
+    "score": 73.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 24.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0229": {
-    "score": 97.0,
-    "level": "Critical",
+    "score": 72.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 26.1,
-      "platform_spread_score": 100.0,
-      "credential_score": 67.7,
+      "platform_spread_score": 75.0,
+      "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0230": {
-    "score": 46.7,
+    "score": 31.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4025,12 +4025,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 3.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0231": {
-    "score": 51.3,
+    "score": 36.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4038,25 +4038,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 20.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0232": {
-    "score": 91.1,
-    "level": "Critical",
+    "score": 76.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.6,
       "platform_spread_score": 100.0,
       "credential_score": 60.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0233": {
-    "score": 51.8,
+    "score": 36.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4064,25 +4064,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 19.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0234": {
-    "score": 100,
-    "level": "Critical",
+    "score": 76.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 99.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 2
+    "flags_count": 1
   },
   "EMP0235": {
-    "score": 49.5,
+    "score": 34.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4090,77 +4090,77 @@
       "platform_spread_score": 50.0,
       "credential_score": 54.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0236": {
-    "score": 90.5,
-    "level": "Critical",
+    "score": 75.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 0.6,
       "platform_spread_score": 100.0,
       "credential_score": 54.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0237": {
-    "score": 71.7,
-    "level": "High",
+    "score": 56.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 21.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0238": {
-    "score": 50.3,
+    "score": 56.4,
     "level": "Medium",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 1.1,
-      "platform_spread_score": 75.0,
-      "credential_score": 20.7,
+      "platform_spread_score": 100.0,
+      "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0239": {
-    "score": 40.2,
-    "level": "Medium",
+    "score": 25.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 25.0,
       "platform_spread_score": 50.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0240": {
-    "score": 39.4,
-    "level": "Medium",
+    "score": 24.4,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 4.4,
       "platform_spread_score": 75.0,
       "credential_score": 5.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0241": {
-    "score": 45.1,
+    "score": 30.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4168,12 +4168,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 55.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0242": {
-    "score": 57.5,
+    "score": 42.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4181,7 +4181,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 64.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
@@ -4199,7 +4199,7 @@
     "flags_count": 0
   },
   "EMP0244": {
-    "score": 48.3,
+    "score": 33.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4207,12 +4207,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0245": {
-    "score": 54.0,
+    "score": 39.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4220,12 +4220,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 10.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0246": {
-    "score": 76.3,
+    "score": 61.3,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -4233,25 +4233,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 56.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0247": {
-    "score": 90.4,
+    "score": 80.4,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 30.6,
-      "platform_spread_score": 50.0,
+      "platform_spread_score": 75.0,
       "credential_score": 93.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0248": {
-    "score": 59.4,
+    "score": 44.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4259,25 +4259,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 96.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0249": {
-    "score": 55.2,
-    "level": "Medium",
+    "score": 61.2,
+    "level": "High",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 29.4,
-      "platform_spread_score": 75.0,
+      "platform_spread_score": 100.0,
       "credential_score": 12.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0250": {
-    "score": 50.6,
+    "score": 35.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4285,64 +4285,64 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0251": {
-    "score": 78.4,
-    "level": "High",
+    "score": 42.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
-      "dormancy_score": 18.3,
-      "platform_spread_score": 100.0,
+      "privilege_score": 20,
+      "dormancy_score": 20.6,
+      "platform_spread_score": 75.0,
       "credential_score": 57.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0252": {
-    "score": 71.7,
-    "level": "High",
+    "score": 56.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 0.0,
       "platform_spread_score": 100.0,
       "credential_score": 27.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0253": {
-    "score": 83.7,
-    "level": "Critical",
+    "score": 68.7,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 8.3,
       "platform_spread_score": 100.0,
       "credential_score": 50.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0254": {
-    "score": 73.9,
-    "level": "High",
+    "score": 58.9,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 12.2,
       "platform_spread_score": 100.0,
       "credential_score": 24.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0255": {
-    "score": 49.4,
+    "score": 34.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4350,38 +4350,38 @@
       "platform_spread_score": 50.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0256": {
-    "score": 62.9,
-    "level": "High",
+    "score": 47.9,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 33.3,
       "platform_spread_score": 75.0,
       "credential_score": 82.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0257": {
-    "score": 89.8,
-    "level": "Critical",
+    "score": 69.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 16.7,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 14.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0258": {
-    "score": 51.1,
+    "score": 36.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4389,12 +4389,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0259": {
-    "score": 55.7,
+    "score": 40.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4402,12 +4402,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 62.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0260": {
-    "score": 97.3,
+    "score": 82.3,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -4415,12 +4415,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 51.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0261": {
-    "score": 59.0,
+    "score": 44.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4428,64 +4428,64 @@
       "platform_spread_score": 75.0,
       "credential_score": 75.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0262": {
-    "score": 89.3,
-    "level": "Critical",
+    "score": 74.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 12.2,
       "platform_spread_score": 100.0,
       "credential_score": 18.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0263": {
-    "score": 90.8,
-    "level": "Critical",
+    "score": 70.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 15.6,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 26.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0264": {
-    "score": 43.8,
-    "level": "Medium",
+    "score": 28.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 2.8,
       "platform_spread_score": 50.0,
       "credential_score": 2.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0265": {
-    "score": 88.1,
-    "level": "Critical",
+    "score": 68.1,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.2,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0266": {
-    "score": 56.3,
+    "score": 41.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4493,51 +4493,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 14.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0267": {
-    "score": 73.3,
-    "level": "High",
+    "score": 58.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 7.8,
       "platform_spread_score": 100.0,
       "credential_score": 27.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0268": {
-    "score": 81.3,
-    "level": "Critical",
+    "score": 66.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 21.7,
       "platform_spread_score": 50.0,
       "credential_score": 19.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0269": {
-    "score": 60.9,
-    "level": "High",
+    "score": 45.9,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 32.2,
       "platform_spread_score": 75.0,
       "credential_score": 64.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0270": {
-    "score": 53.2,
+    "score": 38.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4545,38 +4545,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 10.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0271": {
-    "score": 74.7,
-    "level": "High",
+    "score": 59.7,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 17.8,
       "platform_spread_score": 100.0,
       "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0272": {
-    "score": 38.8,
-    "level": "Medium",
+    "score": 23.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 15.6,
       "platform_spread_score": 50.0,
       "credential_score": 27.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0273": {
-    "score": 45.9,
+    "score": 30.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4584,12 +4584,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 19.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0274": {
-    "score": 56.3,
+    "score": 41.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4597,25 +4597,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 53.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0275": {
-    "score": 39.5,
-    "level": "Medium",
+    "score": 24.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.7,
       "platform_spread_score": 75.0,
       "credential_score": 12.1,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0276": {
-    "score": 52.0,
+    "score": 37.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4623,38 +4623,38 @@
       "platform_spread_score": 50.0,
       "credential_score": 0.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0277": {
-    "score": 62.3,
-    "level": "High",
+    "score": 47.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 23.3,
       "platform_spread_score": 75.0,
       "credential_score": 96.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0278": {
-    "score": 88.6,
-    "level": "Critical",
+    "score": 67.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 7.2,
-      "platform_spread_score": 100.0,
-      "credential_score": 21.8,
+      "platform_spread_score": 75.0,
+      "credential_score": 11.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0279": {
-    "score": 51.1,
+    "score": 36.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4662,103 +4662,103 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0280": {
-    "score": 78.1,
+    "score": 68.6,
     "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 10.0,
-      "platform_spread_score": 50.0,
-      "credential_score": 11.4,
+      "platform_spread_score": 75.0,
+      "credential_score": 15.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0281": {
-    "score": 56.5,
-    "level": "Medium",
+    "score": 62.5,
+    "level": "High",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 2.8,
-      "platform_spread_score": 75.0,
+      "platform_spread_score": 100.0,
       "credential_score": 79.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0282": {
-    "score": 40.3,
-    "level": "Medium",
+    "score": 25.3,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
       "platform_spread_score": 75.0,
       "credential_score": 13.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0283": {
-    "score": 43.0,
-    "level": "Medium",
+    "score": 28.0,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 100,
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0284": {
-    "score": 64.8,
-    "level": "High",
+    "score": 49.8,
+    "level": "Medium",
     "components": {
       "privilege_score": 40,
       "dormancy_score": 5.0,
       "platform_spread_score": 75.0,
       "credential_score": 77.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0285": {
-    "score": 44.2,
-    "level": "Medium",
+    "score": 29.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
       "platform_spread_score": 50.0,
       "credential_score": 2.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0286": {
-    "score": 71.6,
-    "level": "High",
+    "score": 34.6,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 3.3,
-      "platform_spread_score": 100.0,
-      "credential_score": 18.9,
+      "platform_spread_score": 75.0,
+      "credential_score": 9.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0287": {
-    "score": 52.6,
+    "score": 37.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4766,38 +4766,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 15.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0288": {
-    "score": 90.0,
-    "level": "Critical",
+    "score": 75.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 12.2,
       "platform_spread_score": 100.0,
       "credential_score": 25.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0289": {
-    "score": 44.5,
-    "level": "Medium",
+    "score": 29.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
       "platform_spread_score": 50.0,
       "credential_score": 4.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0290": {
-    "score": 76.2,
+    "score": 61.2,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -4805,12 +4805,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 57.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0291": {
-    "score": 51.4,
+    "score": 36.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4818,25 +4818,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0292": {
-    "score": 61.3,
-    "level": "High",
+    "score": 46.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 28.9,
       "platform_spread_score": 75.0,
       "credential_score": 75.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0293": {
-    "score": 51.5,
+    "score": 36.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4844,12 +4844,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 16.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0294": {
-    "score": 53.0,
+    "score": 38.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4857,7 +4857,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -4875,7 +4875,7 @@
     "flags_count": 0
   },
   "EMP0296": {
-    "score": 55.0,
+    "score": 40.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4883,38 +4883,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0297": {
-    "score": 70.6,
-    "level": "High",
+    "score": 55.6,
+    "level": "Medium",
     "components": {
       "privilege_score": 40,
       "dormancy_score": 22.8,
       "platform_spread_score": 75.0,
       "credential_score": 100.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0298": {
-    "score": 95.0,
-    "level": "Critical",
+    "score": 76.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 6.7,
-      "platform_spread_score": 100.0,
+      "dormancy_score": 16.1,
+      "platform_spread_score": 75.0,
       "credential_score": 86.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0299": {
-    "score": 51.4,
+    "score": 36.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4922,25 +4922,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 6.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0300": {
-    "score": 97.7,
-    "level": "Critical",
+    "score": 69.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 15.0,
-      "platform_spread_score": 100.0,
-      "credential_score": 97.1,
+      "platform_spread_score": 75.0,
+      "credential_score": 19.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0301": {
-    "score": 59.9,
+    "score": 44.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -4948,103 +4948,103 @@
       "platform_spread_score": 75.0,
       "credential_score": 80.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0302": {
-    "score": 92.3,
-    "level": "Critical",
+    "score": 77.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 9.4,
       "platform_spread_score": 100.0,
       "credential_score": 54.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0303": {
-    "score": 83.8,
-    "level": "Critical",
+    "score": 68.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.9,
       "platform_spread_score": 75.0,
       "credential_score": 20.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0304": {
-    "score": 82.5,
-    "level": "Critical",
+    "score": 67.5,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 26.1,
       "platform_spread_score": 50.0,
       "credential_score": 22.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0305": {
-    "score": 92.3,
-    "level": "Critical",
+    "score": 77.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 17.8,
       "platform_spread_score": 75.0,
       "credential_score": 87.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0306": {
-    "score": 34.8,
-    "level": "Medium",
+    "score": 19.8,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.1,
       "platform_spread_score": 50.0,
       "credential_score": 15.8,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0307": {
-    "score": 88.4,
-    "level": "Critical",
+    "score": 73.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 5.6,
       "platform_spread_score": 75.0,
       "credential_score": 73.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0308": {
-    "score": 98.0,
-    "level": "Critical",
+    "score": 78.0,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 20.0,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 90.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0309": {
-    "score": 47.7,
+    "score": 32.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5052,12 +5052,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 13.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0310": {
-    "score": 58.0,
+    "score": 43.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5065,12 +5065,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 97.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0311": {
-    "score": 52.2,
+    "score": 37.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5078,7 +5078,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 20.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -5096,7 +5096,7 @@
     "flags_count": 1
   },
   "EMP0313": {
-    "score": 50.9,
+    "score": 35.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5104,25 +5104,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0314": {
-    "score": 43.2,
-    "level": "Medium",
+    "score": 28.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 17.2,
       "platform_spread_score": 75.0,
       "credential_score": 17.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0315": {
-    "score": 76.7,
+    "score": 61.7,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -5130,25 +5130,25 @@
       "platform_spread_score": 100.0,
       "credential_score": 22.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0316": {
-    "score": 96.7,
-    "level": "Critical",
+    "score": 76.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 9.4,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 98.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0317": {
-    "score": 46.1,
+    "score": 31.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5156,25 +5156,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 26.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0318": {
-    "score": 80.7,
-    "level": "Critical",
+    "score": 65.7,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 5.0,
       "platform_spread_score": 100.0,
       "credential_score": 27.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0319": {
-    "score": 48.6,
+    "score": 33.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5182,25 +5182,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 19.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0320": {
-    "score": 62.5,
-    "level": "High",
+    "score": 47.5,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 35.6,
       "platform_spread_score": 75.0,
       "credential_score": 73.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0321": {
-    "score": 58.0,
+    "score": 43.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5208,12 +5208,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 91.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0322": {
-    "score": 56.2,
+    "score": 41.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5221,12 +5221,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 69.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0323": {
-    "score": 45.4,
+    "score": 30.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5234,12 +5234,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 16.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0324": {
-    "score": 52.5,
+    "score": 37.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5247,12 +5247,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 20.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0325": {
-    "score": 51.0,
+    "score": 36.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5260,25 +5260,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 19.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0326": {
-    "score": 72.6,
+    "score": 60.6,
     "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 4.4,
       "platform_spread_score": 100.0,
-      "credential_score": 27.1,
+      "credential_score": 57.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 0
+    "flags_count": 1
   },
   "EMP0327": {
-    "score": 49.9,
+    "score": 34.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5286,12 +5286,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0328": {
-    "score": 47.1,
+    "score": 32.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5299,25 +5299,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 25.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0329": {
-    "score": 51.8,
+    "score": 47.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
-      "dormancy_score": 6.7,
+      "dormancy_score": 28.3,
       "platform_spread_score": 75.0,
-      "credential_score": 24.5,
+      "credential_score": 86.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 0
+    "flags_count": 1
   },
   "EMP0330": {
-    "score": 53.1,
+    "score": 38.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5325,25 +5325,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0331": {
-    "score": 43.2,
-    "level": "Medium",
+    "score": 28.2,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 40.6,
       "platform_spread_score": 50.0,
       "credential_score": 20.7,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0332": {
-    "score": 49.6,
+    "score": 34.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5351,12 +5351,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 12.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0333": {
-    "score": 54.6,
+    "score": 39.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5364,12 +5364,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 19.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0334": {
-    "score": 56.1,
+    "score": 41.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5377,12 +5377,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 74.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0335": {
-    "score": 46.4,
+    "score": 31.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5390,25 +5390,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 17.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0336": {
-    "score": 40.1,
-    "level": "Medium",
+    "score": 25.1,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 2.2,
       "platform_spread_score": 50.0,
       "credential_score": 66.4,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0337": {
-    "score": 53.6,
+    "score": 38.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5416,51 +5416,51 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0338": {
-    "score": 64.1,
-    "level": "High",
+    "score": 49.1,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 33.9,
       "platform_spread_score": 75.0,
       "credential_score": 93.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0339": {
-    "score": 89.1,
-    "level": "Critical",
+    "score": 67.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.9,
-      "platform_spread_score": 100.0,
-      "credential_score": 23.2,
+      "platform_spread_score": 75.0,
+      "credential_score": 6.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0340": {
-    "score": 94.7,
-    "level": "Critical",
+    "score": 79.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 91.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0341": {
-    "score": 51.8,
+    "score": 36.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5468,38 +5468,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 18.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0342": {
-    "score": 72.3,
-    "level": "High",
+    "score": 57.3,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 5.0,
       "platform_spread_score": 100.0,
       "credential_score": 23.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0343": {
-    "score": 92.3,
-    "level": "Critical",
+    "score": 77.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 23.9,
       "platform_spread_score": 100.0,
       "credential_score": 25.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0344": {
-    "score": 53.2,
+    "score": 38.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5507,12 +5507,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 79.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0345": {
-    "score": 55.8,
+    "score": 40.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5520,64 +5520,64 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0346": {
-    "score": 71.3,
-    "level": "High",
+    "score": 41.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
-      "dormancy_score": 0.6,
-      "platform_spread_score": 100.0,
+      "privilege_score": 20,
+      "dormancy_score": 33.3,
+      "platform_spread_score": 75.0,
       "credential_score": 21.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0347": {
-    "score": 94.4,
-    "level": "Critical",
+    "score": 79.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 1.1,
       "platform_spread_score": 100.0,
       "credential_score": 91.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0348": {
-    "score": 88.6,
-    "level": "Critical",
+    "score": 68.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 8.9,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 18.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0349": {
-    "score": 89.9,
-    "level": "Critical",
+    "score": 74.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 3.3,
       "platform_spread_score": 75.0,
       "credential_score": 92.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0350": {
-    "score": 53.8,
+    "score": 38.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5585,12 +5585,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0351": {
-    "score": 46.5,
+    "score": 31.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5598,12 +5598,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 3.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0352": {
-    "score": 55.5,
+    "score": 40.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5611,12 +5611,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 55.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0353": {
-    "score": 47.4,
+    "score": 32.4,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5624,25 +5624,25 @@
       "platform_spread_score": 50.0,
       "credential_score": 11.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0354": {
-    "score": 72.6,
-    "level": "High",
+    "score": 36.6,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 6.1,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 23.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0355": {
-    "score": 51.5,
+    "score": 36.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5650,12 +5650,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0356": {
-    "score": 53.5,
+    "score": 38.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5663,64 +5663,64 @@
       "platform_spread_score": 50.0,
       "credential_score": 64.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0357": {
-    "score": 41.6,
-    "level": "Medium",
+    "score": 26.6,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 10.0,
       "platform_spread_score": 75.0,
       "credential_score": 15.9,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0358": {
-    "score": 80.2,
-    "level": "Critical",
+    "score": 65.2,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 7.2,
       "platform_spread_score": 100.0,
       "credential_score": 97.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0359": {
-    "score": 89.3,
-    "level": "Critical",
+    "score": 74.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 11.7,
       "platform_spread_score": 100.0,
       "credential_score": 19.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0360": {
-    "score": 79.6,
-    "level": "High",
+    "score": 46.4,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 40,
       "dormancy_score": 24.4,
-      "platform_spread_score": 100.0,
-      "credential_score": 57.0,
+      "platform_spread_score": 75.0,
+      "credential_score": 5.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0361": {
-    "score": 52.2,
+    "score": 37.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5728,25 +5728,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 20.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0362": {
-    "score": 54.0,
+    "score": 60.0,
     "level": "Medium",
     "components": {
-      "privilege_score": 20,
+      "privilege_score": 60,
       "dormancy_score": 22.2,
-      "platform_spread_score": 75.0,
+      "platform_spread_score": 100.0,
       "credential_score": 15.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0363": {
-    "score": 47.7,
+    "score": 32.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5754,12 +5754,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 24.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0364": {
-    "score": 53.0,
+    "score": 38.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5767,38 +5767,38 @@
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0365": {
-    "score": 87.9,
-    "level": "Critical",
+    "score": 67.9,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 11.7,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 5.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0366": {
-    "score": 39.3,
-    "level": "Medium",
+    "score": 24.3,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 5.0,
       "platform_spread_score": 75.0,
       "credential_score": 3.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0367": {
-    "score": 55.5,
+    "score": 40.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5806,77 +5806,77 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0368": {
-    "score": 87.0,
-    "level": "Critical",
+    "score": 68.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
-      "dormancy_score": 4.4,
-      "platform_spread_score": 100.0,
-      "credential_score": 11.1,
+      "dormancy_score": 16.1,
+      "platform_spread_score": 75.0,
+      "credential_score": 5.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0369": {
-    "score": 70.9,
-    "level": "High",
+    "score": 42.9,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 40,
       "dormancy_score": 0.0,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 19.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0370": {
-    "score": 80.7,
-    "level": "Critical",
+    "score": 65.7,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 23.3,
       "platform_spread_score": 50.0,
       "credential_score": 10.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0371": {
-    "score": 72.8,
-    "level": "High",
+    "score": 36.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 5.6,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 26.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0372": {
-    "score": 84.6,
-    "level": "Critical",
+    "score": 69.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 38.3,
       "platform_spread_score": 50.0,
       "credential_score": 19.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0373": {
-    "score": 49.1,
+    "score": 34.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5884,12 +5884,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 3.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0374": {
-    "score": 55.3,
+    "score": 40.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5897,25 +5897,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0375": {
-    "score": 78.6,
-    "level": "High",
+    "score": 42.6,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 20.0,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 56.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0376": {
-    "score": 50.5,
+    "score": 35.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5923,12 +5923,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0377": {
-    "score": 53.5,
+    "score": 38.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -5936,33 +5936,33 @@
       "platform_spread_score": 75.0,
       "credential_score": 11.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0378": {
-    "score": 40.5,
-    "level": "Medium",
+    "score": 25.5,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 1.1,
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0379": {
-    "score": 88.8,
-    "level": "Critical",
+    "score": 73.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 5.6,
       "platform_spread_score": 100.0,
       "credential_score": 26.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
@@ -5980,46 +5980,46 @@
     "flags_count": 0
   },
   "EMP0381": {
-    "score": 93.4,
-    "level": "Critical",
+    "score": 73.4,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 1.1,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 81.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0382": {
-    "score": 41.3,
-    "level": "Medium",
+    "score": 26.3,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 10.0,
       "platform_spread_score": 75.0,
       "credential_score": 13.3,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0383": {
-    "score": 83.4,
-    "level": "Critical",
+    "score": 68.4,
+    "level": "High",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 31.7,
       "platform_spread_score": 100.0,
       "credential_score": 81.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0384": {
-    "score": 54.2,
+    "score": 39.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6027,12 +6027,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.8,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0385": {
-    "score": 59.1,
+    "score": 44.1,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -6040,12 +6040,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 23.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0386": {
-    "score": 46.8,
+    "score": 31.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6053,38 +6053,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 74.2,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   },
   "EMP0387": {
-    "score": 94.3,
-    "level": "Critical",
+    "score": 69.6,
+    "level": "High",
     "components": {
-      "privilege_score": 100,
-      "dormancy_score": 9.4,
-      "platform_spread_score": 100.0,
+      "privilege_score": 80,
+      "dormancy_score": 26.1,
+      "platform_spread_score": 75.0,
       "credential_score": 74.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0388": {
-    "score": 88.9,
-    "level": "Critical",
+    "score": 73.9,
+    "level": "High",
     "components": {
       "privilege_score": 80,
       "dormancy_score": 31.7,
       "platform_spread_score": 100.0,
       "credential_score": 55.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0389": {
-    "score": 58.4,
+    "score": 43.4,
     "level": "Medium",
     "components": {
       "privilege_score": 40,
@@ -6092,25 +6092,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 15.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0390": {
-    "score": 87.3,
-    "level": "Critical",
+    "score": 72.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 2.2,
       "platform_spread_score": 100.0,
       "credential_score": 19.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0391": {
-    "score": 51.6,
+    "score": 36.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6118,12 +6118,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0392": {
-    "score": 58.2,
+    "score": 43.2,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6131,25 +6131,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 81.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0393": {
-    "score": 77.8,
-    "level": "High",
+    "score": 41.8,
+    "level": "Medium",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 11.7,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 64.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0394": {
-    "score": 99.2,
+    "score": 84.2,
     "level": "Critical",
     "components": {
       "privilege_score": 100,
@@ -6157,12 +6157,12 @@
       "platform_spread_score": 100.0,
       "credential_score": 97.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0395": {
-    "score": 56.3,
+    "score": 41.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6170,25 +6170,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 21.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0396": {
-    "score": 89.4,
-    "level": "Critical",
+    "score": 42.7,
+    "level": "Medium",
     "components": {
-      "privilege_score": 100,
-      "dormancy_score": 9.4,
-      "platform_spread_score": 100.0,
+      "privilege_score": 20,
+      "dormancy_score": 35.6,
+      "platform_spread_score": 75.0,
       "credential_score": 25.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0397": {
-    "score": 57.8,
+    "score": 42.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6196,25 +6196,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 89.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0398": {
-    "score": 83.2,
-    "level": "Critical",
+    "score": 68.2,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 9.4,
       "platform_spread_score": 75.0,
       "credential_score": 13.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0399": {
-    "score": 53.9,
+    "score": 38.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6222,38 +6222,38 @@
       "platform_spread_score": 75.0,
       "credential_score": 18.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0400": {
-    "score": 85.3,
-    "level": "Critical",
+    "score": 70.3,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 21.1,
       "platform_spread_score": 50.0,
       "credential_score": 60.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 1
   },
   "EMP0401": {
-    "score": 82.6,
-    "level": "Critical",
+    "score": 67.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 11.1,
       "platform_spread_score": 75.0,
       "credential_score": 3.4,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0402": {
-    "score": 51.7,
+    "score": 36.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6261,12 +6261,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.3,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0403": {
-    "score": 54.3,
+    "score": 39.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6274,12 +6274,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 22.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0404": {
-    "score": 49.3,
+    "score": 34.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6287,12 +6287,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 22.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0405": {
-    "score": 77.3,
+    "score": 62.3,
     "level": "High",
     "components": {
       "privilege_score": 60,
@@ -6300,38 +6300,38 @@
       "platform_spread_score": 100.0,
       "credential_score": 19.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0406": {
-    "score": 40.9,
-    "level": "Medium",
+    "score": 25.9,
+    "level": "Low",
     "components": {
       "privilege_score": 20,
       "dormancy_score": 3.9,
       "platform_spread_score": 75.0,
       "credential_score": 21.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 0
   },
   "EMP0407": {
-    "score": 86.6,
-    "level": "Critical",
+    "score": 66.6,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 1.7,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 12.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0408": {
-    "score": 53.6,
+    "score": 38.6,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6339,12 +6339,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 26.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0409": {
-    "score": 54.3,
+    "score": 39.3,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6352,12 +6352,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0410": {
-    "score": 50.8,
+    "score": 35.8,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6365,17 +6365,17 @@
       "platform_spread_score": 75.0,
       "credential_score": 25.6,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0411": {
-    "score": 82.7,
-    "level": "Critical",
+    "score": 61.7,
+    "level": "High",
     "components": {
-      "privilege_score": 60,
+      "privilege_score": 20,
       "dormancy_score": 34.4,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 68.2,
       "offboarding_score": 0,
       "behavioral_boost": 25
@@ -6383,7 +6383,7 @@
     "flags_count": 1
   },
   "EMP0412": {
-    "score": 45.1,
+    "score": 30.1,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6391,12 +6391,12 @@
       "platform_spread_score": 50.0,
       "credential_score": 7.9,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0413": {
-    "score": 52.5,
+    "score": 37.5,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6404,12 +6404,12 @@
       "platform_spread_score": 75.0,
       "credential_score": 26.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0414": {
-    "score": 54.9,
+    "score": 39.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6417,25 +6417,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 24.2,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0415": {
-    "score": 71.4,
-    "level": "High",
+    "score": 56.4,
+    "level": "Medium",
     "components": {
       "privilege_score": 60,
       "dormancy_score": 2.8,
       "platform_spread_score": 100.0,
       "credential_score": 18.1,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0416": {
-    "score": 53.0,
+    "score": 38.0,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6443,25 +6443,25 @@
       "platform_spread_score": 0.0,
       "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0417": {
-    "score": 100,
-    "level": "Critical",
+    "score": 72.8,
+    "level": "High",
     "components": {
       "privilege_score": 100,
       "dormancy_score": 3.9,
-      "platform_spread_score": 100.0,
+      "platform_spread_score": 75.0,
       "credential_score": 70.5,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 2
+    "flags_count": 1
   },
   "EMP0418": {
-    "score": 50.7,
+    "score": 35.7,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6469,25 +6469,25 @@
       "platform_spread_score": 75.0,
       "credential_score": 17.7,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
     "flags_count": 0
   },
   "EMP0419": {
-    "score": 62.4,
-    "level": "High",
+    "score": 38.0,
+    "level": "Medium",
     "components": {
       "privilege_score": 20,
-      "dormancy_score": 28.3,
-      "platform_spread_score": 75.0,
-      "credential_score": 86.8,
+      "dormancy_score": 100,
+      "platform_spread_score": 0.0,
+      "credential_score": 0.0,
       "offboarding_score": 0,
-      "behavioral_boost": 25
+      "behavioral_boost": 10
     },
-    "flags_count": 1
+    "flags_count": 0
   },
   "EMP0420": {
-    "score": 46.9,
+    "score": 31.9,
     "level": "Medium",
     "components": {
       "privilege_score": 20,
@@ -6495,7 +6495,7 @@
       "platform_spread_score": 75.0,
       "credential_score": 63.6,
       "offboarding_score": 0,
-      "behavioral_boost": 15
+      "behavioral_boost": 0
     },
     "flags_count": 1
   }

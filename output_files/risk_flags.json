@@ -18,7 +18,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -27,7 +27,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -50,7 +50,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -59,7 +59,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4)",
       "platform": "multiple"
     }
   ],
@@ -75,7 +75,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -85,7 +85,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -94,7 +94,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4)",
       "platform": "multiple"
     }
   ],
@@ -103,7 +103,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4)",
       "platform": "multiple"
     }
   ],
@@ -113,7 +113,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -131,7 +131,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -141,7 +141,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -151,7 +151,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); OKTA admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); OKTA admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -160,7 +160,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4)",
       "platform": "multiple"
     }
   ],
@@ -176,7 +176,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AWS admin privilege (level 5); OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -193,7 +193,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); AWS admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -203,7 +203,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -213,7 +213,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -222,7 +222,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "AD admin privilege (level 4); Anomalous IP pattern detected",
+      "evidence": "AD admin privilege (level 4)",
       "platform": "multiple"
     }
   ],
@@ -238,7 +238,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -256,7 +256,7 @@
       "rule": "Service Account Abuse",
       "triggered": true,
       "severity": "Critical",
-      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5); Anomalous IP pattern detected",
+      "evidence": "OKTA admin privilege (level 5); SALESFORCE admin privilege (level 5)",
       "platform": "multiple"
     }
   ],
@@ -311,7 +311,15 @@
       "platform": "multiple"
     }
   ],
-  "CON005": [],
+  "CON005": [
+    {
+      "rule": "Offboarding Gap",
+      "triggered": true,
+      "severity": "High",
+      "evidence": "Account still Active on aws \u2014 terminated 2024-04-22",
+      "platform": "aws"
+    }
+  ],
   "CON006": [
     {
       "rule": "Old Credentials",
@@ -520,8 +528,8 @@
       "rule": "Offboarding Gap",
       "triggered": true,
       "severity": "High",
-      "evidence": "Account still Active on ad, salesforce \u2014 terminated 2024-06-30",
-      "platform": "ad, salesforce"
+      "evidence": "Account still Active on ad, aws, salesforce \u2014 terminated 2024-06-30",
+      "platform": "ad, aws, salesforce"
     },
     {
       "rule": "Dormant Admin",
@@ -612,8 +620,8 @@
       "rule": "Offboarding Gap",
       "triggered": true,
       "severity": "High",
-      "evidence": "Account still Active on ad \u2014 terminated 2024-08-14",
-      "platform": "ad"
+      "evidence": "Account still Active on ad, aws \u2014 terminated 2024-08-14",
+      "platform": "ad, aws"
     },
     {
       "rule": "Dormant Admin",
@@ -678,8 +686,8 @@
       "rule": "Offboarding Gap",
       "triggered": true,
       "severity": "High",
-      "evidence": "Account still Active on ad, okta, salesforce \u2014 terminated 2024-04-07",
-      "platform": "ad, okta, salesforce"
+      "evidence": "Account still Active on ad, aws, okta, salesforce \u2014 terminated 2024-04-07",
+      "platform": "ad, aws, okta, salesforce"
     }
   ],
   "EMP0011": [
@@ -751,8 +759,8 @@
       "rule": "Offboarding Gap",
       "triggered": true,
       "severity": "High",
-      "evidence": "Account still Active on ad \u2014 terminated 2024-05-13",
-      "platform": "ad"
+      "evidence": "Account still Active on ad, aws \u2014 terminated 2024-05-13",
+      "platform": "ad, aws"
     },
     {
       "rule": "Dormant Admin",
@@ -1007,15 +1015,7 @@
   "EMP0084": [],
   "EMP0085": [],
   "EMP0086": [],
-  "EMP0087": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 701 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0087": [],
   "EMP0088": [],
   "EMP0089": [],
   "EMP0090": [],
@@ -1131,15 +1131,7 @@
       "platform": "multiple"
     }
   ],
-  "EMP0131": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 703 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0131": [],
   "EMP0132": [],
   "EMP0133": [],
   "EMP0134": [
@@ -1264,15 +1256,7 @@
   "EMP0173": [],
   "EMP0174": [],
   "EMP0175": [],
-  "EMP0176": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 457 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0176": [],
   "EMP0177": [
     {
       "rule": "Old Credentials",
@@ -1282,16 +1266,16 @@
       "platform": "multiple"
     }
   ],
-  "EMP0178": [
+  "EMP0178": [],
+  "EMP0179": [
     {
-      "rule": "Cross-Platform Admin",
+      "rule": "Old Credentials",
       "triggered": true,
-      "severity": "Critical",
-      "evidence": "Critical admin on 3 platforms: AWS, OKTA, SALESFORCE \u2014 blast radius review required",
-      "platform": "AWS, OKTA, SALESFORCE"
+      "severity": "Medium",
+      "evidence": "AWS access key 665 days old",
+      "platform": "multiple"
     }
   ],
-  "EMP0179": [],
   "EMP0180": [],
   "EMP0181": [],
   "EMP0182": [],
@@ -1378,13 +1362,6 @@
   "EMP0215": [],
   "EMP0216": [
     {
-      "rule": "Cross-Platform Admin",
-      "triggered": true,
-      "severity": "Critical",
-      "evidence": "Critical admin on 3 platforms: AWS, OKTA, SALESFORCE \u2014 blast radius review required",
-      "platform": "AWS, OKTA, SALESFORCE"
-    },
-    {
       "rule": "Old Credentials",
       "triggered": true,
       "severity": "Medium",
@@ -1428,15 +1405,7 @@
     }
   ],
   "EMP0228": [],
-  "EMP0229": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 494 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0229": [],
   "EMP0230": [],
   "EMP0231": [],
   "EMP0232": [
@@ -1450,13 +1419,6 @@
   ],
   "EMP0233": [],
   "EMP0234": [
-    {
-      "rule": "Cross-Platform Admin",
-      "triggered": true,
-      "severity": "Critical",
-      "evidence": "Critical admin on 3 platforms: AWS, OKTA, SALESFORCE \u2014 blast radius review required",
-      "platform": "AWS, OKTA, SALESFORCE"
-    },
     {
       "rule": "Old Credentials",
       "triggered": true,
@@ -1706,15 +1668,7 @@
     }
   ],
   "EMP0299": [],
-  "EMP0300": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 709 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0300": [],
   "EMP0301": [
     {
       "rule": "Old Credentials",
@@ -1791,7 +1745,7 @@
       "rule": "Old Credentials",
       "triggered": true,
       "severity": "Medium",
-      "evidence": "AWS access key 665 days old; SALESFORCE API token 719 days old",
+      "evidence": "SALESFORCE API token 719 days old",
       "platform": "multiple"
     }
   ],
@@ -1828,10 +1782,26 @@
   "EMP0323": [],
   "EMP0324": [],
   "EMP0325": [],
-  "EMP0326": [],
+  "EMP0326": [
+    {
+      "rule": "Old Credentials",
+      "triggered": true,
+      "severity": "Medium",
+      "evidence": "AWS access key 416 days old",
+      "platform": "multiple"
+    }
+  ],
   "EMP0327": [],
   "EMP0328": [],
-  "EMP0329": [],
+  "EMP0329": [
+    {
+      "rule": "Old Credentials",
+      "triggered": true,
+      "severity": "Medium",
+      "evidence": "AD API token 634 days old",
+      "platform": "multiple"
+    }
+  ],
   "EMP0330": [],
   "EMP0331": [],
   "EMP0332": [],
@@ -1942,15 +1912,7 @@
     }
   ],
   "EMP0359": [],
-  "EMP0360": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AWS access key 416 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0360": [],
   "EMP0361": [],
   "EMP0362": [],
   "EMP0363": [],
@@ -2105,13 +2067,6 @@
   "EMP0416": [],
   "EMP0417": [
     {
-      "rule": "Cross-Platform Admin",
-      "triggered": true,
-      "severity": "Critical",
-      "evidence": "Critical admin on 3 platforms: AWS, OKTA, SALESFORCE \u2014 blast radius review required",
-      "platform": "AWS, OKTA, SALESFORCE"
-    },
-    {
       "rule": "Old Credentials",
       "triggered": true,
       "severity": "Medium",
@@ -2120,15 +2075,7 @@
     }
   ],
   "EMP0418": [],
-  "EMP0419": [
-    {
-      "rule": "Old Credentials",
-      "triggered": true,
-      "severity": "Medium",
-      "evidence": "AD API token 634 days old",
-      "platform": "multiple"
-    }
-  ],
+  "EMP0419": [],
   "EMP0420": [
     {
       "rule": "Old Credentials",

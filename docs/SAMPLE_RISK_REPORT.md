@@ -26,7 +26,6 @@
 - SALESFORCE: SystemAdmin (effective level 5, inherited via SF_Admins (direct: SystemAdmin))
 - Old Credentials: AWS access key 431 days old
 - Contractor Admin: OKTA effective privilege level 5; SALESFORCE effective privilege level 5
-- Behavioral: IP usage anomaly (52 unique IPs, dominant ratio 0.06)
 
 ### Cross-Platform Access Footprint
 
@@ -42,16 +41,15 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 52
+- Unique IPs: 1
 - Activity Spike: No
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 9%
 
 ### Recommended Remediation Actions
 
 1. [CREDENTIALS] Rotate access key for AWS 'c_sanderson' — 431 days old
 1. [CONTRACTOR] Escalate for manager review: contractor 'Scarlett Anderson' holds elevated privileges. Verify scope and document justification.
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 
 ---
 
@@ -77,7 +75,6 @@
 - Cross-Platform Admin: Critical admin on 3 platforms: AWS, OKTA, SALESFORCE — blast radius review required
 - Contractor Admin: AWS effective privilege level 5; OKTA effective privilege level 5; SALESFORCE effective privilege level 5
 - Behavioral: Admin action spike detected (0 actions in 30 days)
-- Behavioral: IP usage anomaly (70 unique IPs, dominant ratio 0.04)
 
 ### Cross-Platform Access Footprint
 
@@ -93,16 +90,15 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 70
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 17%
 
 ### Recommended Remediation Actions
 
 1. [PRIVILEGE REVIEW] Review admin necessity on AWS, OKTA, SALESFORCE. Consider reducing to least-privilege on at least one platform. Document business justification.
 1. [CONTRACTOR] Escalate for manager review: contractor 'Jonathan Cox' holds elevated privileges. Verify scope and document justification.
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -126,7 +122,6 @@
 - SALESFORCE: SystemAdmin (effective level 5, inherited via SF_Admins (direct: SystemAdmin))
 - Contractor Admin: SALESFORCE effective privilege level 5
 - Behavioral: Admin action spike detected (0 actions in 30 days)
-- Behavioral: IP usage anomaly (59 unique IPs, dominant ratio 0.04)
 
 ### Cross-Platform Access Footprint
 
@@ -142,15 +137,14 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 59
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 19%
 
 ### Recommended Remediation Actions
 
 1. [CONTRACTOR] Escalate for manager review: contractor 'Kimberly Scott' holds elevated privileges. Verify scope and document justification.
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -177,7 +171,6 @@
 - Cross-Platform Admin: Critical admin on 3 platforms: AWS, OKTA, SALESFORCE — blast radius review required
 - Contractor Admin: AWS effective privilege level 5; OKTA effective privilege level 5; SALESFORCE effective privilege level 5
 - Behavioral: Admin action spike detected (2 actions in 30 days)
-- Behavioral: IP usage anomaly (85 unique IPs, dominant ratio 0.03)
 
 ### Cross-Platform Access Footprint
 
@@ -193,16 +186,15 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 2
-- Unique IPs: 85
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 18%
 
 ### Recommended Remediation Actions
 
 1. [PRIVILEGE REVIEW] Review admin necessity on AWS, OKTA, SALESFORCE. Consider reducing to least-privilege on at least one platform. Document business justification.
 1. [CONTRACTOR] Escalate for manager review: contractor 'Zoey Lee' holds elevated privileges. Verify scope and document justification.
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -228,7 +220,6 @@
 - Offboarding Gap: Account still Active on ad, salesforce — terminated 2024-06-30
 - Dormant Admin: AD admin inactive 337 days; SALESFORCE admin inactive 386 days
 - Behavioral: Admin action spike detected (0 actions in 30 days)
-- Behavioral: IP usage anomaly (69 unique IPs, dominant ratio 0.04)
 - Dormancy: 337 days since last login on AD
 - Dormancy: 386 days since last login on SALESFORCE
 
@@ -244,9 +235,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 69
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 19%
 
 ### Recommended Remediation Actions
@@ -255,7 +246,6 @@
 1. [OFFBOARDING] Disable SALESFORCE account 'joseph_james_sf' — terminated 2024-06-30, still Active
 1. [DORMANCY] Disable or re-certify AD admin 'joseph.james' — inactive 337 days
 1. [DORMANCY] Disable or re-certify SALESFORCE admin 'joseph_james_sf' — inactive 386 days
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -284,7 +274,6 @@
 - Cross-Platform Admin: Critical admin on 4 platforms: AD, AWS, OKTA, SALESFORCE — blast radius review required
 - Dormant Admin: AD admin inactive 246 days; AWS admin inactive 353 days; OKTA admin inactive 202 days
 - Behavioral: Admin action spike detected (0 actions in 30 days)
-- Behavioral: IP usage anomaly (62 unique IPs, dominant ratio 0.03)
 - Dormancy: 246 days since last login on AD
 - Dormancy: 353 days since last login on AWS
 - Dormancy: 202 days since last login on OKTA
@@ -303,9 +292,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 62
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 16%
 
 ### Recommended Remediation Actions
@@ -318,7 +307,6 @@
 1. [DORMANCY] Disable or re-certify AWS admin 'jreyes' — inactive 353 days
 1. [DORMANCY] Disable or re-certify OKTA admin 'jeffrey.reyes@company.com' — inactive 202 days
 1. [DORMANCY] Disable or re-certify SALESFORCE admin 'jeffrey_reyes_sf' — inactive 372 days
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -346,7 +334,6 @@
 - Cross-Platform Admin: Critical admin on 3 platforms: AD, AWS, OKTA — blast radius review required
 - Dormant Admin: AD admin inactive 177 days; AWS admin inactive 388 days
 - Old Credentials: AD API token 704 days old
-- Behavioral: IP usage anomaly (58 unique IPs, dominant ratio 0.04)
 - Dormancy: 177 days since last login on AD
 - Dormancy: 388 days since last login on AWS
 
@@ -364,9 +351,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 58
+- Unique IPs: 1
 - Activity Spike: No
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 23%
 
 ### Recommended Remediation Actions
@@ -378,7 +365,6 @@
 1. [DORMANCY] Disable or re-certify AWS admin 'lbaker' — inactive 388 days
 1. [DORMANCY] Disable or re-certify OKTA admin 'lily.baker@company.com' — inactive 380 days
 1. [CREDENTIALS] Rotate API token for AD 'lily.baker' — 704 days old (exceeds 365-day policy)
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 
 ---
 
@@ -406,7 +392,6 @@
 - Cross-Platform Admin: Critical admin on 4 platforms: AD, AWS, OKTA, SALESFORCE — blast radius review required
 - Dormant Admin: AD admin inactive 334 days
 - Behavioral: Admin action spike detected (0 actions in 30 days)
-- Behavioral: IP usage anomaly (66 unique IPs, dominant ratio 0.04)
 - Dormancy: 334 days since last login on AD
 
 ### Cross-Platform Access Footprint
@@ -423,9 +408,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 66
+- Unique IPs: 1
 - Activity Spike: Yes
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 16%
 
 ### Recommended Remediation Actions
@@ -436,7 +421,6 @@
 1. [DORMANCY] Disable or re-certify AWS admin 'ledwards' — inactive 188 days
 1. [DORMANCY] Disable or re-certify OKTA admin 'larry.edwards@company.com' — inactive 146 days
 1. [DORMANCY] Disable or re-certify SALESFORCE admin 'larry_edwards_sf' — inactive 120 days
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 1. [BEHAVIORAL] Review recent admin action spike — confirm authorized activity or investigate potential compromise
 
 ---
@@ -464,7 +448,6 @@
 - Offboarding Gap: Account still Active on ad, aws — terminated 2024-02-17
 - Cross-Platform Admin: Critical admin on 3 platforms: AWS, OKTA, SALESFORCE — blast radius review required
 - Dormant Admin: AD admin inactive 144 days; AWS admin inactive 129 days
-- Behavioral: IP usage anomaly (36 unique IPs, dominant ratio 0.06)
 - Dormancy: 144 days since last login on AD
 - Dormancy: 129 days since last login on AWS
 
@@ -482,9 +465,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 36
+- Unique IPs: 1
 - Activity Spike: No
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 17%
 
 ### Recommended Remediation Actions
@@ -496,7 +479,6 @@
 1. [DORMANCY] Disable or re-certify AWS admin 'wwood' — inactive 129 days
 1. [DORMANCY] Disable or re-certify OKTA admin 'william.wood@company.com' — inactive 361 days
 1. [DORMANCY] Disable or re-certify SALESFORCE admin 'william_wood_sf' — inactive 332 days
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 
 ---
 
@@ -520,7 +502,6 @@
 - OKTA: SuperAdmin (effective level 5, inherited via Okta_SuperAdmins (direct: SuperAdmin))
 - Offboarding Gap: Account still Active on ad, okta — terminated 2024-06-09
 - Dormant Admin: AD admin inactive 241 days; OKTA admin inactive 149 days
-- Behavioral: IP usage anomaly (55 unique IPs, dominant ratio 0.04)
 - Dormancy: 241 days since last login on AD
 - Dormancy: 149 days since last login on OKTA
 
@@ -538,9 +519,9 @@
 - Days Since Login: N/A
 - Platforms Active (30d): N/A
 - Admin Actions (30d): 0
-- Unique IPs: 55
+- Unique IPs: 1
 - Activity Spike: No
-- IP Anomaly: Yes
+- IP Anomaly: No
 - After-Hours Ratio: 18%
 
 ### Recommended Remediation Actions
@@ -549,7 +530,6 @@
 1. [OFFBOARDING] Disable OKTA account 'patricia.howard@company.com' — terminated 2024-06-09, still Active
 1. [DORMANCY] Disable or re-certify AD admin 'patricia.howard' — inactive 241 days
 1. [DORMANCY] Disable or re-certify OKTA admin 'patricia.howard@company.com' — inactive 149 days
-1. [BEHAVIORAL] Investigate anomalous IP pattern — verify with identity owner or consider credential rotation
 
 ---
 

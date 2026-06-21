@@ -199,7 +199,7 @@ def analyze_behavior(identity_id, audit_events, platform_accounts):
     platforms_from_events = set(e['platform'] for e in events)
     
     # Last login (days ago from reference date)
-    reference_date = datetime(2024, 6, 21)
+    reference_date = datetime(2024, 6, 21, 23, 59, 59)
     last_event_time = datetime.strptime(events[-1]['timestamp'], '%Y-%m-%d %H:%M:%S')
     last_login_days = (reference_date - last_event_time).days
     
@@ -221,9 +221,9 @@ def analyze_behavior(identity_id, audit_events, platform_accounts):
     dominant_ip_count = max(ip_counts.values()) if ip_counts else 0
     dominant_ip_ratio = dominant_ip_count / total_events if total_events > 0 else 0
     
-    # Anomalous IP flag: dominant IP < 70% AND at least one IP < 10%
+    # Anomalous IP flag: dominant IP > 70% AND at least one IP < 10%
     ip_ratios = [c / total_events for c in ip_counts.values()]
-    anomalous_ip = dominant_ip_ratio < 0.7 and any(r < 0.1 for r in ip_ratios) and unique_ips > 2
+    anomalous_ip = dominant_ip_ratio > 0.7 and any(r < 0.1 for r in ip_ratios) and unique_ips > 2
     
     # Activity spike: 3+ AdminAction within any 5-day window
     admin_events_sorted = sorted(admin_actions_total, key=lambda x: x['timestamp'])
